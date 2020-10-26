@@ -1,0 +1,20 @@
+<div class="row">
+  <div class="column">
+    <img src="/assets/lazy/lazy.png" data-echo="{{ include.img1 }}" width="100%">
+  </div>
+  <div class="column">
+    <img src="/assets/lazy/lazy.png" data-echo="{{ include.img2 }}" width="100%">
+  </div>
+</div>
+
+{% if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+{% endif %}
+{% if include.caption1 %}
+  <figcaption>1. {{ include.caption1 }}</figcaption>
+{% endif %}
+
+{% if include.caption2 %}
+  <figcaption>1. {{ include.caption2 }}</figcaption>
+{% endif %}
+<br>
