@@ -17,6 +17,7 @@ Inspired by [Lawrence](https://www.wawrencelu.com/).
     </a>
     <h4>{{ p.date }}</h4>
     <p>{{ p.content }}</p>
+    {% endif %}
     {% if p.tag == "monthly" %}
     <a href="{{ p.url }}">
       <h2>{{ p.title }}</h2>
