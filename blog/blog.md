@@ -66,4 +66,4 @@ Longer stories from my undergrad.
 
 ### Weekly Blog Posts
 
-[Weekly Posts](/weekly)
+[Weekly Posts](/monthly)
