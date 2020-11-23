@@ -70,6 +70,9 @@ rss-description: RSS Description
 
 # --- General options --- #
 
+# Sitemap creation
+url: https://jonathantsang.github.io
+
 # Select which social network share links to show in posts
 share-links-active:
   linkedin: true
