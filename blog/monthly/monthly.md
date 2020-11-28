@@ -10,7 +10,7 @@ permalink: /monthly/
 Inspired by [Lawrence](https://www.wawrencelu.com/).
 
 <ol>
-{% assign sorted_pages = site.pages | sort: 'date' | reverse %}
+{% assign sorted_pages = site.pages | sort: 'date' %}
   {% for p in sorted_pages %}
     {% if p.tag == "monthly" %}
     <a href="{{ p.url }}">

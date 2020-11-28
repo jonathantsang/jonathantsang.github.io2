@@ -64,6 +64,6 @@ Longer stories from my undergrad.
   {% endfor %}
 </ol>
 
-### Weekly Blog Posts
+### Monthly Link Blog Posts
 
-[Weekly Posts](/monthly)
+[Monthly Posts](/monthly)
