@@ -20,5 +20,6 @@ Ice cream flavours I have tried and ratings of each one.
 
 
 ## Molly Moon:
+- Salted Caramel 6/10
 - Sasquath 3/10
-- Pie-Den Kama La Mode: 5/10
+- Pie-Den Kama La Mode 5/10
