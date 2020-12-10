@@ -226,6 +226,10 @@ Bruce was in incredible pain after losing Rachel. He had felt his motivation to 
 
 This movie is meme gold but lackluster in other areas. Bane is decent as a villain as is Talia but I think the movie is just decent.
 
+<img src="/blog/general/12/dkr/dkr11.png" />
+
+<img src="/blog/general/12/dkr/dkr12.png" />
+
 ### Rising... A lot of Rising
 
 <img src="/blog/general/12/dkr/dkr2.png" />
