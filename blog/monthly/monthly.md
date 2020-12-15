@@ -7,10 +7,10 @@ permalink: /monthly/
 
 {% include extras.html %}
 
-Inspired by [Lawrence](https://www.wawrencelu.com/).
+Inspired by [Lawrence](https://www.wawrencelu.com/) on [binarysearch.com](https://www.binarysearch.com).
 
 <ol>
-{% assign sorted_pages = site.pages | sort: 'date' %}
+{% assign sorted_pages = site.pages | sort: 'date' | reverse %}
   {% for p in sorted_pages %}
     {% if p.tag == "monthly" %}
     <a href="{{ p.url }}">
