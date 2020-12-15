@@ -30,13 +30,15 @@ This is a short post on what I found were the best albums this year. This year h
 
 <img src="/blog/general/17/tsr.jpg" width="50%" height="50%"/>
 
-**Genre:** Psychedelic pop, Soft rock, Electronic, Synth Pop, Disco
+**Genre:** Psychedelic pop, Soft rock, Electronic, Synth Pop
 
-Rooted in psychedelic disco music, the album is soft rock and about what you can expect from Tame Impala in crooning, psychelic sounds, and moody undertones. It's a good album that has high points as well as low points that are a bit forgettable.
+Rooted in psychedelic disco music, the album is soft rock and about what you can expect from Tame Impala in crooning, psychelic sounds, and moody undertones. Listening to Tame Impala always feels introspective and exude lonerism. It glances at our lives at a different perspective only more strongly brought upon with the deep psychedelic sounds.
+
+It's a good album that has high points as well as low points that are a bit forgettable. Posthumous Forgiveness is my favourite track from the album.
 
 **Score:** 5.5/10
 
-**Best tracks:** Posthumunous Forgiveness, Borderline, Instant Destiny
+**Best tracks:** Posthumous Forgiveness, Borderline, Instant Destiny
 
 **Worst tracks:** Breathe Deeper, Tomorrow's Dust
 
