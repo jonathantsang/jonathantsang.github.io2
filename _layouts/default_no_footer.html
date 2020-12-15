@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: base_no_footer
 ---
 
 <div class="intro-header"></div>
@@ -16,14 +16,6 @@ layout: base
   <div role="main" class="container">
     {{ content }}
   </div>
-
-  {% if page.after-content %}
-    <div class="after-content">
-      {% for file in page.after-content %}
-        {% include {{ file }} %}
-      {% endfor %}
-    </div>
-  {% endif %}
 
   {% include lazyload.html %}
 

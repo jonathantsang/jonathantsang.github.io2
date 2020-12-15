@@ -1,7 +1,6 @@
 ---
-layout: default1
+layout: default_no_footer
 ---
-<html>
 <style>
 div.img {
     border: 1px solid #ccc;
@@ -28,7 +27,7 @@ div.desc {
 .responsive {
     padding: 0 6px;
     float: left;
-    width: 49.99999%;
+    width: 32.99999%;
 }
 
 @media only screen and (max-width: 700px){
