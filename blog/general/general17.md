@@ -9,13 +9,17 @@ order: 17
 finished: true
 ---
 
+**Note**: I released this on Dec 13th and I didn't realize Taylor Swift and Kid Cudi dropped records in the last ~3 weeks of 2020 (Both on Dec 11th). I will amend the list once I give them a listen.
+
 This is a short post on what I found were the best albums this year. This year had a little less releases compared to 2019 but still had some standouts. After writing this list and reflecting, I realized there is a lot of electronic-based albums (3 of top 5). I didn't plan it out this way but there really wasn't any compelling rap albums (which is my main genre) released recently. I wasn't able to listen to every album release this year but I listened to a fair amount.
 
 **Other Albums from 2020:**
-- Wonder (Shawn Menendes)
+- Wonder (Shawn Mendes)
 - Eternal Atake (Lil Uzi Vert)
 - Allegory (Royce Da 5'9")
 - Blame it on Baby (Da Baby)
+- evermore (Taylor Swift)
+- Man on the Moon III (Kid Cudi)
 
 **Honourable Mentions:**
 - After Hours (The Weeknd)
