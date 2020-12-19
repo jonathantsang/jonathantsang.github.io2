@@ -18,13 +18,12 @@ This is a short post on what I found were the best albums this year. This year h
 - Eternal Atake (Lil Uzi Vert)
 - Allegory (Royce Da 5'9")
 - Blame it on Baby (Da Baby)
-- evermore (Taylor Swift)
 - Man on the Moon III (Kid Cudi)
-
-**Honourable Mentions:**
-- After Hours (The Weeknd)
 - No Pressure (Logic)
 
+**Honourable Mentions:**
+- evermore (Taylor Swift)
+- After Hours (The Weeknd)
 
 ### 5. The Slow Rush - Tame Impala 
 
@@ -36,7 +35,7 @@ Rooted in psychedelic disco music, the album is soft rock and about what you can
 
 It's a good album that has high points as well as low points that are a bit forgettable. Posthumous Forgiveness is my favourite track from the album.
 
-**Score:** 5.5/10
+**Score:** 6/10
 
 **Best tracks:** Posthumous Forgiveness, Borderline, Instant Destiny
 
@@ -109,3 +108,7 @@ I didn't quite know what to expect when first listening to this album. What we g
 **Best tracks:** Ode to the Mets, At the door, Selfless, Brooklyn Bridge to the Chrous
 
 **Worst tracks:** none
+
+**My Top 5 Tracks of 2020: (no order)** Betty, Posthumous Forgiveness, Ode to the Mets, Faith, Physical
+
+**Top Tracks (Honourable Mentions, no order):** Champagne Problems, Exile, Brooklyn Bridge to the Chrous, Love Again, Break My Heart, Don't Start Now, I HATE EVERYBODY, 929, Rockstar, In Your Eyes, Blinding Lights, 305
