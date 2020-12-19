@@ -27,7 +27,7 @@ This is a short post on what I found were the best albums this year. This year h
 
 ### 5. After Hours - The Weeknd
 
-<img src="/blog/general/17/ah.jpg" width="300px" height="30px"/>
+<img src="/blog/general/17/ah.jpg" width="300px" height="300px"/>
 
 **Genre:** R&B, Dream pop, Psychedelic pop, Synth Pop
 
