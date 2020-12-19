@@ -29,7 +29,7 @@ This is a short post on what I found were the best albums this year. This year h
 
 <img src="/blog/general/17/ah.jpg" width="300px" height="300px"/>
 
-**Genre:** R&B, Dream pop, Psychedelic pop, Synth Pop
+**Genre:** R&B, Psychedelic pop
 
 I will admit I haven't delved deep into The Weeknd's discography. This album was a decent foray into the pop sounds mixed with darker themes brought upon the "After Hours" name of hedonism. It incorporates ideas of "being unable to be loved" and "promiscuity, overindulgence, and self-loathing".
 
