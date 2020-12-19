@@ -23,23 +23,21 @@ This is a short post on what I found were the best albums this year. This year h
 
 **Honourable Mentions:**
 - evermore (Taylor Swift)
-- After Hours (The Weeknd)
+- The Slow Rush (Tame Impala)
 
-### 5. The Slow Rush - Tame Impala 
+### 5. After Hours - The Weeknd
 
-<img src="/blog/general/17/tsr.jpg" width="50%" height="50%"/>
+<img src="/blog/general/17/ah.jpg" width="300px" height="30px"/>
 
-**Genre:** Psychedelic pop, Soft rock, Electronic, Synth Pop
+**Genre:** R&B, Dream pop, Psychedelic pop, Synth Pop
 
-Rooted in psychedelic disco music, the album is soft rock and about what you can expect from Tame Impala in crooning, psychelic sounds, and moody undertones. Listening to Tame Impala always feels introspective and exude lonerism. It glances at our lives at a different perspective only more strongly brought upon with the deep psychedelic sounds.
-
-It's a good album that has high points as well as low points that are a bit forgettable. Posthumous Forgiveness is my favourite track from the album.
+I will admit I haven't delved deep into The Weeknd's discography. This album was a decent foray into the pop sounds mixed with darker themes brought upon the "After Hours" name of hedonism. It incorporates ideas of "being unable to be loved" and "promiscuity, overindulgence, and self-loathing".
 
 **Score:** 6/10
 
-**Best tracks:** Posthumous Forgiveness, Borderline, Instant Destiny
+**Best tracks:** Faith, In your Eyes, Blinding Lights, Snowchild, Hardest to Love, Scared to Love, Save your Tears
 
-**Worst tracks:** Breathe Deeper, Tomorrow's Dust
+**Worst tracks:** Too Late
 
 ### 4. Manic - Halsey
 

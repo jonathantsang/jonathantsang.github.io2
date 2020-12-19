@@ -6,7 +6,7 @@ category: general
 tag: general
 date: 13/12/2020
 order: 18
-finished: true
+finished: false
 ---
 
 Super late list but after making the 2020 list I wanted to make one for 2019.
