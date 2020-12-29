@@ -16,13 +16,6 @@ Got a verified annotation from Logic.
 
 <img src="/hobbies/pictures/logic.png" />
 
-Official annotations on albums:
-- Logic, Under Pressure
-- Eminem, ShadyXV
-- Joey Bada$$\$\$$$, All-Amerikkkan Bada$$\$\$$$
-- Flatbush Zombies, BetterOffDEAD
-- Kids These Days, Traphouse Rock
-
 ### Super Smash Brothers Melee
 
 I used to play a lot of Melee. I had one vod of me playing in pools at a tournament back in 2015.
