@@ -66,7 +66,7 @@ It could almost be described as melodramatic with songs like "I HATE EVERYBODY".
 
 **Genre:** Dance, Pop, Disco
 
-The spacious synth heavy album drips of pop infused with electronic influences. Atmospheric spacey and the first album I think of when I heard the intro was "Nightcall" by Kavinsky. The album feels like a drive in the dark down a highway only illuminated by the moonlight. It embodies a lot of the electronic sounds to fuse pop and disco sounds that creates an aesthetic that is pretty appealing.
+The spacious synth heavy album drips of pop infused with electronic influences. Atmospheric spacey and the first song I think of when I heard the intro was "Nightcall" by Kavinsky. The album feels like a drive in the dark down a highway only illuminated by the moonlight. It embodies a lot of the electronic sounds to fuse pop and disco sounds that creates an aesthetic that is pretty appealing.
 
 I have to dedicate time to talk about the legendary sample of Lew Stone & the Monseigneur Band feat. Al Bowlly and their song "My Woman" on the song "Love Again". The last time I heard that melancholy trumpet sound being sampled was White Town on their song "Your Woman".
 
