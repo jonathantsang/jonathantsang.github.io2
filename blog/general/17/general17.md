@@ -86,11 +86,11 @@ The album has a great first half but slowly falls off near the end. Luckily the 
 
 Taylor Swift follows up her 2019 album Lover, her most upbeat album largely centered around joyous pop, to Folklore her most dark and depressing album to date. Lover was a large directional change towards pop as opposed to a lot of her previous music which had a majority of country with pop influence.
 
-Folklore is bare and minimalistic at times. Songs like betty feel barebones only really putting spotlight on the guitar and vocals. It's hard to ignore some of Lana Del Rey's influences on songs like "cardigan" with the existential dread, heavy breathing, and moody swings. It's not a bad thing but it almost feels like an one-off song on the album despite the other tones on other songs.
+Folklore is bare and minimalistic at times. Songs like "betty" feel barebones only really putting spotlight on the guitar and vocals. It's hard to ignore some of Lana Del Rey's influences on songs like "cardigan" with the existential dread, heavy breathing, and moody swings. It's not a bad thing but it almost feels like an one-off song on the album despite the other tones on other songs.
 
-This album is also a good recommendation since I dont't think these songs are going to have the same pop appeal and catchy single frenzy seen in previous Taylor Swift album songs. I still really enjoyed the album in a different way from "Future Nostalgia" but liked what it provided.
+This album is also a good recommendation since I dont't think these songs are going to have the same pop appeal and catchy single frenzy seen in previous Taylor Swift album songs. (with maybe the exception of "exile") I still really enjoyed the album in a different way from "Future Nostalgia" but liked what it provided.
 
-"folklore" and "evermore" are sister albums from Taylor that were both released in 2020. They both brough similar songs, genres and stories in a lot of the songs. Taylor said evermore is described as "fall and winter" seasons while folklore is said to be "spring and summer". I found folklore to be more complete of an album and better of the two.
+"folklore" and "evermore" are sister albums from Taylor that were both released in 2020. They both brough similar songs, genres and stories in a lot of the songs. Taylor said evermore is described as "fall and winter" seasons while folklore is said to be "spring and summer". I found folklore to be more complete of an album and the better of the two.
 
 **Score:** 7.5/10
 
@@ -116,7 +116,12 @@ I didn't quite know what to expect when first listening to this album. What we g
 
 ## Overall
 
-**My Top 5 Tracks of 2020: (no order)** Betty, Ode to the Mets, Faith, Physical, In Your Eyes
+**My Top 5 Tracks of 2020: (no order)** 
+- Betty (Taylor Swift)
+- Ode to the Mets (The Strokes)
+- Faith (The Weeknd)
+- Physical (Dua Lipa)
+- In Your Eyes (The Weeknd)
 
 **Top Tracks Honourable Mentions (no order):** 
 
