@@ -28,7 +28,7 @@ This is a short post on what I found were the best albums this year. This year h
 
 ### 5. After Hours - The Weeknd
 
-<img src="/blog/general/17/ah.jpg" width="300px" height="300px"/>
+<img src="/blog/general/17/ah.jpg" width="450px" height="450px"/>
 
 **Genre:** R&B, Psychedelic pop
 
@@ -44,11 +44,11 @@ Songs like "Snowchild" and "Faith" are chilling to listen to while "In Your Eyes
 
 ### 4. Manic - Halsey
 
-<img src="/blog/general/17/m.png" />
+<img src="/blog/general/17/m.jpg" width="450px" height="450px"/>
 
 **Genre:** Alternative
 
-This album probably flew under most people's radars. It just barely makes it into 2020 being released on January 17, 2020. (Which contrasts Roddy Rich's "Please Excuse me for being Antisocial" which barely didn't make the cut, being released on December 6, 2019)
+This album probably flew under most people's radars. It just barely makes it into 2020 being released on January 17, 2020. (Which contrasts Roddy Ricch's "Please Excuse me for being Antisocial" which barely didn't make the cut, being released on December 6, 2019)
 
 The album is a cohesive mess. Staying true to the album's title it is manic and anything but calming. That being said it plays to its strengths and follows the theme with a fairly straightforward theme of "being yourself" whatever that may be. This album feels like a revelation to the people who feel they don't fit into a clean niche.
 
@@ -62,7 +62,7 @@ It could almost be described as melodramatic with songs like "I HATE EVERYBODY".
 
 ### 3. Future Nostalgia - Dua Lipa
 
-<img src="/blog/general/17/fn.png" />
+<img src="/blog/general/17/fn.jpg" width="450px" height="450px"/>
 
 **Genre:** Dance, Pop, Disco
 
@@ -80,7 +80,7 @@ The album has a great first half but slowly falls off near the end. Luckily the 
 
 ### 2. Folklore - Taylor Swift
 
-<img src="/blog/general/17/f.png" />
+<img src="/blog/general/17/f.jpg" width="450px" height="450px"/>
 
 **Genres:** Pop, Folktronica, Alternative rock, Indie folk
 
@@ -100,7 +100,7 @@ This album is also a good recommendation since I dont't think these songs are go
 
 ### 1. The New Abnormal - The Strokes
 
-<img src="/blog/general/17/tna.png" />
+<img src="/blog/general/17/tna.jpeg" width="450px" height="450px"/>
 
 **Genre:** Alternative/Indie (Rock), Synth Pop
 

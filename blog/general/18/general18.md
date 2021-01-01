@@ -24,7 +24,7 @@ Super late list but after making the 2020 list I wanted to make one for 2019. Th
 
 ### 5. Please excuse me for being antisocial - Roddy Rich
 
-<img src="/blog/general/18/antisocial.jpg" width="450px" height="450px"/>
+<img src="/blog/general/17/ah.jpg" width="300px" height="300px"/>
 
 **Genre:** Hip hop, Trap
 
@@ -40,7 +40,7 @@ I actually didn't like "The Box", the album's single that much.
 
 ### 4. Igor - Tyler the Creator
 
-<img src="/blog/general/18/igor.jpg" width="450px" height="450px"/>
+<img src="/blog/general/17/m.png" />
 
 **Genre:** Alternative
 
@@ -54,7 +54,7 @@ This album needs to be listened to front to back. I don't see it making sense ot
 
 ### 3. When We All Fall Asleep, Where Do We Go? - Billie Ellish
 
-<img src="/blog/general/18/wwgtswdwg.jpg" width="450px" height="450px"/>
+<img src="/blog/general/17/wwafawdwg.png" />
 
 **Genre:** Alternative
 
@@ -67,7 +67,7 @@ This album needs to be listened to front to back. I don't see it making sense ot
 
 ### 2. Father of the Bride - Vampire Weekend
 
-<img src="/blog/general/18/fotb.jpg" width="450px" height="450px"/>
+<img src="/blog/general/17/f.png" />
 
 **Genres:** Alternative
 
@@ -83,7 +83,7 @@ Focused around matrimony, love, heartbreak, and promiscuity, the album is an alb
 
 ### 1. Norman Fucking Rockwell - Lana Del Rey
 
-<img src="/blog/general/18/nfr.jpg" width="450px" height="450px"/>
+<img src="/blog/general/18/nfr.png" />
 
 **Genre:** Pop
 
