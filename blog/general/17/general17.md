@@ -90,7 +90,7 @@ Folklore is bare and minimalistic at times. Songs like "betty" feel barebones on
 
 This album is also a good recommendation since I dont't think these songs are going to have the same pop appeal and catchy single frenzy seen in previous Taylor Swift album songs. (with maybe the exception of "exile") I still really enjoyed the album in a different way from "Future Nostalgia" but liked what it provided.
 
-"folklore" and "evermore" are sister albums from Taylor that were both released in 2020. They both brough similar songs, genres and stories in a lot of the songs. Taylor said evermore is described as "fall and winter" seasons while folklore is said to be "spring and summer". I found folklore to be more complete of an album and the better of the two.
+"folklore" and "evermore" are sister albums from Taylor that were both released in 2020. They both brought similar songs, genres and stories in a lot of the songs. Taylor said evermore is described as "fall and winter" seasons while folklore is said to be "spring and summer". I found folklore to be more complete of an album and the better of the two.
 
 **Score:** 7.5/10
 
