@@ -32,7 +32,7 @@ This is a short post on what I found were the best albums this year. This year h
 
 **Genre:** R&B, Psychedelic pop
 
-I will admit I haven't delved deep into The Weeknd's discography. This album was a decent foray into the pop sounds mixed with darker themes brought upon the "After Hours" name with tinges of hedonism. It incorporates ideas of being unable to be loved and themes of promiscuity, overindulgence, and self-loathing.
+I will admit I haven't delved deep into The Weeknd's discography. This album was a decent foray into the pop sounds mixed with darker themes brought upon the "After Hours" name with tinges of hedonism. It incorporates ideas of being unable to be loved alongside themes of promiscuity and overindulgence of self combined with self-loathing. The R&B brought on this album is edgey and the album cover certainly stands out and turns heads with the The Weeknd smiling with blood covering his face.
 
 Songs like "Snowchild" and "Faith" are chilling to listen to while "In Your Eyes" and "Blinding Lights" have the traditional The Weeknd upbeat R&B.
 
