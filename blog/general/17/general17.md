@@ -94,7 +94,7 @@ This album is also a good recommendation since I dont't think these songs are go
 
 **Score:** 7.5/10
 
-**Best tracks:** Exile, Betty, Illicit Affairs, Tears Ricochet, Mirrorball, Invisible String
+**Best tracks:** exile, betty, illicit affairs, my tears ricochet, mirrorball, invisible string, the last great american dynasty, invisible string
 
 **Worst tracks:** cardigan, Hoax
 

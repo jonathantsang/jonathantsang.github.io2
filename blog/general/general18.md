@@ -53,7 +53,7 @@ This album needs to be listened to front to back. I don't see it making sense ot
 **Genre:** Dance, Pop, Disco
 
 
-**Score:** 7.5/10
+**Score:** 8/10
 
 **Best tracks:** Love Again, Don't Start Now, Future Nostalgia, Levitating, Physical, Break My Heart, Cool, Boys Will be Boys
 
@@ -65,7 +65,7 @@ This album needs to be listened to front to back. I don't see it making sense ot
 
 **Genres:** 
 
-**Score:** 7.5/10
+**Score:** 8.5/10
 
 **Best tracks:** Bambina, Hold you now, 2021, We belong together, This Life, How Long
 
@@ -79,7 +79,7 @@ This album needs to be listened to front to back. I don't see it making sense ot
 
 
 
-**Score:** 8/10
+**Score:** 9/10
 
 **Best tracks:** Venice Bitch, Fuck it I love you
 
