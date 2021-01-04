@@ -6,7 +6,7 @@ category: general
 tag: general
 date: 03/01/2021
 order: 18
-finished: true
+finished: false
 ---
 
 Super late list but after making the 2020 list I wanted to make one for 2019. This is a short post on what I found were the best albums of 2019. Another year of pretty lackluster rap releases. 
