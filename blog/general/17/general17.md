@@ -9,7 +9,7 @@ order: 17
 finished: true
 ---
 
-**Note**: I released this on Dec 13th and I didn't realize Taylor Swift and Kid Cudi dropped records in the last ~3 weeks of 2020 (Both on Dec 11th). I will amend the list once I give them a listen.
+**Note**: I released this on Dec 13th and I didn't realize Taylor Swift and Kid Cudi dropped records in the last ~3 weeks of 2020 (Both on Dec 11th). I have since amended the list giving both a listen.
 
 This is a short post on what I found were the best albums this year. This year had some standouts in a few genres. After writing this list and reflecting, I realized there is a lot of electronic-based albums (2 of top 5). I didn't plan it out this way but there weren't any compelling rap albums (which is my main genre) released recently. I wasn't able to listen to every album release this year but I listened to a fair amount.
 
@@ -20,11 +20,12 @@ This is a short post on what I found were the best albums this year. This year h
 - Blame it on Baby (Da Baby)
 - No Pressure (Logic)
 - Shore (Fleet Foxes)
+- The Slow Rush (Tame Impala)
 
 **Honourable Mentions:**
+- Heaven & Hell (Ava Max)
 - evermore (Taylor Swift)
 - Man on the Moon III (Kid Cudi)
-- The Slow Rush (Tame Impala)
 
 ### 5. After Hours - The Weeknd
 
@@ -125,6 +126,9 @@ I didn't quite know what to expect when first listening to this album. What we g
 
 **Top Tracks Honourable Mentions (no order):** 
 
+Ava Max:
+- Kings & Queens, Sweet but Psycho, Who's Laughing Now, Salt
+
 Tame Impala:
 - Posthumous Forgiveness
 
@@ -150,4 +154,4 @@ Shawn Mendes:
 - 305
 
 Kid Cudi:
-- Pale Moonlight, Damaged
+- Pale Moonlight, Damaged, Sad People, Sept 16., Rockstar Knights

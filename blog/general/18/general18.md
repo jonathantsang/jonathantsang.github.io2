@@ -4,9 +4,9 @@ title: The Best Albums of 2019
 permalink: /general18/
 category: general
 tag: general
-date: 02/01/2021
+date: 03/01/2021
 order: 18
-finished: false
+finished: true
 ---
 
 Super late list but after making the 2020 list I wanted to make one for 2019. This is a short post on what I found were the best albums of 2019. Another year of pretty lackluster rap releases. 
@@ -18,88 +18,159 @@ Super late list but after making the 2020 list I wanted to make one for 2019. Th
 - thank u, next (Ariana Grande)
 - All Mirros (Angel Olsen)
 - MAGDALENE (FKA twigs)
+- Dedicated (Carly Rae Jepsen)
+- LOVE + FEAR (Marina)
 
 **Honourable Mentions:**
 - Lover (Taylor Swift)
 
-### 5. Please excuse me for being antisocial - Roddy Rich
+### 5. When We All Fall Asleep, Where Do We Go? - Billie Ellish
 
-<img src="/blog/general/17/ah.jpg" width="300px" height="300px"/>
+<img src="/blog/general/18/wwgtswdwg.jpg" width="450px" height="450px"/>
 
-**Genre:** Hip hop, Trap
+**Genre:** Alternative, Pop
 
-I thought this album was just about what to expect from modern rap and trap album releases.
+This album is **dark**. There are hints of a monster and lucifer on a lot of the tracks but most notable on "all the good girls go to hell". The song "my strange addiction" uses the hilarious "The Office" sample of the episode about "Threat Level Midnight" with Michael Scarn. There are songs based around unrequited love on the songs "when the part is over", i love you", and "wish you were gay".
 
-I actually didn't like "The Box", the album's single that much.
+Songs like "listen before i go" has lyrics that are memorably dark:
 
-**Score:** 6/10
+> Take me to the rooftop
+> 
+> I wanna see the world when I stop breathing
+> 
+> Turnin' blue
+> 
+> Tell me love is endless, don't be so pretentious
+> 
+> Leave me like you do (Like you do)
 
-**Best tracks:** Gods Eyes, Bacc Seat, Prayers to the Trap God, Tip Toe
+"goodbye" ends the album drawing lines from all the previous songs on WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?, in reverse album order:
 
-**Worst tracks:** The Box
+“It’s not true” – “i love you”
 
-### 4. Igor - Tyler the Creator
+“Take me to the rooftop” – “listen before i go”
 
-<img src="/blog/general/17/m.png" />
+“Told you not to worry” – “ilomilo”
 
-**Genre:** Alternative
+“What do you want from me?” – “bury a friend”
 
-This album needs to be listened to front to back. I don't see it making sense otherwise. This is an example of one of the albums I think lack so much context when listening to songs individually on a streaming site like Spotify.
+“Don’t ask questions” – “my strange addiction”
 
-**Score:** 6.5/10
+“Wait a minute” – “8”
 
-**Best tracks:** EARFQUAKE, GONE GONE / THANK YOU, I THINK, NEW MAGIC WAND
+“Don’t you know I’m no good for you?” – “when the party’s over”
 
-**Worst tracks:** 
+“Baby, I don’t feel so good” – “wish you were gay”
 
-### 3. When We All Fall Asleep, Where Do We Go? - Billie Ellish
+“And all the good girls go to hell” – “all good girls go to hell.”
 
-<img src="/blog/general/17/wwafawdwg.png" />
+“Bite my tongue, bide my time” – “you should see me in a crown”
 
-**Genre:** Alternative
+“What is it about them?” – “xanny”
 
+“I’m the bad guy” – “bad guy”
 
 **Score:** 7/10
 
-**Best tracks:** bad guy,
+**Best tracks:** bad guy, all the good girls go to hell, wish you were gay, 8, bury a friend, listen before i go, i love you, goodbye
 
-**Worst tracks:** 
+**Worst tracks:** when the party's over
+
+### 4. Please excuse me for being antisocial - Roddy Rich
+
+<img src="/blog/general/18/antisocial.jpg" width="450px" height="450px"/>
+
+**Genre:** Hip hop, Trap
+
+I thought this album was a good foray into modern rap and trap album releases with introspective routes that remind of J. Cole and Kendrick Lamar. This album spent four non-consecutive weeks atop the Billboard 100 and became the longest-running number one debut rap album since 2003.
+
+I loved a lot of the more heartfelt and honestly more heart wrenching tracks like Gods Eyes, Prayers to the Trap God, and War Baby delving into the experiences of growing up black in America, income disparity, racial inequity, and the many perils that accompany that.
+
+> I got family that's addicts, I got family that's drug dealers
+> 
+> I got family that's murderers, I got family that love \*\*\*\*\*\*
+> 
+> And family important, you just gotta embrace it
+
+from "Prayers to the Trap God" which really reminds me of songs like "Family Business" from Kanye's College Dropout reinforcing ideas of family really being an integral part of life. The song "War Baby" has a great gospel choir in it that really rivals something from Kanye's "Jesus is King". "War Baby" is a great way to end off the album and really showcases this idea of "where I started and now I reached this pinnacle".
+
+War Baby Chorus:
+
+> Promethazine 'til the mornin'
+> 
+> Hope I don't wake up tomorrow
+> 
+> We was the type of \*\*\*\*\*\* that would rob the robbers
+> 
+> I'ma make the choppa sing like la-di-da-da-da (La-da, la-da)
+
+Roddy's singing on the album is as good as his rapping which doesn't usually happen with a lot of rap albums.
+
+The one thing I didn't like about was the album was I didn't like "The Box",the album's notable single that much. But that is more of personal preference.
+
+**Score:** 7/10
+
+**Best tracks:** Gods Eyes, Bacc Seat, War Baby, Prayers to the Trap God, Tip Toe, Intro, Bacc Seat
+
+**Worst tracks:** The Box, Big Stepper, Boom Boom Room
+
+### 3. Igor - Tyler the Creator
+
+<img src="/blog/general/18/igor.jpg" width="450px" height="450px"/>
+
+**Genre:** Alternative, Hip hop
+
+This album needs to be listened to front to back. I don't see it making sense otherwise. This is an example of one of the albums I think lack so much context when listening to songs individually on a streaming site like Spotify.
+
+Igor is a album about a breakup. Themes of heartbreak and jealousy and loss of love float around in hip hop infused with funk and R&B.
+
+"EARFQUAKE" was the breakout single from the album that everyone loved and I can see the mainstream appeal. I liked the melancholy "GONE GONE / THANK YOU" two part song where the song traditionally would be a sad song of having a lover leave, but it is the exact opposite and "I THINK" with the heart-wrenching chorus "I think I've fallen in love (Skate), This time I think it's for real".
+
+**Score:** 7/10
+
+**Best tracks:** EARFQUAKE, GONE GONE / THANK YOU, I THINK, NEW MAGIC WAND, RUNNING OUT OF TIME, 
+
+**Worst tracks:** none?
 
 ### 2. Father of the Bride - Vampire Weekend
 
-<img src="/blog/general/17/f.png" />
+<img src="/blog/general/18/fotb.jpg" width="500px" height="450px"/>
 
-**Genres:** Alternative
+**Genres:** Pop, Indie Rock
 
 Imagine Chance's "The Big Day" but now didn't suck and was actually pretty good (and wasn't rap but that isn't a detractor). That's why Vampire Weekend's "Father of the Bride" is 2nd on my albums for 2019.
 
 Focused around matrimony, love, heartbreak, and promiscuity, the album is an album centered around the themes and love of life, marriage.
 
+Upbeat songs like Bambina, and How Long? all encapsulate the presumed happiness of matrimony. Harmony Hall, 2021, and We belong together deal with themes of what the future holds for the unity of the pair. "This Life" has a chorus that is poppy with the: "You've been cheating on, cheating on me, I've been cheating on, cheating on you".
+
 **Score:** 8.5/10
 
-**Best tracks:** Bambina, Hold you now, 2021, We belong together, This Life, How Long?, Harmony Hall,
+**Best tracks:** Bambina, Hold you now, 2021, We belong together, This Life, How Long?, Harmony Hall
 
-**Worst tracks:** 
+**Worst tracks:** Sunflower, Sympathy
 
 ### 1. Norman Fucking Rockwell - Lana Del Rey
 
-<img src="/blog/general/18/nfr.png" />
+<img src="/blog/general/18/nfr.jpg" width="450px" height="450px"/>
 
-**Genre:** Pop
+**Genre:** Indie pop, Psychedelic rock, Soft rock, Trip hop, Dream pop, Folk rock, Baroque pop
 
-This album is **fucking** good. I didn't find an album that painted both grand imagery of California with the despair and tragedy of a character like 
+This album is **fucking** good. I didn't find an album that painted both grand imagery of California with the despair and tragedy of a character like Lana's in really anything up until this point. It has been almost her trademark sound that others have imitated to not as effective nature.
 
-Expansive sounds
-
-California imagery
-
-There is the depiction of her tragic character with undertones of a love not requited, forgotten, or in many cases just doomed from the start.
+The album can be described with expansive sounds, gratuitous California imagery, and moody shifts. The album revolves around the depiction of her tragic character with undertones of a love not requited, forgotten, or in many cases just doomed from the start.
 
 "Fuck it I love you" has an album version and a "single version" played on most streaming sites like Spotify and Apple Music. I actually like both versions. The album version is more bare and drips in sadness from the vocals and backing track being the only sounds. The single version is more bombastic, triumphant, and has the backing drum track in the background.
 
-"Happiness is a Butterfly" has lines like
+"Happiness is a Butterfly" has the line:
 
-> If he's a serial killer, then what's the worst That can happen to a girl who's already hurt? I'm already hurt
+> If he's a serial killer, then what's the worst 
+> 
+> That can happen to a girl who's already hurt? 
+> 
+> I'm already hurt
+
+which paints the clear picture of the tragic protagonist.
 
 The album ends off with a song titled "hope is a dangerous thing for a woman like me to have - but I have it", capping off the epic story of sadness riddles songs with renewed hope, which in context of the album's songs only perpetuates the sadness of hope. The dichotomy of hope not being a beacon of shining light, but only more of the same of what was stated on the album.
 
@@ -109,28 +180,26 @@ The album ends off with a song titled "hope is a dangerous thing for a woman lik
 
 **Worst tracks:** none
 
-**My Top 5 Tracks of 2020: (no order)** Happiness is a Butterfly (Lana Del Rey), all the good girls go to hell (Billie Ellish), War Baby (Roddy Ricch), Use This Gospel (Kanye West)
+**My Top 5 Tracks of 2020: (no order)** 
+- Happiness is a Butterfly (Lana Del Rey)
+- all the good girls go to hell (Billie Ellish)
+- War Baby (Roddy Ricch)
+- Use This Gospel (Kanye West)
+- Daylight (Taylor Swift)
 
 **Top Tracks (Honourable Mentions, no order):** 
 
 Lana Del Rey:
-- Venice Bitch
-- Fuck it I love you
-- The Greatest
-- Love Song
-- The Next Greatest American Record
+- Venice Bitch, Fuck it I love you, The Greatest, Love Song The Next Greatest American Record
 
 Roddy Ricch:
-- Gods Eyes
-- Bacc Seat
-- Prayers to the Trap God
-- Tip Toe
+- Gods Eyes, Bacc Seat, Prayers to the Trap God, Tip Toe, Intro
+
+Taylor Swift:
+- Paper Rings, I think he knows, Cornelia Street, I forgot that you existed
 
 Tyler the Creator:
-- EARFQUAKE
-- GONE GONE / THANK YOU
-- I THINK
-- NEW MAGIC WAND
+- EARFQUAKE, GONE GONE / THANK YOU, I THINK, NEW MAGIC WAND
 
 Kanye:
 - Closed on Sunday (lol)
