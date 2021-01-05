@@ -44,33 +44,9 @@ Songs like "listen before i go" has lyrics that are memorably dark:
 > 
 > Leave me like you do (Like you do)
 
-"goodbye" ends the album drawing lines from all the previous songs on WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?, in reverse album order:
+"goodbye" ends the album drawing lines from all the previous songs on WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?, in reverse album order in a poetic way to wrap up both the themes and motifs associated with each song.
 
-“It’s not true” – “i love you”
-
-“Take me to the rooftop” – “listen before i go”
-
-“Told you not to worry” – “ilomilo”
-
-“What do you want from me?” – “bury a friend”
-
-“Don’t ask questions” – “my strange addiction”
-
-“Wait a minute” – “8”
-
-“Don’t you know I’m no good for you?” – “when the party’s over”
-
-“Baby, I don’t feel so good” – “wish you were gay”
-
-“And all the good girls go to hell” – “all good girls go to hell.”
-
-“Bite my tongue, bide my time” – “you should see me in a crown”
-
-“What is it about them?” – “xanny”
-
-“I’m the bad guy” – “bad guy”
-
-**Score:** 7/10
+**Score:** 6.5/10
 
 **Best tracks:** bad guy, all the good girls go to hell, wish you were gay, 8, bury a friend, listen before i go, i love you, goodbye
 
@@ -122,7 +98,7 @@ The one thing I didn't like about was the album was I didn't like "The Box",the 
 
 This album needs to be listened to front to back. I don't see it making sense otherwise. This is an example of one of the albums I think lack so much context when listening to songs individually on a streaming site like Spotify.
 
-Igor is a album about a breakup. Themes of heartbreak and jealousy and loss of love float around in hip hop infused with funk and R&B.
+Igor is a album about a breakup and the main character's male love interest. Themes of heartbreak and jealousy and loss of love float around in hip hop infused with funk and R&B.
 
 "EARFQUAKE" was the breakout single from the album that everyone loved and I can see the mainstream appeal. I liked the melancholy "GONE GONE / THANK YOU" two part song where the song traditionally would be a sad song of having a lover leave, but it is the exact opposite and "I THINK" with the heart-wrenching chorus "I think I've fallen in love (Skate), This time I think it's for real".
 
@@ -172,9 +148,9 @@ The album can be described with expansive sounds, gratuitous California imagery,
 
 which paints the clear picture of the tragic protagonist.
 
-The album ends off with a song titled "hope is a dangerous thing for a woman like me to have - but I have it", capping off the epic story of sadness riddles songs with renewed hope, which in context of the album's songs only perpetuates the sadness of hope. The dichotomy of hope not being a beacon of shining light, but only more of the same of what was stated on the album.
+The album ends off with a song titled "hope is a dangerous thing for a woman like me to have - but I have it", capping off the epic story of sadness riddles songs with renewed hope, which in context of the album's songs only perpetuates the sadness of hope. The dichotomy of hope not being a beacon of shining light, but only more of the same. (of which was stated on the album).
 
-**Score:** 9/10
+**Score:** 9.5/10
 
 **Best tracks:** Happiness is a Butterfly, Fuck it I love you, California, The Greatest, Love Song, The Next Greatest American Record, How to disappear, Venice Bitch, Cinnamon Girl, Doin' Time
 
@@ -188,6 +164,9 @@ The album ends off with a song titled "hope is a dangerous thing for a woman lik
 - Daylight (Taylor Swift)
 
 **Top Tracks (Honourable Mentions, no order):** 
+
+Ariana Grande:
+- thank u, next, 7 things
 
 Lana Del Rey:
 - Venice Bitch, Fuck it I love you, The Greatest, Love Song The Next Greatest American Record
