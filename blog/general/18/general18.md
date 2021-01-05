@@ -6,7 +6,7 @@ category: general
 tag: general
 date: 03/01/2021
 order: 18
-finished: false
+finished: true
 ---
 
 Super late list but after making the 2020 list I wanted to make one for 2019. This is a short post on what I found were the best albums of 2019. Another year of pretty lackluster rap releases. 
@@ -15,13 +15,13 @@ Super late list but after making the 2020 list I wanted to make one for 2019. Th
 - Jesus is King (Kanye West)
 - All my Heroes are Cornballs (JPEGMAFIA)
 - uknowwhatimsayin? (Danny Brown)
-- thank u, next (Ariana Grande)
 - All Mirros (Angel Olsen)
 - MAGDALENE (FKA twigs)
 - Dedicated (Carly Rae Jepsen)
 - LOVE + FEAR (Marina)
 
 **Honourable Mentions:**
+- thank u, next (Ariana Grande)
 - Lover (Taylor Swift)
 
 ### 5. When We All Fall Asleep, Where Do We Go? - Billie Ellish
