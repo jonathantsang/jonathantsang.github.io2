@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Continuous Improvement
-permalink: /general11/
-category: general
-tag: general
+permalink: /media11/
+category: media
+tag: media
 date: 7/6/2020
 order: 10
 finished: false
@@ -34,13 +34,13 @@ This is the last page in the Watchmen comic that deals with Veidt.
 
 ### Continuity
 
-<img src="/blog/general/10/end.jpg" />
+<img src="/blog/media/10/end.jpg" />
 
 > "In the end? **Nothing** ends Adrian. Nothing **ever** ends."
 
 ### Sacrifice
 
-<img src="/blog/general/10/drmanhattan.jpg" />
+<img src="/blog/media/10/drmanhattan.jpg" />
 
 > "I am tired of Earth. These people. I am tired of being caught in the tangle of their lives."
 

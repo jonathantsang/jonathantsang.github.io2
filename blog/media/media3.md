@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ranking Kanye's Albums
-permalink: /general3/
-category: general
-tag: general
+permalink: /media3/
+category: media
+tag: media
 date: 2/25/2020
 order: 3
 finished: false
@@ -91,7 +91,7 @@ In terms of "black sheeps", this album is essentially the "black sheep of black 
 
 The start of Kanye's humble beginnings in Chicago. The album itself has great tracks, good skits, and a (hilariously) good narrative. Kanye chose to reject the ideas of "formal schooling" and rejected the outside naysayers to create a hip hop album when it was not meant to be about being fashionable, self-critical, loving your family, on top of other song topics.
 
-The samples are great on this album (as with a lot of his albums) and most prevalently shown in this due to a lot of material either being from previous mixtapes (I'm Good...	, Get Well Soon, etc.) and his general focus on production prior to his rap career.
+The samples are great on this album (as with a lot of his albums) and most prevalently shown in this due to a lot of material either being from previous mixtapes (I'm Good...	, Get Well Soon, etc.) and his media focus on production prior to his rap career.
 
 best: two words, jesus walks, through the wire, last call, we don't care, all falls down, never let me down, family business
 

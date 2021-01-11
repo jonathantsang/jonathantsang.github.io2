@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Avatar the Last Airbender - The best episodes...and the worst
-permalink: /general7/
-category: general
-tag: general
+permalink: /media7/
+category: media
+tag: media
 date: 17/6/2020
 order: 7
 finished: true
@@ -22,22 +22,22 @@ I did a rewatch of ATLAB (alongside Korra) during the quarantine break and my op
 
 #### 5. Zuko Alone
 
-<img src="/blog/general/7/5.png" />
+<img src="/blog/media/7/5.png" />
 
 If you asked me in highschool what my favourite episode was, I would've said `Zuko Alone`. I still think it is a remarkable episode but it is fairly simplistic in themes. Zuko tries to do good in the village and rides off into the sunset similar to western films as a lone cowboy. Good and well-executed but formulaic. It's still a top 5 episode though.
 
 #### 4. Sozin's Comet, Part 3: Into the Inferno
 
-<img src="/blog/general/7/4.png" />
+<img src="/blog/media/7/4.png" />
 
 The final agni kai between Zuko and Azula is legendary. I would even parallel it to something of Macbeth versus Macduff where Azula is like Macbeth bent on maintaining her absolute position of power and has completely fallen apart. The music and the action do it justice as the series built up to this moment since Azula was introduced at the end of season 1. In many ways you could describe Azula as one of the FOILs to Zuko where they contrast in firebending, motivations, and goals in the end.
 
 #### 3. The Crossroads of Destiny
 <div class="floating-box">
-  <img src="/blog/general/7/3.jpg" width="45%"/>
+  <img src="/blog/media/7/3.jpg" width="45%"/>
 </div>
 <div class="floating-box">
-  <img src="/blog/general/7/3-1.jpg" width="45%" />
+  <img src="/blog/media/7/3-1.jpg" width="45%" />
 </div>
 Zuko is at the crossroads of destiny just as much as Zuko was.
 
@@ -47,13 +47,13 @@ Aang's decision is often overlooked (and to be honest what did "letting go of Ka
 
 #### 2. The Firebending Masters
 
-<img src="/blog/general/7/2.png" width="50%" />
+<img src="/blog/media/7/2.png" width="50%" />
 
 I didn't understand this episode when I was younger. On surface level it is "zuko bad->firebend, zuko good->no firebend", but I think it speaks to much deeper levels than just that. This was shortly after Zuko joined the group and had decided to teach Aang firebending. It all seemed to be going well until he realized he couldn't firebend. It speaks on why we do certain things and how it interweaves with our choices. Zuko gave up his old life after being disillusioned with what it truly was like. Even he could not know what "helping the avatar" was going to entail but he did it out of belief of his destiny.
 
 #### 1. The Guru
 
-<img src="/blog/general/7/1.jpg" width="50%" />
+<img src="/blog/media/7/1.jpg" width="50%" />
 
 This is a bit of a hot take but I liked this episode a lot. It mainly revolved around Aang and the reflection of the past. It brought a humanizing aspect to Aang as you realize he is 12 years old, he lost his entire (air nomad) nation, he had to realize the world changed greatly over the 100 years he was gone, and as the avatar what it meant to accept responsibility for what had happened but also move forward. The episode ends with him having visions of Ba Sing Se and going to save Katara, not fully unlocking all his chakras. In terms of plot, it is a little shakey putting it next to "The Crossroads of Destiny" episode where he has to let go of his earthly connection to Katara to enter the avatar state. (which really didn't happen technically). This also set up the exposition of "how do I face the firelord" which becomes a prevalent theme in season 3 as aang's peaceful nature conflicts with his duty as the avatar.
 

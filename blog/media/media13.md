@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Most Compelling Villains in Movies
-permalink: /general13/
-category: general
-tag: general
+permalink: /media13/
+category: media
+tag: media
 date: 15/7/2020
 order: 13
 finished: false

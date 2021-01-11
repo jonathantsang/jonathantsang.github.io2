@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Best Albums of 2019
-permalink: /general18/
-category: general
-tag: general
+permalink: /media18/
+category: media
+tag: media
 date: 03/01/2021
 order: 18
 finished: true
@@ -26,7 +26,7 @@ Super late list but after making the 2020 list I wanted to make one for 2019. Th
 
 ### 5. When We All Fall Asleep, Where Do We Go? - Billie Ellish
 
-<img src="/blog/general/18/wwgtswdwg.jpg" width="450px" height="450px"/>
+<img src="/blog/media/18/wwgtswdwg.jpg" width="450px" height="450px"/>
 
 **Genre:** Alternative, Pop
 
@@ -54,7 +54,7 @@ Songs like "listen before i go" has lyrics that are memorably dark:
 
 ### 4. Please excuse me for being antisocial - Roddy Rich
 
-<img src="/blog/general/18/antisocial.jpg" width="450px" height="450px"/>
+<img src="/blog/media/18/antisocial.jpg" width="450px" height="450px"/>
 
 **Genre:** Hip hop, Trap
 
@@ -92,7 +92,7 @@ The one thing I didn't like about was the album was I didn't like "The Box",the 
 
 ### 3. Igor - Tyler the Creator
 
-<img src="/blog/general/18/igor.jpg" width="450px" height="450px"/>
+<img src="/blog/media/18/igor.jpg" width="450px" height="450px"/>
 
 **Genre:** Alternative, Hip hop
 
@@ -110,7 +110,7 @@ Igor is a album about a breakup and the main character's male love interest. The
 
 ### 2. Father of the Bride - Vampire Weekend
 
-<img src="/blog/general/18/fotb.jpg" width="500px" height="450px"/>
+<img src="/blog/media/18/fotb.jpg" width="500px" height="450px"/>
 
 **Genres:** Pop, Indie Rock
 
@@ -128,7 +128,7 @@ Upbeat songs like Bambina, and How Long? all encapsulate the presumed happiness 
 
 ### 1. Norman Fucking Rockwell - Lana Del Rey
 
-<img src="/blog/general/18/nfr.jpg" width="450px" height="450px"/>
+<img src="/blog/media/18/nfr.jpg" width="450px" height="450px"/>
 
 **Genre:** Indie pop, Psychedelic rock, Soft rock, Trip hop, Dream pop, Folk rock, Baroque pop
 

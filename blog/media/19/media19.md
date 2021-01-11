@@ -1,9 +1,9 @@
 ---
 layout: post
 title: TENET
-permalink: /general19/
-category: general
-tag: general
+permalink: /media19/
+category: media
+tag: media
 date: 26/12/2020
 order: 19
 finished: false

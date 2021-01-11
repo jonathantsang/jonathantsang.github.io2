@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Best Albums of 2020
-permalink: /general17/
-category: general
-tag: general
+permalink: /media17/
+category: media
+tag: media
 date: 13/12/2020
 order: 17
 finished: true
@@ -29,7 +29,7 @@ This is a short post on what I found were the best albums this year. This year h
 
 ### 5. After Hours - The Weeknd
 
-<img src="/blog/general/17/ah.jpg" width="450px" height="450px"/>
+<img src="/blog/media/17/ah.jpg" width="450px" height="450px"/>
 
 **Genre:** R&B, Psychedelic pop
 
@@ -45,7 +45,7 @@ Songs like "Snowchild" and "Faith" are chilling to listen to while "In Your Eyes
 
 ### 4. Manic - Halsey
 
-<img src="/blog/general/17/m.jpg" width="450px" height="450px"/>
+<img src="/blog/media/17/m.jpg" width="450px" height="450px"/>
 
 **Genre:** Alternative
 
@@ -63,7 +63,7 @@ It could almost be described as melodramatic with songs like "I HATE EVERYBODY".
 
 ### 3. Future Nostalgia - Dua Lipa
 
-<img src="/blog/general/17/fn.jpg" width="450px" height="450px"/>
+<img src="/blog/media/17/fn.jpg" width="450px" height="450px"/>
 
 **Genre:** Dance, Pop, Disco
 
@@ -81,7 +81,7 @@ The album has a great first half but slowly falls off near the end. Luckily the 
 
 ### 2. Folklore - Taylor Swift
 
-<img src="/blog/general/17/f.jpg" width="450px" height="450px"/>
+<img src="/blog/media/17/f.jpg" width="450px" height="450px"/>
 
 **Genres:** Pop, Folktronica, Alternative rock, Indie folk
 
@@ -101,7 +101,7 @@ This album is also a good recommendation since I dont't think these songs are go
 
 ### 1. The New Abnormal - The Strokes
 
-<img src="/blog/general/17/tna.jpeg" width="450px" height="450px"/>
+<img src="/blog/media/17/tna.jpeg" width="450px" height="450px"/>
 
 **Genre:** Alternative/Indie (Rock), Synth Pop
 

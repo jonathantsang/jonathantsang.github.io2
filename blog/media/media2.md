@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Top 10 Albums of the Decade (2010-2020)
-permalink: /general2/
-category: general
-tag: general
+permalink: /media2/
+category: media
+tag: media
 date: 2/25/2020
 order: 2
 finished: false

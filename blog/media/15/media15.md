@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Michael Jordan - The Last Dance
-permalink: /general15/
-category: general
-tag: general
+permalink: /media15/
+category: media
+tag: media
 date: 24/12/2020
 order: 15
 finished: true
@@ -35,7 +35,7 @@ Jordan versus the blazers.
 
 Jordan proceeds to hit 6 threes and just shrugs in the face of his opponents. He scored 35 points in the first half. There was nothing they could do. This iconic photo of him shrugging:
 
-<img src="/blog/general/15/jordan-shrug-game.jpg" />
+<img src="/blog/media/15/jordan-shrug-game.jpg" />
 
 ### Episode 6:
 Jordan and his Atlantic City trip

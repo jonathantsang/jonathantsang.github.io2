@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Bloons Tower Defense 6 - An Optimization Problem
-permalink: /general6/
-category: general
-tag: general
+permalink: /media6/
+category: media
+tag: media
 date: 18/5/2020
 order: 6
 finished: false

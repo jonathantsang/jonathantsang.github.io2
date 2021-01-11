@@ -1,25 +1,25 @@
 ---
 layout: post
 title: Dead Money
-permalink: /general9/
-category: general
-tag: general
+permalink: /media9/
+category: media
+tag: media
 date: 18/5/2020
 order: 9
 finished: false
 ---
 
-<img src="/blog/general/9/dlc.jpg" />
+<img src="/blog/media/9/dlc.jpg" />
 
 ### Fallout New Vegas - Dead Money
 
-<img src="/blog/general/9/intro.jpg" />
+<img src="/blog/media/9/intro.jpg" />
 
 Fallout New Vegas released the first DLC expansion `Dead Money` in 2010. I played it for the first time in 2020. This post is not as much about WHAT the DLC was as opposed to looking at it (almost) a decade later and seeing what themes arise from it.
 
 ### The DLC
 
-<img src="/blog/general/9/sm.jpg" />
+<img src="/blog/media/9/sm.jpg" />
 
 If I'm going to be honest the DLC is rough. It has great companions...that you utilize for a very short amount of time. Dog, Christine, and Dean Domino all had great stories and personalities but only followed you for a short amount of time. The ticking time bomb from the collar interacting with radio frequencies is really annoying. The casino which is arguably the biggest and most grandiose part of the DLC, is maybe 30% of the DLC at most. 70% is wandering around the villa area, which is both dark, confusing, and really annoying. The sierra madre chip currency.
 
@@ -31,7 +31,7 @@ This post is not about the actual gameplay of the DLC. I wanted to talk about th
 
 ### Intro
 
-<img src="/blog/general/9/casino.jpg" />
+<img src="/blog/media/9/casino.jpg" />
 
 The start of the DLC starts with you entering a Brotherhood of Steel bunker and listening to a radio as a red mist knocks you out.
 
@@ -49,7 +49,7 @@ https://en.wikipedia.org/wiki/Dead_money_(poker)
 
 ### Letting Go
 
-<img src="/blog/general/9/lg.jpg" />
+<img src="/blog/media/9/lg.jpg" />
 
 > It's still out there, in the Wastes, preserved, just waiting for someone to crack it open. But getting to it. That's not the hard part. It's letting go.
 
@@ -57,6 +57,6 @@ Gambling plays a large part in the DLC both from a story-driven aspect where you
 
 ### The End
 
-<img src="/blog/general/9/end.jpg" />
+<img src="/blog/media/9/end.jpg" />
 
 > The Courier, lured by the promises of the Sierra Madre, could not escape. Once inside the vault, the casino did not let go.
