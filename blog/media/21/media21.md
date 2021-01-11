@@ -2,11 +2,11 @@
 layout: post
 title: Christopher Nolan's movies ranked by how confusing they are
 permalink: /general21/
-category: general
-tag: general
+category: media
+tag: media
 date: 05/01/2021
 order: 21
-finished: true
+finished: false
 ---
 
 **Spoilers:** In most, if not all of the Christopher Nolan films.
