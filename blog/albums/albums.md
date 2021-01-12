@@ -5,8 +5,6 @@ permalink: /albums/
 date: 12/28/2020
 ---
 
-**Note:** This only includes the albums from 2019 onward.
-
 | Album                                  | Artist            | Year | Rating (out of 10) | Best songs                                                                                                        |
 | -------------------------------------- | ----------------- | ---- | ------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | Lover                                  | Taylor Swift      | 2019 | 5.5                | Cornelia Street, I forgot you existed, Paper Rings, Daylight                                                      |
