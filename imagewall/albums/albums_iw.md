@@ -24,7 +24,7 @@ Albums:
 - Graduation (Kanye West)
 - Igor (Tyler the Creator)
 - Innanetape (Vic Mensa)
-- Late Registration (Taylor Swift)
+- Late Registration (Kanye West)
 - Lover (Taylor Swift)
 - manic (Halsey)
 - My Beautiful Dark Twisted Fantasy (Kanye West)
