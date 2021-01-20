@@ -389,10 +389,10 @@ In Winter 2020 I took one online course and graduated while doing my internship 
 
 ## Conclusion
 
-<img src="/blog/general/10/c11.png" />
+<img src="/my-story/pictures/graduation/c11.png" />
 <br/>
 <br/>
-<img src="/blog/general/10/c12.png" />
+<img src="/my-story/pictures/graduation/c12.png" />
 
 ### University Life
 
