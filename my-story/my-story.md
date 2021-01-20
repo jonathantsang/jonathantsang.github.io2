@@ -4,7 +4,7 @@ layout: default
 permalink: /my-story/
 ---
 
-**This is still a work in progress as I article my time so far at UWaterloo. Look below to see my story going through University. I got the idea to do this from [Robert Elder's UW Journey](http://www.robertelder.ca/my-uw-journey/).**
+**This is completed now as an article of my time at UWaterloo from 2014-2020. Look below to see my story going through University. I got the idea to do this from [Robert Elder's UW Journey](http://www.robertelder.ca/my-uw-journey/).**
 
 - [Fall 2014 (1A)](#fall-2014-1a)
 - [Winter 2015 (1B)](#winter-2015-1b)
@@ -417,7 +417,7 @@ The people who can efficiently balance all 5 are few and far between and most pe
 
 ### Was it worth it?
 
-This is a difficult thing to answer. We really can't tell the effect of our decisions often times years in the future with hindsight. I can say with little other alternatives it was a very good option. Not all of it was enjoyable or fun.
+This is a difficult thing to answer. We really can't tell the effect of our decisions often years in the future with hindsight. I can say with little other alternatives it was a very good option. Not all of it was enjoyable or fun.
 
 ### My Marks
 
@@ -512,17 +512,21 @@ One thing I regret is that I never put a lot of effort into school. I often felt
 
 I don't know.
 
-### Co-op Competition
+### Co-op Competition in UWaterloo
 
-I travelled around and met tons of people doing hackathons and co-ops. I went to waterloo for CS, one of the hardest programs to get into these days. Undeniably there are people that act like assholes.
+I travelled around North America and met tons of people through hackathons or co-ops. I am very fortunate to have met a fairly diverse group of people and spending time learning about them. I went to waterloo for CS, one of the hardest programs to get into these days. Undeniably there are people that act like assholes.
 
-Some people are accomplished and motivated. There are others who fail to reach their potential after being the "top of their class" in highschool. Survivorship bias makes us see all the successful people and not view the less successful people. The concept of athletes and celebrities predate this notion early in our childhood. In reality, we know nothing about these role models and want to be like them over what they have and what we don't. These people are lauded as role models because they can play a sport well or act in our favourite movie. We almost never hear of the many failures or hardships that occurred.
+Some people in highschool are accomplished and motivated and continue this path in university. There are others who fail to reach their potential after being the "top of their class" in highschool. The fish in the small pond sees the ocean as university brings the people who are "the best of their area" and brings it to a much larger scope.
 
-The waterloo co-op scene is competitive, but I don't think there should be moments where you don't help someone else. Either in coursework, interview prep, or otherwise in life. I still remember when I switched into CS and I knew nothing. Many people feel like this and although this is fairly obvious, helping someone else is not a detrimental thing. It is a net positive for everyone and yourself. When we uplift one another we motivate each other to do the best we can do collectively. I always felt it was important to give back in any way possible. Whether it be being an orientation leader, mentoring others, or helping others achieve their goals. We perform better when we are on the same team.
+Survivorship bias makes us see all the successful people and not view the less successful people. In many ways we aspire to be them and disregard the other people who are not seen. I liken it to the concept of athletes and celebrities predate this notion early in our childhood. In reality, we know nothing about these role models and want to be like them because of what they have and what we don't. These people are lauded as role models because they can play a sport well or act in our favourite movie. We almost never hear of the many failures or hardships that occurred.
+
+The waterloo co-op scene is competitive due to perceived prestige from co-ops over others. We have this perception because someone has a co-op in a certain location (California) or from a specific company (FAANG) and we assume they are special or smarter than someone who doesn't have it. The reality of this is that your job doesn't mean much more than what it is, a job. I've made this mistake in the past, and I've seen people treat their job **as their identity**. You identity is comprised of your job, but it shouldn't whole-heartedly be composed of you job or co-ops. There is more to life than that.
+
+I don't think there should be moments where you don't help someone else. Either in coursework, interview prep, or otherwise in life. I still remember when I switched into CS and I knew nothing. Many people feel like this and although this is fairly obvious, helping someone else is not a detrimental thing. It is a net positive for everyone and yourself. When we uplift one another we motivate each other to do the best we can do collectively. I always felt it was important to give back in any way possible. Whether it be being an orientation leader, mentoring others, or helping others achieve their goals. We perform better when we are on the same team.
 
 ### Being the best or being the worst
 
-It is better to be "the worst player on a winning team" than "the best player on a losing team" There are immense challenges to either scenario. I think of this in basketball terms.
+This question was proposed to me previously. Is it better to be the best player on a losing team or the worst player on a winning team". In my opinion, it is better to be "the worst player on a winning team" than "the best player on a losing team" There are immense challenges to either scenario. I think of this in basketball terms.
 
 "Best player on a losing team":
 - Doing your best and trying to elevate the team.
@@ -538,20 +542,20 @@ I've seen it from both spectrums. Being frustrated from a lack of skill from you
 
 ### Closing Thoughts
 
-There comes a time in everyone's life where things end. Looking back the hardships that impeded my success served as guidance to where I would eventually reach.
+There comes a time in everyone's life where things end. University ending and a full-time job starts. Nothing in life really "ends" completely in the traditional sense. I still talk to people either recently graduated, looking to graduate soon, looking to apply to Uwaterloo, or just starting out undergrad. Looking back the hardships that impeded my success early on served as guidance to where I would eventually land.
 
 - I did not envision graduating with a CS degree in 2014. I started as a Science and Business Major and deciding later on that it wasn't a good fit for me.
 
 - In 2017 I was unable to get a developer job co-op. Three years later I did an internship at LinkedIn.
 
-- I went to multiple hackathons and failed multiple times. I had projects that melted down and people didn't want to team with me cause I wasn't in CS. I was persistent on winning at one after 12 failed attempts.
+- I went to multiple hackathons and failed multiple times. I had projects that melted down and people didn't want to team with me. I was persistent on winning one after 12 failed attempts at MHacks X.
 
 - I went to University of Waterloo initially to stay close to home, but eventually I wanted to travel North America. I ended up going to Vancouver, California, and Seattle for internships.
 
 - Okta was my first tech internship, and it also did not give me a return offer. At the time it was heartbreaking and disappointing. I realized later on that even if it had given a return offer, my life would not be substantially altered. If anything I had to learn from the experience.
 
-Tech is plagued by people trying to prove they are worthy and better than others. This behaviour might be spurned upon by the broadness of the field, the general insecurity of people, and the false positive/negative litmus test they conduct during interviews. I've already said my interviewing thoughts, but I think it extends beyond that. The most important thing is to be a good person. The accomplishments are secondary.
+Tech is plagued by people trying to prove they are worthy and better than others. This behaviour might be spurned upon by the broadness of the field, the general insecurity of people, and the false positive/negative litmus test they conduct during interviews. I've already said my interviewing thoughts in a separate post, but I think it extends beyond that. The most important thing is to be a good person. The accomplishments are secondary.
 
-## The future and beyond
+### The End
 
-Every villain is the hero of their own story.
+If you made it this far thank you for reading. I might make a part 2 if I find enough things to write about that is interesting. For now, I am semi-hiatus as I do the hobbies I enjoy. 
