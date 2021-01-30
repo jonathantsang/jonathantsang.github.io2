@@ -17,6 +17,7 @@ Albums:
 - Better off Dead (Flatbush Zombies)
 - Born Sinner (J. Cole)
 - College Dropout (Kanye West)
+- Does this look infected? (Sum 41)
 - Folklore (Taylor Swift)
 - Future Nostalgia (Dua Lipa)
 - Friday Night Lights (J. Cole)
