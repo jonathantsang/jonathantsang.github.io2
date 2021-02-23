@@ -104,7 +104,7 @@ Igor is a album about a breakup and the main character's male love interest. The
 
 **Score:** 7/10
 
-**Best tracks:** EARFQUAKE, GONE GONE / THANK YOU, I THINK, NEW MAGIC WAND, RUNNING OUT OF TIME, 
+**Best tracks:** EARFQUAKE, GONE GONE / THANK YOU, I THINK, NEW MAGIC WAND, RUNNING OUT OF TIME, I DON'T LOVE YOU ANYMORE, ARE WE STILL FRIENDS?, A BOY IS A GUN
 
 **Worst tracks:** none?
 
