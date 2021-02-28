@@ -18,6 +18,13 @@ Ice cream flavours I have tried and ratings of each one.
 - [Cranberry Juniper Sorbet (v)](https://saltandstraw.com/products/cranberry-juniper-sorbet-v) 1/10
 - [Salted Caramel Thanksgiving Turkey](https://saltandstraw.com/products/salted-caramel-thanksgiving-turkey) 9/10
 
+### February 2021 Flavours:
+- [Salted Caramel Cupcake](https://saltandstraw.com/products/salted-caramel-cupcake)
+- [Strawberry Tres Leches](https://saltandstraw.com/products/strawberry-tres-leches) 7/10
+- [Lemon Cheesecake Crumble (v)](https://saltandstraw.com/products/lemon-cheesecake-crumble-v) 6/10
+- [Brown Ale & Bacon](https://saltandstraw.com/products/brown-ale-bacon) 8.5/10
+- [Cinnatopia Cinnamon Bun](https://saltandstraw.com/products/cinnatopia-cinnamon-bun) 5/10
+
 
 ## Molly Moon:
 - Salted Caramel 6/10
