@@ -122,7 +122,7 @@ On the off-chance, sometimes interviewers were flat-out terrible. I've had ones 
 ### Quotas
 I am not going to touch on this in depth but the system is not fair and probably rigged against you. You often say "\_\_\_\_ got an interview/offer and I didn't. I'm much more qualified". Whether or not if that is actually true recruiters make mistakes in who they choose. I've had it happen both ways.
 
-Back when I was in science and business there was a certain group that had specific avenues that increased their chances for employment opportunities. They weren't actually a minority but being a majority if you really calculated the numbers. Despite that, people of that group would still take advantage of that because when you're all fighting for jobs you will take any advantage you can get because you're looking for yourself out there. When the cards favoured them, they took it upon themselves to deem what was fair.
+Back when I was in science and business there was a certain group that had specific avenues that increased their chances for employment opportunities. They weren't actually a minority but actually a majority if you really calculated the numbers. Despite that, people of that group would still take advantage of that nuance they were a minority because when you're all fighting for jobs you will take any advantage you can get because you're looking for yourself out there. When the cards favoured them, they took it upon themselves to deem what was fair.
 
 ### Parity
 
