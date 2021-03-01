@@ -28,7 +28,7 @@ Equating it to regular jobs, it hinges more on `WHO` you know rather than what y
 ## The Problems
 
 ### Recruiters screening
-Where do I start. Non-technical recruiters often have no idea what projects or experience mean on a resume. How do they know who to pick?
+Where do I start. Non-technical recruiters often have no idea what projects or experience mean on a resume. How do they know who to pick? (This is **AFTER** your resume has been passed through an filtering software)
 
 Technical recruiters luckily have a little more insight. But even then how many times do you think they check if you full-stack web app posted on your github was not just a copy and paste from some other repo? Or that you didn't just put a bunch of buzzwords to pass through the resume screening software. That is an overly cynical take but it'd be easy to create false-positives on a resume for the sake of impressing recruiters.
 
