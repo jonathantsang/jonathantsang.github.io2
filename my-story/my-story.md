@@ -38,7 +38,7 @@ I didn't take any computer science courses in high school, and in hindsight, I s
 
 I entered the University of Waterloo Science and Business Program with a specialization in chemistry. I was interested in both facets and I was extremely excited to be a part of the program. The only time I had ever lived away from home for a prolonged period of time was for [Shad Valley](http://www.shad.ca), where I went to Halifax and stayed at Dalhousie University for a month. It was an amazing experience to see the (far) east coast of Canada. Here's some photos from Shad Valley:
 
-{% include photo3.html img1="/my-story/pictures/1a/s1.jpg" img2="/my-story/pictures/1a/s2.jpg" img3="/my-story/pictures/1a/s3.jpg" caption1="Nice view from the top of somewhere we had gone for the weekend." caption2= "We visited some smaller towns built by the rivers. It was an interesting view since I lived in Toronto which by comparison was not small-town like this." caption3="Had some delicious lobster while in the east coast. I actually ate it at a place in PEI, and not in Nova Scotia or New Brunswick." %}
+{% include photo3.html img1="/my-story/pictures/1a/s1.jpg" img2="/my-story/pictures/1a/s2.jpg" img3="/my-story/pictures/1a/s3.jpg" caption1="Nice view from the top of somewhere we had gone for the weekend." caption2= "We visited some smaller towns built by the rivers. It was an interesting view since I lived in Toronto which by comparison was not small-town like this." caption3="Had some delicious lobster while on the east coast. I actually ate it at a place in PEI, and not in Nova Scotia or New Brunswick." %}
 
 <br>
 
@@ -47,21 +47,21 @@ I entered the University of Waterloo Science and Business Program with a special
 ## Winter 2015 (1B)
 {% include photo.html img="/my-story/pictures/1b/2.jpg" caption="This is was taken when I was doing a titration lab." size="60%" %}
 
-{% include photo3.html img1="/my-story/pictures/1b/4-1.jpg" img2="/my-story/pictures/1b/4-2.jpg" img3="/my-story/pictures/1b/4-3.jpg" caption="The winter was pretty snowy that year. The whole campus was covered in a blanket of snow. In the picture on the far left of these three, is a scene near EIT. In the back you can barely make out two figures, one of which is the President of the University of Waterloo, Feridun Hamdullahpur." %}
+{% include photo2.html img1="/my-story/pictures/1b/4-1.jpg" img2="/my-story/pictures/1b/4-3.jpg" caption="The winter was pretty snowy that year. The whole campus was covered in a blanket of snow. In the picture on the far left of these three, is a scene near EIT. In the back you can barely make out two figures, one of which is the President of the University of Waterloo, Feridun Hamdullahpur." %}
 
-{% include photo.html img="/my-story/pictures/1b/4-4.jpg" size="40%" caption="A Christmas tree can be seen on the top of DP Library." %}
+{% include photo.html img="/my-story/pictures/1b/4-4.jpg" size="50%" caption="A Christmas tree can be seen on the top of DP Library." %}
 
 <figcaption>Some more photos of campus.</figcaption>
 
-{% include photo3.html img1="/my-story/pictures/1b/5-1.jpg" img2="/my-story/pictures/1b/5-2.jpg"  img3="/my-story/pictures/1b/5-3.jpg" caption="Near the Tatham Centre and Hagey Hall." %}
+{% include photo2.html img1="/my-story/pictures/1b/5-1.jpg" img2="/my-story/pictures/1b/5-3.jpg" caption="Near the Tatham Centre and Hagey Hall." %}
 
-{% include photo3.html img1="/my-story/pictures/1b/5-4.jpg" img2="/my-story/pictures/1b/5-5.jpg" img3="/my-story/pictures/1b/5-6.jpg" caption="Beside DC and MC." %}
+{% include photo2.html img1="/my-story/pictures/1b/5-4.jpg" img2="/my-story/pictures/1b/5-6.jpg" caption="Beside DC and MC." %}
 
-{% include photo3.html img1="/my-story/pictures/1b/5-7.jpg" img2="/my-story/pictures/1b/5-8.jpg" img3="/my-story/pictures/1b/5-9.jpg" caption="Views of DP Library and V1 Green." %}
+{% include photo2.html img1="/my-story/pictures/1b/5-8.jpg" img2="/my-story/pictures/1b/5-9.jpg" caption="Views of DP Library and V1 Green." %}
 
-{% include photo3.html img1="/my-story/pictures/1b/6-1.jpg" img2="/my-story/pictures/1b/6-2.jpg" img3="/my-story/pictures/1b/6-3.jpg" size="32%" height="32%" caption="The Science Teaching Complex and Needles Hall Expansion were still being built at the time. The parking lot at night near PAC, and QNC at night." %}
+{% include photo2.html img1="/my-story/pictures/1b/6-2.jpg" img2="/my-story/pictures/1b/6-3.jpg" caption="The parking lot at night near PAC, and QNC at night." %}
 
-{% include photo.html img="/my-story/pictures/1b/3.jpg" size="40%" caption="I also participated in Model UN, and got 'Best Delegate' at their first in-house committee. I really enjoyed DECA and Model UN in high school, and I continued to participate in those clubs in university. I went to UTMUN, a University of Toronto run Model UN event in Winter 2015 as well." %}
+{% include photo.html img="/my-story/pictures/1b/3.jpg" size="50%" caption="I also participated in Model UN, and got 'Best Delegate' at their first in-house committee. I really enjoyed DECA and Model UN in high school, and I continued to participate in those clubs in university. I went to UTMUN, a University of Toronto run Model UN event in Winter 2015 as well." %}
 
 ## Spring 2015 (break)
 
@@ -73,7 +73,7 @@ I entered the University of Waterloo Science and Business Program with a special
 
 {% include photo.html img="/my-story/pictures/2a/7-1.jpg" size="30%" caption="I was a Science Orientation Leader in Fall 2015." %}
 
-{% include photo3.html img1="/my-story/pictures/2a/8-1.jpg" img2="/my-story/pictures/2a/8-2.jpg" img3="/my-story/pictures/2a/16.jpg" caption="I attended Terrible Hack 2, my first hackathon, and I was intrigued by the projects created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting. I would eventually meet some of them at the Velocity Residence in Spring 2016." %}
+{% include photo2.html img1="/my-story/pictures/2a/8-2.jpg" img2="/my-story/pictures/2a/16.jpg" caption="I attended Terrible Hack 2, my first hackathon, and I was intrigued by the projects created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting. I would eventually meet some of them at the Velocity Residence in Spring 2016." %}
 
 {% include photo.html img="/my-story/pictures/2a/9-1.jpg" size="50%" caption="I was part of the first ever Model UN in Waterloo called UWaterloo Model G20 as a assistant director of the committee." %}
 
@@ -81,15 +81,11 @@ I planned to switch into Computer Science (The switch would take almost a year s
 
 ## Winter 2016 (Work Term 1)
 
-<figure>
-  <span>
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt1/intrafinity.jpg" width="20%" height="20%">
-  </span>
-</figure>
+{% include photo.html img="/my-story/pictures/wt1/intrafinity.jpg" size="40%" caption="Intrafinity logo" %}
 
 I had a co-op placement at Intrafinity (also called School Messenger since they were recently bought over by the West Corporation). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time. They hired 20 co-ops and I met a lot of people I normally wouldn't have since they were from a variety of faculties and programs.
 
-{% include photo.html img="/my-story/pictures/wt1/10-1.jpg" size="50%" caption="While in Toronto, I went to 'Smash at York' and played in the tournament for fun. I saw some local Toronto players you usually see on Twitch." %}
+{% include photo.html img="/my-story/pictures/wt1/10-1.jpg" size="50%" caption="While in Toronto, I went to 'Smash at York' and played in the tournament for fun. I saw some local Toronto players I usually saw on Twitch." %}
 
 ## Spring 2016 (2B)
 
@@ -97,15 +93,11 @@ I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math
 
 {% include photo3.html img1="/my-story/pictures/2b/11-1.jpg" img2="/my-story/pictures/2b/11-2.jpg" img3="/my-story/pictures/2b/11-3.jpg" caption="I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence" caption1="My velocity sweater I got for staying in the residence." caption2="The middle one is a picture of the Communitech sign when I went to their office for a big Velocity dinner." caption3="Mural of the Google logo, since Communitech moved into Google's old building a lot of paintings were left there."%}
 
-{% include photo.html img="/my-story/pictures/2b/11-4.jpg" size="50%" caption="This is what it looks like inside of the Communitech office." %}
-
-{% include photo.html img="/my-story/pictures/2b/11-5.jpg" size="50%" caption="I also attended EngHack and worked in a team with some of my friends. We worked on a chatbot that gave Google Maps directions when you put in a location." %}
-
 ## Fall 2016 (2B)
 
-I switched my co-op stream around, so I was supposed to be on co-op during this term, but I wanted to take CS 136 and get into the CS program. I took Math 136, Stat 231, CS 136, ENGL 109, and Music 100. It is a little heftier of a term since it has 5 courses instead of 4 courses last term, but overall a manageable courseload.
+{% include photo.html img="/my-story/pictures/f16/2.JPG" size="65%" caption="Sunset reflection over E5 (Engineering 5)." %}
 
-{% include photo.html img="/my-story/pictures/2b/12-1.jpg" size="40%" caption="I went to UWP Hacks and I appeared in one of their photos. I didn't have much time to make a project since I was volunteering for Hack the North 2016, but I did follow some Unity tutorials to make a simple game." %}
+I switched my co-op stream around, so I was supposed to be on co-op during this term, but I wanted to take CS 136 and get into the CS program. I took Math 136, Stat 231, CS 136, ENGL 109, and Music 100. It is a little heftier of a term since it has 5 courses instead of 4 courses last term, but overall a manageable courseload.
 
 ## MHacks8
 {% include photo.html img="/my-story/pictures/2b/13-1.jpg" size="30%" caption="I had a TON of pictures from Mhacks: <a href='/mhacks8/'>Link</a>" %}
@@ -115,34 +107,35 @@ This was my first experience outside of the country for a hackathon. It took pla
 ## TerribleHacks5
 {% include photo.html img="/my-story/pictures/2b/14-1.jpg" size="40%" caption="The parody hackathon. I learned how to use Unity here. I compiled photos from the event here: <a href='/th5/'>Link</a>" %}
 
-## Local Hack Day
-{% include photo.html img="/my-story/pictures/2b/15.png" size="40%" caption="I also participated in the University of Waterloo Local Hack Day." %}
-
 ## Winter 2017 (Work Term 2)
-{% include photo.html img="/my-story/pictures/wt2/surfeasy.png" size="40%" caption="I worked at SurfEasy VPN as a QA Analyst. It is an awesome startup with great culture and talented individuals that believe in their product quality first and foremost. I learned about the development cycle of software in a real work setting, worked in a tight knit team on logging and investigating bugs, and coded some of the iOS mobile automation tests during my time there." %}
+{% include photo.html img="/my-story/pictures/w17/surfeasy.png" size="40%" caption="I worked at SurfEasy VPN as a QA Analyst. It is an awesome startup with great culture and talented individuals that believe in their product quality first and foremost. I learned about the development cycle of software in a real work setting, worked in a tight knit team on logging and investigating bugs, and coded some of the iOS mobile automation tests during my time there." %}
 
 It grew in size, got a new office, and expanded their product line, so the company was doing amazingly well, and I was happy to be able to make a meaningful impact to the company during a time of high growth. [SurfEasy has since been bought by Symantec](https://www.marketwatch.com/story/symantec-acquires-vpn-provider-surfeasy-2017-11-06)
 
-## Hackathons and Hackathons
-I tried to code as much as I could during the term and go to as many hackathons as I could.
+{% include photo2.html img1="/my-story/pictures/w17/12.JPG" img2="/my-story/pictures/w17/13.JPG" caption="CN Tower in daytime and night." %}
 
-{% include photo2.html img1="/my-story/pictures/wt2/uofthacks.png" img2="/my-story/pictures/wt2/qhacks.png" %}
-{% include photo2.html img1="/my-story/pictures/wt2/mhacks9.png" img2="/my-story/pictures/wt2/hackprinceton.png" %}
+## Hackathons and Hackathons
+I tried to code as much as I could during the term and go to as many hackathons as I could. My co-op job didn't have a lot of coding and I wanted to travel when given the opportunity so I attended UoftHacks, QHacks, MHacks9, and HackPrinceton.
+
+{% include photo2.html img1="/my-story/pictures/w17/uofthacks.png" img2="/my-story/pictures/w17/qhacks.png" %}
+{% include photo2.html img1="/my-story/pictures/w17/mhacks9.png" img2="/my-story/pictures/w17/hackprinceton.png" %}
 
 There were way too many photos, and it was an amazing experience. Mhacks and HackPrinceton were amazing hackathons in the US, and I highly recommend them to anyone. I actually didn't even get accepted to HackPrinceton, but I still decided to try to get on the bus to try and work on my programming skills and see Princeton University. I went and luckily they let me in (begrudgingly). After HackPrinceton, I knew I really liked doing hackathons and creating ideas/projects/solutions through coding.
 
 Small summary of photos from UofTHacks, QHacks, MHacks9, and HackPrinceton:
-{% include photo2.html img1="/my-story/pictures/wt2/1.png" img2="/my-story/pictures/wt2/2.png" %}
+{% include photo2.html img1="/my-story/pictures/w17/9.JPG" img2="/my-story/pictures/w17/10.JPG" %}
 
-{% include photo2.html img1="/my-story/pictures/wt2/3.png" img2="/my-story/pictures/wt2/4.png" %}
+{% include photo2.html img1="/my-story/pictures/w17/11.JPG" img2="/my-story/pictures/w17/4.png" %}
 
-{% include photo2.html img1="/my-story/pictures/wt2/5.png" img2="/my-story/pictures/wt2/6.png" %}
-
-**Update: I uploaded separate pages for MHacks9 and HackPrinceton2017. Check it out here:**
+**Update: I uploaded separate pages for UofTHacks, Qhacks, MHacks9, and HackPrinceton2017. Check it out here:**
+<a href="/uofthacks/">UofTHacks</a>
+<a href="/qhacks/">QHacks</a>
 <a href="/mhacks9/">MHacks9</a>
 <a href="/hackprinceton2017/">HackPrinceton2017</a>
 
 ## Spring 2017
+
+{% include photo.html img="/my-story/pictures/s17/2.JPG" size="70%" caption="Sunset by the Ion Rail train tracks near campus." %}
 
 I was back in school after a refreshing co-op experience. Unfortunately there aren't many hackathons happening in the summer months. Most Canadian hackathons take place in winter and American ones in the Fall. I planned on focusing on learning NodeJs and some more web development tools for backend dev. I've done mostly QA co-op jobs and I'd like to try to get a dev jobs.
 
@@ -152,7 +145,7 @@ cs246: I would describe it as difficult as what people say it is. OOP is a prett
 
 math239: Interesting introduction to combinatorics.
 
-{% include photo.html img="/my-story/pictures/s17/1.JPG" size="50%" caption="The class photo from spcom223 (public speaking). I'm glad I took it and it was a pretty fun course to use as the communication elective." %}
+{% include photo.html img="/my-story/pictures/s17/1.JPG" size="60%" caption="The class photo from spcom223 (public speaking). I'm glad I took it and it was a pretty fun course to use as the communication elective." %}
 
 ## Fall 2017
 
@@ -164,40 +157,38 @@ co342 with Martin Pei was difficult and I remember going to office hours for tha
 
 This was the term I tried to go to as many hackathons as possible. I went to PennApps XVI, HacktheNorth, Mhacks X, and EthWaterloo. I had to stop after I failed the cs240 midterm and I remember failing cause I had no sleep the prior weekend since I was at ETHWaterloo. I had planned to also go to YHack and HackHarvard but decided against it.
 
-#### PennApps
+### PennApps
 {% include photo.html img="/my-story/pictures/f17/1.JPG" size="60%" caption="Pennsylvania Sign" %}
 
-{% include photo.html img="/my-story/pictures/f17/2.JPG" size="60%" caption="My team at PennApps." %}
+{% include photo2.html img1="/my-story/pictures/f17/2.JPG" img2="/my-story/pictures/f17/5.JPG" caption="My team at PennApps and us at University of Pennsylvania sign." %}
 
 {% include photo.html img="/my-story/pictures/f17/3.JPG" size="60%" caption="A team wearing matching jerseys which I found funny. The team was so coordinated to try and win prizes at this hackathon that they came in a whole costume." %}
 
-{% include photo.html img="/my-story/pictures/f17/4.JPG" size="60%" caption="1. Campfire at PennApps" %}
+{% include photo.html img="/my-story/pictures/f17/4.JPG" size="60%" caption="Campfire at PennApps" %}
 
-{% include photo.html img="/my-story/pictures/f17/5.JPG" size="60%" caption="University of Pennsylvania Sign" %}
+{% include photo.html img="/my-story/pictures/f17/6.JPG" size="40%" caption="Skating activity at PennApps. I was fortunate to do some skating when I was younger and I knew how to skate. It was clear that some of the Americans didn't know how to skate. (LOL)" %}
 
-{% include photo.html img="/my-story/pictures/f17/6.JPG" size="40%" caption="Skating activity at PennApps. p.s. Americans may or may not know how to skate." %}
-
-#### Hack the North
+### Hack the North
 
 {% include photo.html img="/my-story/pictures/f17/7.JPG" size="50%" caption="Prime Minister Trudeau at Hack the North" %}
 
-#### MhacksX
+### MhacksX
 MHacksX was the 13th hackathon I ever attended and the first hackathon I ever won anything at. To go to the dedicated pages for each hackathon from my [grand hackathon tour](/hackathons).
 
-{% include photo.html img="/my-story/pictures/f17/8.JPG" size="60%" height="40%" caption="MHacks opening ceremonies" %}
-
-{% include photo.html img="/my-story/pictures/f17/9.JPG" size="60%" height="40%" caption="MHacksX in glowsticks" %}
+{% include photo2.html img1="/my-story/pictures/f17/8.JPG" img2="/my-story/pictures/f17/9.JPG" caption="MHacks opening ceremonies and MHacks logo." %}
 
 {% include photo.html img="/my-story/pictures/f17/10.JPG" size="40%" caption="MLH photo of us winning at MhacksX" %}
 
 {% include photo.html img="/my-story/pictures/f17/11.JPG" size="60%" caption="Hoarding bottles of free Soylent" %}
 
-#### ETHWaterloo
-{% include photo.html img="/my-story/pictures/f17/12.JPG" size="33%" caption="Photo of me with Vitalik Buterin, (who seemed very happy to take a photo with me) founder of Ethereum, at ETHWaterloo" %}
+### ETHWaterloo
+{% include photo.html img="/my-story/pictures/f17/12-2.JPG" size="60%" caption="My team working at ETHWaterloo." %}
 
-{% include photo.html img="/my-story/pictures/f17/13.JPG" size="33%" caption="Me using Google Glass at the Velocity Residence" %}
+{% include photo.html img="/my-story/pictures/f17/12.JPG" size="40%" caption="Photo of me with Vitalik Buterin, (who seemed very happy to take a photo with me) founder of Ethereum, at ETHWaterloo" %}
 
 ## Winter 2018
+
+{% include photo.html img="/my-story/pictures/w18/6.JPG" size="60%" caption="You can see a bit of a sunset outside when exiting the optometry building on campus." %}
 
 I took cs350 (OS), cs341 (Algorithms), cs349 (UI), co489 (Applied Cryptography), and co250 (Intro to Optimization). I remember this being a fairly challenging term taking 2 large CS courses, and 4 "cs courses" in total if you include co489. co250 also is no bird course either. I planned to take it since I only needed a few more courses to get a combinatorics and optimization minor.
 
@@ -207,14 +198,14 @@ OS was a whole different beast. I'll comment on cs350 now with a more holistic v
 
 cs350 really makes you work for the assignments and understand what is going on behind the scenes, what you are doing, and unlike previous cs courses will punish you (theoretically) if you don't know what you are coding before trying to code. That is also why I ended with a 52 in the course. I decided to skip A3 (page table implementation) and go to HackPrinceton2018 instead. We won a prize, but I also failed that assignment. Future readers, do not do what I did.
 
-#### HackPrinceton 2018
+### HackPrinceton 2018
 {% include photo.html img="/my-story/pictures/w18/1.JPG" size="60%" caption="Princeton campus" %}
 
 {% include photo.html img="/my-story/pictures/w18/2.JPG" size="60%" caption="Passing through New York state" %}
 
 {% include photo.html img="/my-story/pictures/w18/3.JPG" size="60%" caption="Winning at HackPrinceton 2018" %}
 
-{% include photo.html img="/my-story/pictures/w18/4.JPG" size="60%" caption="Sunset? or Sunrise? I can't remember" %}
+{% include photo.html img="/my-story/pictures/w18/5.JPG" size="60%" caption="MLH Hackathon stickers I collected." %}
 
 Job hunting was also very stressful. I had the most interviews up until my Waterloo WaterlooWorks career in the main round with 4 interviews. I felt really good about one of my interviews in main round. I had relevant experience and solved their question. Unfortunately I got ranked and moved to continuous round with 3 not ranked and 1 ranked.
 
@@ -232,24 +223,21 @@ A later week, 200 people applied for Okta soft eng intern position on WaterlooWo
 
 ## Spring 2018 (Work Term 3)
 
-This term I worked at Okta in Toronto. This was a great experience as my first developer job. Okta in Toronto was an unbelievable place to work at compared to previous co-ops in terms of the development environment, my role in the development team, and the overall perks and intern program. I won at their intern hackathon and won their smash 4 tournament. Small feats but still tons of fun during the internship.
-
 {% include photo.html img="/my-story/pictures/s18/1.JPG" size="60%" caption="Okta office" %}
 
-{% include photo.html img="/my-story/pictures/s18/2.JPG" size="60%" caption="Okta office event at Blue Jay's game" %}
+This term I worked at Okta in Toronto. This was a great experience as my first developer job. Okta in Toronto was an unbelievable place to work at compared to previous co-ops in terms of the development environment, my role in the development team, and the overall perks and intern program. I won at their intern hackathon and won their smash 4 tournament. Small feats but still tons of fun during the internship.
 
-{% include photo.html img="/my-story/pictures/s18/3.JPG" size="60%" caption="Watching Deadpool 2 with other Okta interns." %}
+{% include photo2.html img1="/my-story/pictures/s18/2.JPG" img2="/my-story/pictures/s18/3.JPG" caption="Okta office event at Blue Jay's game and watching Deadpool 2 with other Okta interns and David the intern coordinator." %}
 
-{% include photo.html img="/my-story/pictures/s18/4.JPG" size="60%" caption="Axe throwing at a company event." %}
-
-{% include photo.html img="/my-story/pictures/s18/5.JPG" size="60%" caption="Playing smash at the Okta office." %}
+{% include photo2.html img1="/my-story/pictures/s18/4.JPG" img2="/my-story/pictures/s18/5.JPG" caption="Axe throwing at a company event and playing smash at the Okta office." %}
 
 {% include photo.html img="/my-story/pictures/s18/6.JPG" size="60%" caption="Winning the smash doubles tournament after winning 2 sets from losers bracket." %}
 
-
-I also attended a hackathon called "RedBull Adrenalan". It was a crazy gaming tournament and hackathon crossover. The photos I got were pretty sick from the event with the gaming logos and overall aesthetics of the venue.
+### RedBull AdrenaLan
 
 {% include photo.html img="/my-story/pictures/s18/7.JPG" size="60%" height="60%" caption="Gaming setups at the tournament" %}
+
+I also attended a hackathon called "RedBull Adrenalan". It was a crazy gaming tournament and hackathon crossover. The photos I got were pretty sick from the event with the gaming logos and overall aesthetics of the venue.
 
 {% include photo.html img="/my-story/pictures/s18/8.JPG" size="60%" height="60%" caption="Lots of lights at the venue" %}
 
@@ -280,9 +268,7 @@ Networks was just simple and solid. Not too much happening but that was probably
 In terms of hackathons I only attended PennApps XVIII and MHacks 11.
 {% include photo.html img="/my-story/pictures/f18/0.JPG" size="45%" caption="Skating again at PennApps" %}
 
-{% include photo.html img="/my-story/pictures/f18/1.JPG" size="55%" caption="Mhacks Auditorium" %}
-
-{% include photo.html img="/my-story/pictures/f18/2.JPG" size="55%" caption="Food at Mhacks 11" %}
+{% include photo2.html img1="/my-story/pictures/f18/1.JPG" img2="/my-story/pictures/f18/2.JPG" caption="Mhacks Auditorium and Food at Mhacks 11" %}
 
 {% include photo.html img="/my-story/pictures/f18/3.JPG" size="55%" caption="Alex and I at Mhacks 11. We teamed at MhacksX and both interned at Okta over the summer. He was at the SF office and I was at the Toronto office. Our team also won at the Okta intern hackathon." %}
 
@@ -393,9 +379,12 @@ In Winter 2020 I took one online course and graduated while doing my internship 
 <br/>
 <img src="/my-story/pictures/graduation/c12.png" />
 
+> "In the end"? Nothing ends Adrian. Nothing **ever** ends.
+> - Dr. Mahattan
+
 ### University Life
 
-I attended the University of Waterloo that notoriously has a bad rep for social life and is only academically focused. I cannot truly compare between other places like UofT, UBC, or the countless US schools I visited.
+I attended the University of Waterloo that notoriously has a bad rep for having a poor social life and is only academically focused. I cannot truly compare between other places like UofT, UBC, or the countless US schools I visited. It is what you make of it.
 
 I usually say university is a balance between:
 1. grades
@@ -553,7 +542,7 @@ There comes a time in everyone's life where things end. University ending and a 
 
 - Okta was my first tech internship, and it also did not give me a return offer. At the time it was heartbreaking and disappointing. I realized later on that even if it had given a return offer, my life would not be substantially altered. If anything I had to learn from the experience.
 
-Tech is plagued by people trying to prove they are worthy and better than others. This behaviour might be spurned upon by the broadness of the field, the general insecurity of people, and the false positive/negative litmus test they conduct during interviews. I've already said my interviewing thoughts in a separate post, but I think it extends beyond that. The most important thing is to be a good person. The accomplishments are secondary. As vague as that sounds, I think it is really important to not lose our humanity and morals, remembering we all have our flaws.
+Tech is plagued by people trying to prove they are worthy and better than others. This behaviour might be spurned upon by the broadness of the field, the general insecurity of people, and the false positive/negative litmus test they conduct during interviews. I've already said my interviewing thoughts in a separate post, but I think it extends beyond that. The most important thing is to be a good person. The accomplishments are secondary. As vague as that sounds, I think it is really important to not lose our humanity, remembering we all have our flaws.
 
 ### The End
 
