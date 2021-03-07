@@ -37,6 +37,7 @@ Albums:
 - Norman Fucking Rockwell (Lana Del Rey)
 - Never Trust a Happy Song (Grouplove)
 - Random Access Memories (Daft Punk)
+- Rodeo (Travis Scott)
 - Section 80 (Kendrick Lamar)
 - Slim Shady LP (Eminem)
 - The Black Parade (My Chemical Romance)
