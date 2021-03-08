@@ -54,7 +54,7 @@ I entered the University of Waterloo Science and Business Program with a special
 
 {% include photo2.html img1="/my-story/pictures/w15/5-8.jpg" img2="/my-story/pictures/w15/6-3.jpg" caption="Views of DP Library and QNC at night." %}
 
-{% include photo2.html img1="/my-story/pictures/w15/3.jpg" img2="/my-story/pictures/w15/7.jpg" size="50%" caption="I also participated in Model UN, and got 'Best Delegate' at their first in-house committee. I really enjoyed DECA and Model UN in high school, and I continued to participate in those clubs in university. I went to UTMUN, a University of Toronto run Model UN event in Winter 2015 as well." %}
+{% include photo2.html img1="/my-story/pictures/w15/3.jpg" img2="/my-story/pictures/w15/7.JPG" size="50%" caption="I also participated in Model UN, and got 'Best Delegate' at their first in-house committee. I really enjoyed DECA and Model UN in high school, and I continued to participate in those clubs in university. I went to UTMUN, a University of Toronto run Model UN event in Winter 2015 as well." %}
 
 ## Spring 2015 (break)
 
