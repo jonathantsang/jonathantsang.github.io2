@@ -6,6 +6,7 @@ permalink: /my-story/
 
 **This is a post detailing my time at UWaterloo CS from 2014 - 2020. It is now completed. I got the idea to do this from [Robert Elder's UW Journey](http://www.robertelder.ca/my-uw-journey/).**
 
+### Table of Contents
 - [Fall 2014 (1A)](#fall-2014-1a)
 - [Winter 2015 (1B)](#winter-2015-1b)
 - [Spring 2015 (Break)](#spring-2015-break)
@@ -34,34 +35,26 @@ I didn't take any computer science courses in high school, and in hindsight, I s
 
 ## Fall 2014 (1A)
 
-{% include photo.html img="/my-story/pictures/1a/1.jpg" size="40%" caption="This is my first picture from university, taken in my room at Village 1 (V1) the on-campus residence. My phone at the time was the iPhone 3GS, a phone that came out in 2009 (it is about 5 years old in 2014). A lot of the photos I took up until Fall 2015 were taken on the iPhone 3GS.(I later got an iPhone 4S)" %}
+{% include photo.html img="/my-story/pictures/f14/1.jpg" size="40%" caption="This is my first picture from university, taken in my room at Village 1 (V1) the on-campus residence. My phone at the time was the iPhone 3GS, a phone that came out in 2009 (it is about 5 years old in 2014). A lot of the photos I took up until Fall 2015 were taken on the iPhone 3GS.(I later got an iPhone 4S)" %}
 
 I entered the University of Waterloo Science and Business Program with a specialization in chemistry. I was interested in both facets and I was extremely excited to be a part of the program. The only time I had ever lived away from home for a prolonged period of time was for [Shad Valley](http://www.shad.ca), where I went to Halifax and stayed at Dalhousie University for a month. It was an amazing experience to see the (far) east coast of Canada. Here's some photos from Shad Valley:
 
-{% include photo3.html img1="/my-story/pictures/1a/s1.jpg" img2="/my-story/pictures/1a/s2.jpg" img3="/my-story/pictures/1a/s3.jpg" caption1="Nice view from the top of somewhere we had gone for the weekend." caption2= "We visited some smaller towns built by the rivers. It was an interesting view since I lived in Toronto which by comparison was not small-town like this." caption3="Had some delicious lobster while on the east coast. I actually ate it at a place in PEI, and not in Nova Scotia or New Brunswick." %}
+{% include photo3.html img1="/my-story/pictures/f14/s1.jpg" img2="/my-story/pictures/f14/s2.jpg" img3="/my-story/pictures/f14/s3.jpg" caption1="Nice view from the top of somewhere we had gone for the weekend." caption2= "We visited some smaller towns built by the rivers. It was an interesting view since I lived in Toronto which by comparison was not small-town like this." caption3="Had some delicious lobster while on the east coast. I actually ate it at a place in PEI, and not in Nova Scotia or New Brunswick." %}
 
 <br>
 
-{% include photo2.html img1="/my-story/pictures/1a/2-1.jpg" img2="/my-story/pictures/1a/2-2.jpg" caption="Science Teaching Complex and Needles Hall was still under construction in 2014, and I took some pictures of it when it was still being built." %}
+{% include photo2.html img1="/my-story/pictures/f14/2-1.jpg" img2="/my-story/pictures/f14/2-2.jpg" caption="Science Teaching Complex and Needles Hall was still under construction in 2014, and I took some pictures of it when it was still being built." %}
 
 ## Winter 2015 (1B)
-{% include photo.html img="/my-story/pictures/1b/2.jpg" caption="This is was taken when I was doing a titration lab." size="60%" %}
+{% include photo.html img="/my-story/pictures/w15/2.jpg" caption="This is was taken when I was doing a titration lab." size="60%" %}
 
-{% include photo2.html img1="/my-story/pictures/1b/4-1.jpg" img2="/my-story/pictures/1b/4-3.jpg" caption="The winter was pretty snowy that year. The whole campus was covered in a blanket of snow. In the picture on the far left of these three, is a scene near EIT. In the back you can barely make out two figures, one of which is the President of the University of Waterloo, Feridun Hamdullahpur." %}
+{% include photo2.html img1="/my-story/pictures/w15/4-1.jpg" img2="/my-story/pictures/w15/4-3.jpg" caption="The winter was pretty snowy that year. The whole campus was covered in a blanket of snow. In the picture on the far left of these three, is a scene near EIT. In the back you can barely make out two figures, one of which is the President of the University of Waterloo, Feridun Hamdullahpur." %}
 
-{% include photo.html img="/my-story/pictures/1b/4-4.jpg" size="50%" caption="A Christmas tree can be seen on the top of DP Library." %}
+{% include photo2.html img1="/my-story/pictures/w15/5-1.jpg" img2="/my-story/pictures/w15/5-6.jpg" caption="Near the Tatham Centre and MC." %}
 
-<figcaption>Some more photos of campus.</figcaption>
+{% include photo2.html img1="/my-story/pictures/w15/5-8.jpg" img2="/my-story/pictures/w15/6-3.jpg" caption="Views of DP Library and QNC at night." %}
 
-{% include photo2.html img1="/my-story/pictures/1b/5-1.jpg" img2="/my-story/pictures/1b/5-3.jpg" caption="Near the Tatham Centre and Hagey Hall." %}
-
-{% include photo2.html img1="/my-story/pictures/1b/5-4.jpg" img2="/my-story/pictures/1b/5-6.jpg" caption="Beside DC and MC." %}
-
-{% include photo2.html img1="/my-story/pictures/1b/5-8.jpg" img2="/my-story/pictures/1b/5-9.jpg" caption="Views of DP Library and V1 Green." %}
-
-{% include photo2.html img1="/my-story/pictures/1b/6-2.jpg" img2="/my-story/pictures/1b/6-3.jpg" caption="The parking lot at night near PAC, and QNC at night." %}
-
-{% include photo.html img="/my-story/pictures/1b/3.jpg" size="50%" caption="I also participated in Model UN, and got 'Best Delegate' at their first in-house committee. I really enjoyed DECA and Model UN in high school, and I continued to participate in those clubs in university. I went to UTMUN, a University of Toronto run Model UN event in Winter 2015 as well." %}
+{% include photo2.html img1="/my-story/pictures/w15/3.jpg" img2="/my-story/pictures/w15/7.jpg" size="50%" caption="I also participated in Model UN, and got 'Best Delegate' at their first in-house committee. I really enjoyed DECA and Model UN in high school, and I continued to participate in those clubs in university. I went to UTMUN, a University of Toronto run Model UN event in Winter 2015 as well." %}
 
 ## Spring 2015 (break)
 
@@ -71,27 +64,27 @@ I entered the University of Waterloo Science and Business Program with a special
 
 ## Fall 2015 (2A)
 
-{% include photo.html img="/my-story/pictures/2a/7-1.jpg" size="30%" caption="I was a Science Orientation Leader in Fall 2015." %}
+{% include photo.html img="/my-story/pictures/f15/7-1.jpg" size="30%" caption="I was a Science Orientation Leader in Fall 2015." %}
 
-{% include photo2.html img1="/my-story/pictures/2a/8-2.jpg" img2="/my-story/pictures/2a/16.jpg" caption="I attended Terrible Hack 2, my first hackathon, and I was intrigued by the projects created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting. I would eventually meet some of them at the Velocity Residence in Spring 2016." %}
+{% include photo2.html img1="/my-story/pictures/f15/8-2.jpg" img2="/my-story/pictures/f15/16.jpg" caption="I attended Terrible Hack 2, my first hackathon, and I was intrigued by the projects created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting. I would eventually meet some of them at the Velocity Residence in Spring 2016." %}
 
-{% include photo.html img="/my-story/pictures/2a/9-1.jpg" size="50%" caption="I was part of the first ever Model UN in Waterloo called UWaterloo Model G20 as a assistant director of the committee." %}
+{% include photo.html img="/my-story/pictures/f15/9-1.jpg" size="50%" caption="I was part of the first ever Model UN in Waterloo called UWaterloo Model G20 as a assistant director of the committee." %}
 
 I planned to switch into Computer Science (The switch would take almost a year since I needed CS 116 and CS 136 and meet certain mark requirements) I met with advisors, and embarked on a long journey to transfer faculties and programs. At the time I was unsure of the decision to switch. I was unsure if it would be better in the end. After some thought I decided to switch programs.
 
 ## Winter 2016 (Work Term 1)
 
-{% include photo.html img="/my-story/pictures/wt1/intrafinity.jpg" size="40%" caption="Intrafinity logo" %}
+{% include photo.html img="/my-story/pictures/w16/intrafinity.jpg" size="40%" caption="Intrafinity logo" %}
 
 I had a co-op placement at Intrafinity (also called School Messenger since they were recently bought over by the West Corporation). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time. They hired 20 co-ops and I met a lot of people I normally wouldn't have since they were from a variety of faculties and programs.
 
-{% include photo.html img="/my-story/pictures/wt1/10-1.jpg" size="50%" caption="While in Toronto, I went to 'Smash at York' and played in the tournament for fun. I saw some local Toronto players I usually saw on Twitch." %}
+{% include photo.html img="/my-story/pictures/w16/10-1.jpg" size="70%" caption="While in Toronto, I went to 'Smash at York' and played in the tournament for fun. I saw some local Toronto players I usually saw on Twitch." %}
 
 ## Spring 2016 (2B)
 
 I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math 135, and Stat 230. I liked CS 116 using Python. Although Math 135's math proofs were a bit rocky I ended up doing pretty well in the course and by the end I enjoyed the content overall. (Mod and complex-numbers and n-th roots were my favourite concepts taught in the course)
 
-{% include photo3.html img1="/my-story/pictures/2b/11-1.jpg" img2="/my-story/pictures/2b/11-2.jpg" img3="/my-story/pictures/2b/11-3.jpg" caption="I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence" caption1="My velocity sweater I got for staying in the residence." caption2="The middle one is a picture of the Communitech sign when I went to their office for a big Velocity dinner." caption3="Mural of the Google logo, since Communitech moved into Google's old building a lot of paintings were left there."%}
+{% include photo3.html img1="/my-story/pictures/s16/11-1.jpg" img2="/my-story/pictures/s16/11-2.jpg" img3="/my-story/pictures/s16/11-3.jpg" caption="I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence" caption1="My velocity sweater I got for staying in the residence." caption2="The middle one is a picture of the Communitech sign when I went to their office for a big Velocity dinner." caption3="Mural of the Google logo, since Communitech moved into Google's old building a lot of paintings were left there."%}
 
 ## Fall 2016 (2B)
 
@@ -100,12 +93,14 @@ I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math
 I switched my co-op stream around, so I was supposed to be on co-op during this term, but I wanted to take CS 136 and get into the CS program. I took Math 136, Stat 231, CS 136, ENGL 109, and Music 100. It is a little heftier of a term since it has 5 courses instead of 4 courses last term, but overall a manageable courseload.
 
 ## MHacks8
-{% include photo.html img="/my-story/pictures/2b/13-1.jpg" size="30%" caption="I had a TON of pictures from Mhacks: <a href='/mhacks8/'>Link</a>" %}
+{% include photo.html img="/my-story/pictures/s16/13-1.jpg" size="20%" caption="I had a TON of pictures from Mhacks: <a href='/mhacks8/'>Link</a>" %}
 
 This was my first experience outside of the country for a hackathon. It took place at Detroit, Michigan at the Masonic Temple. I walked in with a view of Hack the North, but got a different style of hackathon. The venue was a bit run down, but the interaction from people from University of Michigan and other universities was amazing.
 
 ## TerribleHacks5
-{% include photo.html img="/my-story/pictures/2b/14-1.jpg" size="40%" caption="The parody hackathon. I learned how to use Unity here. I compiled photos from the event here: <a href='/th5/'>Link</a>" %}
+{% include photo.html img="/my-story/pictures/s16/14-1.jpg" size="50%" caption="The parody hackathon. I learned how to use Unity here. I compiled photos from the event here: <a href='/th5/'>Link</a>" %}
+
+{% include photo.html img="/my-story/pictures/f16/3.jpg" size="70%" caption="I also presented my (pretty terrible) project there." %}
 
 ## Winter 2017 (Work Term 2)
 {% include photo.html img="/my-story/pictures/w17/surfeasy.png" size="40%" caption="I worked at SurfEasy VPN as a QA Analyst. It is an awesome startup with great culture and talented individuals that believe in their product quality first and foremost. I learned about the development cycle of software in a real work setting, worked in a tight knit team on logging and investigating bugs, and coded some of the iOS mobile automation tests during my time there." %}
@@ -123,9 +118,9 @@ I tried to code as much as I could during the term and go to as many hackathons 
 There were way too many photos, and it was an amazing experience. Mhacks and HackPrinceton were amazing hackathons in the US, and I highly recommend them to anyone. I actually didn't even get accepted to HackPrinceton, but I still decided to try to get on the bus to try and work on my programming skills and see Princeton University. I went and luckily they let me in (begrudgingly). After HackPrinceton, I knew I really liked doing hackathons and creating ideas/projects/solutions through coding.
 
 Small summary of photos from UofTHacks, QHacks, MHacks9, and HackPrinceton:
-{% include photo2.html img1="/my-story/pictures/w17/9.JPG" img2="/my-story/pictures/w17/10.JPG" %}
+{% include photo2.html img1="/my-story/pictures/w17/9.JPG" img2="/my-story/pictures/w17/2.png" %}
 
-{% include photo2.html img1="/my-story/pictures/w17/11.JPG" img2="/my-story/pictures/w17/4.png" %}
+{% include photo2.html img1="/my-story/pictures/w17/14.JPG" img2="/my-story/pictures/w17/4.png" %}
 
 **Update: I uploaded separate pages for UofTHacks, Qhacks, MHacks9, and HackPrinceton2017. Check it out here:**
 <a href="/uofthacks/">UofTHacks</a>
@@ -151,8 +146,6 @@ math239: Interesting introduction to combinatorics.
 
 Courses I took were cs240 (data structures), cs241 (mini-compilers), cs370 (numerical computation), and co342 (graph theory).
 
-**(I am writing this in 2020 and I can't remember much from what happened almost 3 years ago)**
-
 co342 with Martin Pei was difficult and I remember going to office hours for that course every week. cs370 with Jeff Orchard was pretty good. I mainly took cs370 cause it is a prereq to graphics (cs488) cs240 was not too bad looking back and cs241 was fairly easy.
 
 This was the term I tried to go to as many hackathons as possible. I went to PennApps XVI, HacktheNorth, Mhacks X, and EthWaterloo. I had to stop after I failed the cs240 midterm and I remember failing cause I had no sleep the prior weekend since I was at ETHWaterloo. I had planned to also go to YHack and HackHarvard but decided against it.
@@ -170,7 +163,7 @@ This was the term I tried to go to as many hackathons as possible. I went to Pen
 
 ### Hack the North
 
-{% include photo.html img="/my-story/pictures/f17/7.JPG" size="50%" caption="Prime Minister Trudeau at Hack the North" %}
+{% include photo.html img="/my-story/pictures/f17/7.JPG" size="50%" caption="Prime Minister Trudeau speaking at Hack the North." %}
 
 ### MhacksX
 MHacksX was the 13th hackathon I ever attended and the first hackathon I ever won anything at. To go to the dedicated pages for each hackathon from my [grand hackathon tour](/hackathons).
@@ -199,23 +192,21 @@ OS was a whole different beast. I'll comment on cs350 now with a more holistic v
 cs350 really makes you work for the assignments and understand what is going on behind the scenes, what you are doing, and unlike previous cs courses will punish you (theoretically) if you don't know what you are coding before trying to code. That is also why I ended with a 52 in the course. I decided to skip A3 (page table implementation) and go to HackPrinceton2018 instead. We won a prize, but I also failed that assignment. Future readers, do not do what I did.
 
 ### HackPrinceton 2018
-{% include photo.html img="/my-story/pictures/w18/1.JPG" size="60%" caption="Princeton campus" %}
+{% include photo2.html img1="/my-story/pictures/w18/2.JPG" img2="/my-story/pictures/w18/7.JPG" caption="Passing through NY state and Princeton campus" %}
 
-{% include photo.html img="/my-story/pictures/w18/2.JPG" size="60%" caption="Passing through New York state" %}
-
-{% include photo.html img="/my-story/pictures/w18/3.JPG" size="60%" caption="Winning at HackPrinceton 2018" %}
+{% include photo.html img="/my-story/pictures/w18/3.JPG"  size="60%" caption="Winning at HackPrinceton 2018" %}
 
 {% include photo.html img="/my-story/pictures/w18/5.JPG" size="60%" caption="MLH Hackathon stickers I collected." %}
 
-Job hunting was also very stressful. I had the most interviews up until my Waterloo WaterlooWorks career in the main round with 4 interviews. I felt really good about one of my interviews in main round. I had relevant experience and solved their question. Unfortunately I got ranked and moved to continuous round with 3 not ranked and 1 ranked.
+Job hunting was also very stressful. I had the most interviews up until my WaterlooWorks career in the main round with 4 interviews. I felt really good about one of my interviews in main round. I had relevant experience and solved their question. Unfortunately I got ranked and moved to continuous round with 3 not ranked and 1 ranked.
 
-Then I got to continuous round with 9 interviews total.
+I had 9 interviews total in continuous round.
 
 One company interviewed me and did not ask me a coding question it was all behavioural stuff. Up into this point not only had no company given me an offer but I was feeling nervous would I even get a developer job (as a 3A student). I was applying externally and trying to find other avenues as well since WaterlooWorks wasn't looking good. They ended up giving me an offer on WaterlooWorks in continuous round. I was skeptical of the job and decided to rank it a 4 (by not giving it a 1, someone who was ranked giving it a 1 means they got the job). I was not matched with the job. After this decision many people were stating that me throwing away the only offer. I had around 6 interviews up until that point that were all rejections and it did seem crazy to throw away the only offer. Personally, I felt that the job did not nearly impress me in the same way an interview should have a company be impressed by you. So I rejected them.
 
 I always tried to abide by two principles:
-- never gamble more than you can handle (stress-wise)
-- gamble when you get the chance and always bet on your abilities to do something remarkable
+- never gamble more than you can handle (relating to your ability to handle stress)
+- gamble when you get the chance and always bet on your abilities to do something remarkable (akin to Murphy's law)
 
 I have the belief that you need to put in work and dedicate your time to continuously improving yourself to challenge what you can accomplish. In this case I got lucky, and I gambled. Sometimes it doesn't work out this way. And when people ask sometimes how it happened, I guess I was willing to take risks. It was incredibly difficult though after tossing out the only offer I had **AND THEN** go back to failing interviews in WaterlooWorks for jobs I wanted. You feel incredible remorse after that.
 
@@ -225,29 +216,27 @@ A later week, 200 people applied for Okta soft eng intern position on WaterlooWo
 
 {% include photo.html img="/my-story/pictures/s18/1.JPG" size="60%" caption="Okta office" %}
 
-This term I worked at Okta in Toronto. This was a great experience as my first developer job. Okta in Toronto was an unbelievable place to work at compared to previous co-ops in terms of the development environment, my role in the development team, and the overall perks and intern program. I won at their intern hackathon and won their smash 4 tournament. Small feats but still tons of fun during the internship.
+This term I worked at Okta in Toronto. This was a great experience as my first developer job. Okta in Toronto was an unbelievable place to work at compared to previous co-ops in terms of the development environment, my role in the development team, and the overall perks and intern program. I won their intern hackathon and won their smash 4 tournament. Small feats but still tons of fun during the internship.
 
-{% include photo2.html img1="/my-story/pictures/s18/2.JPG" img2="/my-story/pictures/s18/3.JPG" caption="Okta office event at Blue Jay's game and watching Deadpool 2 with other Okta interns and David the intern coordinator." %}
+{% include photo2.html img1="/my-story/pictures/s18/12.JPG" img2="/my-story/pictures/s18/13.JPG" caption="Okta office event at Blue Jay's game and us in the (old) office." %}
 
-{% include photo2.html img1="/my-story/pictures/s18/4.JPG" img2="/my-story/pictures/s18/5.JPG" caption="Axe throwing at a company event and playing smash at the Okta office." %}
+{% include photo.html img="/my-story/pictures/s18/4.JPG" caption="Axe throwing at a company event." size="60%" %}
 
-{% include photo.html img="/my-story/pictures/s18/6.JPG" size="60%" caption="Winning the smash doubles tournament after winning 2 sets from losers bracket." %}
+{% include photo.html img="/my-story/pictures/s18/6.JPG" size="60%" caption="Winning the smash 4 doubles tournament after losing in winner's bracket 0-2 to Chris's team and winning 2 sets from loser's bracket 2-1 then 2-0. I played Bowser after our double Cloud strat didn't work." %}
 
 ### RedBull AdrenaLan
 
-{% include photo.html img="/my-story/pictures/s18/7.JPG" size="60%" height="60%" caption="Gaming setups at the tournament" %}
+{% include photo.html img="/my-story/pictures/s18/7.JPG" size="70%" caption="Gaming setups at the tournament" %}
 
 I also attended a hackathon called "RedBull Adrenalan". It was a crazy gaming tournament and hackathon crossover. The photos I got were pretty sick from the event with the gaming logos and overall aesthetics of the venue.
 
-{% include photo.html img="/my-story/pictures/s18/8.JPG" size="60%" height="60%" caption="Lots of lights at the venue" %}
+{% include photo2.html img1="/my-story/pictures/s18/15.JPG" img2="/my-story/pictures/s18/16.JPG" caption="The venue had a lot of strobe lights." %}
 
-{% include photo.html img="/my-story/pictures/s18/9.JPG" size="60%" height="60%" caption="I'm riding a guy's homemade boosted board" %}
-
-{% include photo.html img="/my-story/pictures/s18/10.JPG" size="40%" height="40%" caption="Playing Overwatch on some of the intense gaming rigs. The venue had areas where you could play on these setups for free." %}
+{% include photo.html img="/my-story/pictures/s18/14.JPG" size="60%" caption="I got to play Overwatch on some of the intense gaming rigs. The venue had areas where you could play on these setups for free." %}
 
 At the end of the internship, the team at Okta told me that they were not extending a return offer in any capacity, intern or full time.
 
-I want to keep `my-story` real and include this. It was an unfortunate time when that happened since my performance at Okta did not warrant a return offer. It took me a while to accept that out of the 5 interns at Okta (in Toronto office) I had to accept they were not giving me a return offer. Of the 4 other interns, 3 did return for full-time.
+It was an unfortunate time when that happened since my performance at Okta did not warrant a return offer. It took me a while to accept that out of the 5 interns at Okta (in Toronto office) I had to accept they were not giving me a return offer. Of the 4 other interns, 3 did return for full-time.
 
 Looking back on this experience it was very depressing since it was my first developer job and seriously put doubts in my mind for being a developer in the future. Looking back on this almost three years later, I can see why they chose not to extend the offer. I had areas in improve in for the future and I was much earlier in my career than some of the other interns.
 
@@ -261,48 +250,38 @@ In regards to the second point, I felt rushed. Most students have 6 co-ops terms
 
 This term I took cs488 (graphics), cs343 (concurrency), and cs456 (networks). Just those three threw me for a loop. I wanted to do at least one of the big 3, because it was a long enough journey to reach the upper year cs electives. I wanted to challenge myself. It was challenging, but graphics is probably the easiest of the big 3 (cs444 compilers, and cs452 trains being the other two). I still recommend people taking it for a challenge even if you most likely will never be making a ray tracer or using OpenGL on a low level in your full time work. Continuously push yourself.
 
-Concurrency (cs343) was also a valuable course. It is in micro c++, Peter Buhr's custom C++ with concurrency. I really liked the course. The blog that sparked my interest in it? Robert Elder's blog [link](http://www.robertelder.ca/my-uw-journey/) You will most likely never use micro c++ on the job, but the concurrency concepts challenge you in a similar way to full time. You are given assignment specs 4-5 pages long and you need to decipher the information and do the assignments. Details are sometimes murky, you need to clarify things, but that is software engineering once you delve more into it.
+Concurrency (cs343) was also a valuable course. It is in micro c++, Peter Buhr's custom C++ with concurrency. I really liked the course. The blog that sparked my interest in it? Robert Elder's blog [link](http://www.robertelder.ca/my-uw-journey/). You will most likely never use micro c++ on the job, but the concurrency concepts challenge you in a similar way to full time. You are given assignment specs 4-5 pages long and you need to decipher the information and do the assignments. Details are sometimes murky, you need to clarify things, but that is software engineering once you delve more into it.
 
 Networks was just simple and solid. Not too much happening but that was probably a good thing with graphics and concurrency taking most of my time.
 
-In terms of hackathons I only attended PennApps XVIII and MHacks 11.
+I only attended PennApps XVIII and MHacks 11 this term. I did want to focus more on interviewing and less on hackathons.
 {% include photo.html img="/my-story/pictures/f18/0.JPG" size="45%" caption="Skating again at PennApps" %}
 
 {% include photo2.html img1="/my-story/pictures/f18/1.JPG" img2="/my-story/pictures/f18/2.JPG" caption="Mhacks Auditorium and Food at Mhacks 11" %}
 
 {% include photo.html img="/my-story/pictures/f18/3.JPG" size="55%" caption="Alex and I at Mhacks 11. We teamed at MhacksX and both interned at Okta over the summer. He was at the SF office and I was at the Toronto office. Our team also won at the Okta intern hackathon." %}
 
-{% include photo.html img="/my-story/pictures/f18/4.JPG" size="55%" caption="Riding Bird scooters around Ann Arbor. Bird Scooter (before I was subsequently banned for not having a driver's license)" %}
-
-{% include photo.html img="/my-story/pictures/f18/5.JPG" size="45%" caption="UMichigan shirt motto" %}
+{% include photo2.html img1="/my-story/pictures/f18/4.JPG" img2="/my-story/pictures/f18/5.JPG" caption="Riding Bird scooters around Ann Arbor. Bird Scooter (before I was subsequently banned for not having a driver's license) and UMichigan shirt saying 'Respect is earned'." %}
 
 I was also interviewing at this time. I wanted to get a summer 2019 internship preferably in the states. So I applied externally since I did not have WaterlooWorks access until Winter 2019. None of my interviews worked out. One interview I had to fly out to London, England for an onsite (which I unfortunately failed) in the last few weeks of the term when the final projects for graphics, concurrency, and networks were all due. I would have loved to stay longer in London, but time did not allow me. (I spent less than 24 hours in London. This includes sleep hours and the interview time)
 
-{% include photo.html img="/my-story/pictures/f18/6.JPG" size="60%" caption="Flying to London" %}
+{% include photo2.html img1="/my-story/pictures/f18/7.JPG" img2="/my-story/pictures/f18/8.JPG" caption="London streets and Improbable Office." %}
 
-{% include photo.html img="/my-story/pictures/f18/7.JPG" size="60%" caption="London streets" %}
-
-{% include photo.html img="/my-story/pictures/f18/8.JPG" size="60%" caption="Improbable office" %}
-
-{% include photo.html img="/my-story/pictures/f18/9.JPG" size="45%" caption="Metro sign in London" %}
-
-{% include photo.html img="/my-story/pictures/f18/10.JPG" size="60%" caption="Liverpool Street Station" %}
-
-{% include photo.html img="/my-story/pictures/f18/11.JPG" size="60%" caption="Flying back to Canada" %}
+{% include photo.html img="/my-story/pictures/f18/10.JPG" size="80%" caption="Liverpool Street Station" %}
 
 After this term I had completed ALL my course requirements for the Bachelor of CS. Luckily I did not fail graphics because it was a intensive course. The ray tracer demanded more time than I gave it with the interviews going on and the cs 343.
 
-{% include photo.html img="/my-story/pictures/f18/13.JPG" size="40%" caption="I also got to try out Lime scooters for the pilot in Waterloo" %}
+{% include photo.html img="/my-story/pictures/f18/13.JPG" size="50%" caption="I also got to try out Lime scooters for the pilot in Waterloo" %}
 
-{% include photo.html img="/my-story/pictures/f18/14.JPG" size="50%" caption="It got snowy one day" %}
+{% include photo.html img="/my-story/pictures/f18/14.JPG" size="70%" caption="Snowstorm in Waterloo." %}
 
-{% include photo.html img="/my-story/pictures/f18/15.JPG" size="50%" caption="I was winding down playing melee competitively but I went to one last tournament at Crossroads near Laurier. I placed 9th out of 13 people. Hilariously this may be my best placing ever at an official tournament." %}
+{% include photo.html img="/my-story/pictures/f18/15.JPG" size="60%" caption="I was no longer playing melee competitively (I had never gone to many tournaments) but I went to one last tournament at Crossroads near Laurier. I placed 9th out of 13 people. Despite that sounding like a bad placing, hilariously this may be my best placing ever at an official tournament." %}
 
 {% include photo.html img="/my-story/pictures/f18/16.JPG" size="50%" caption="TnT opened in Waterloo and I lined up opening day. They had some good Taiyaki." %}
 
 ## Winter 2019
 
-This term I took cs454 (distributed systems), econ212 (game theory), and co353 (computational discrete optimization). I took distributed out of interest, econ212 for fun, and co353 to finish my combinatorics minor. I liked econ212 cause you play game and test out your game theory strategies. I did much better in cs454 compared to cs350 despite it being similar working at the OS level. This time I did the assignments and didn't skip and to go to hackathons.
+This term I took cs454 (distributed systems), econ212 (game theory), and co353 (computational discrete optimization). I took distributed out of interest, econ212 for fun, and co353 to finish my combinatorics minor. I liked econ212 cause you play games and test out your game theory strategies. I did much better in cs454 compared to cs350 despite it being similar working at the OS level. This time I did the assignments and didn't skip and to go to hackathons.
 
 {% include photo.html img="/my-story/pictures/w19/1.JPG" size="60%" caption="I attended one of Dave Tompkin's Reddit meet ups! I've been meaning to attend one for a while but I was never in Waterloo at the time. I'm not a reddit celebrity but I met a few notable names in person." %}
 
@@ -320,49 +299,47 @@ Zenefits interviewed me again in continuous round and this time I passed the Zen
 
 ## Spring 2019 (Work Term 4)
 
-I worked at Zenefits in Vancouver this term. This was probably the best accidental experience ever. I was really aiming for California but Vancouver was amazing. I loved the UBC area, Vancouver downtown, and everything that made Vancouver different from Toronto.
+I worked at Zenefits in Vancouver this term. This was probably the best accidental experience ever. I was really aiming for California but Vancouver was amazing. I loved the UBC area and working in downtown Vancouver.
 
-{% include photo.html img="/my-story/pictures/s19/1.JPG" size="60%" caption="Sunset at the UBC beach" %}
+{% include photo.html img="/my-story/pictures/s19/1.JPG" size="80%" caption="Sunset at the UBC beach" %}
 
-{% include photo.html img="/my-story/pictures/s19/2.JPG" size="60%" caption="UBC campus at night illuminated by blue lights" %}
+{% include photo2.html img1="/my-story/pictures/s19/3.JPG" img2="/my-story/pictures/s19/6.JPG" caption="Photos from Garibaldi Lake near Whistler, BC" %}
 
-{% include photo.html img="/my-story/pictures/s19/3.JPG" size="60%" caption="Garibaldi Lake near Whistler, BC" %}
+{% include photo2.html img1="/my-story/pictures/s19/4.JPG" img2="/my-story/pictures/s19/10.JPG" caption="Zenefits fridge. Contains lots of LaCroix. On the right Mango Bingsoo from Snowy Village." %}
 
-{% include photo.html img="/my-story/pictures/s19/4.JPG" size="40%" caption="Zenefits fridge. I love LaCroix." %}
+{% include photo2.html img1="/my-story/pictures/s19/13.JPG" img2="/my-story/pictures/s19/14.JPG" size="60%" caption="Hiking to Iceberg lake" %}
 
-{% include photo.html img="/my-story/pictures/s19/5.JPG" size="60%" caption="Garden at UBC with mountains in the back" %}
+{% include photo2.html img1="/my-story/pictures/s19/20.JPG" img2="/my-story/pictures/s19/8.JPG" size="60%" caption="Aburi sushi from Green Leaf Sushi. My Uncle's shiba inu named 'Yoshi'" %}
 
-{% include photo.html img="/my-story/pictures/s19/6.JPG" size="60%" caption="Another photo of Garibaldi Lake near Whistler, BC" %}
+{% include photo2.html img1="/my-story/pictures/s19/17.JPG" img2="/my-story/pictures/s19/18.JPG" caption="On the long weekend I was able to plan a trip to Seattle with the other interns. Met up with my friend Austin who was in Seattle. Also took a photo of a sticker that I saw a few times in Seattle saying 'go home tech bro'" %}
 
-{% include photo.html img="/my-story/pictures/s19/7.JPG" size="60%" caption="Zenefits quarterly event, kayaking at Deep Cove" %}
+{% include photo2.html img1="/my-story/pictures/s19/16.JPG" img2="/my-story/pictures/s19/15.JPG" caption="Climbing Grouse Grind in ~1:29 with Andrew. Marutama ramen with extra chasu." %}
 
-{% include photo.html img="/my-story/pictures/s19/8.JPG" size="60%" caption="My Uncle's shiba inu named 'Yoshi'" %}
+{% include photo.html img="/my-story/pictures/s19/19.JPG" size="60%" caption="I grabbed lunch with my friend Rhys (who I interned with at Okta) near Canada Place." %}
 
-{% include photo.html img="/my-story/pictures/s19/9.JPG" size="60%" caption="A huge spider I found in my sublet. That was about the size of the palm of my hand." %}
+I continued to interview for internships (common theme throughout all of my terms) at Zenefits (since technically I had 8 month co-op from Spring 2019 and Fall 2019)
 
-I continued to interview for internships (common theme) at Zenefits (since technically I had 8 month co-op from Spring 2019 and Fall 2019)
-
-I used WaterlooWorks. Officially I wasn't in Waterloo so I couldn't even go to the Tatham Centre for interviews. I had 0 official interviews. I had 3 interviews scheduled externally. I passed two of them. I passed the Amazon interview but they said they "ran out of spots". So I went with the only offer I had which was LinkedIn for UI Engineer intern. UI wasn't my specialty, but I wanted to walk in with an open mind to learn as much as I could.
-
-{% include photo.html img="/my-story/pictures/s19/10.JPG" size="40%" caption="Mango bingsoo from Snowy Village. It might be my favourite dessert place ever. (Salt and Straw and Rain or Shine are so good too. Too hard to decide.)" %}
-
-**Side Note:** Vancouver is my favourite food place on Earth. I love the ramen and sushi in Vancouver since it is so close to the ocean and the seafood is great. So much good food and it isn't expensive like Cali or Seattle.
-
-{% include photo.html img="/my-story/pictures/s19/11.JPG" size="40%" height="40%" caption="Danny Green (NBA player) came and did a fan signing at a London Drugs that was opening in the Point Grey/Dunbar area" %}
+I used WaterlooWorks. Officially I wasn't in Waterloo so I couldn't even go to the Tatham Centre for interviews. I had to schedule them all virtually. I had 0 official interviews through the "official waterlooworks system". I had 3 interviews scheduled externally. I passed two of them. I passed the Amazon interview but they said they "ran out of spots". So I went with the only offer I had which was LinkedIn for UI Engineer intern. UI wasn't my specialty, but I decided to run with it.
 
 ## Fall 2019 (Work Term 5)
 
-After many years of grinding for interviews, I had gotten a developer job in California. Was the feeling as gratifying as I had always hoped it would be? It wasn't. If anything I had felt it was disappointing with how I envisioned the gradiose nature of getting it would be. You yearn for something so long and idolize it as a goal and when it is in the palm of your hand you are almost disappointed it is a reality. Something hyped up that much really puts in the meaning to "never meet your heroes, you'll only be disappointed".
+After many years of grinding for interviews, I had gotten a developer job in California. Was the feeling as gratifying as I had always hoped it would be? It wasn't. If anything I had felt it was disappointing with how I envisioned the gradiose nature of getting it would be. You yearn for something so long, you picture it as the ultimate goal and when it actually becomes true it is ultimately very disappointing when it is a reality. Something hyped up that much really describes the phrase "never meet your heroes, you'll only be disappointed".
 
-That doesn't take away from the LinkedIn internship. The attainment was disappointing, but the internship was not. If anything in the way Okta shocked me, LinkedIn and the Bay Area shocked me in a larger way. The area was ruled with tech. Engineering was the focus and the perks and benefits were out of control. It was a mini-paradise.
+That doesn't take away from the LinkedIn internship. The attainment was disappointing, but the internship was not. In the way Okta shocked me as my first developer job, LinkedIn and the Bay Area shocked me in a larger way. The area was ruled with tech. Engineering was the focus and the perks and benefits were out of control. It was a mini-paradise.
 
 I continued interviewing (continuous motif) for internships at LinkedIn. I decided to go to a place called "TheTradeDesk".
 
 ## Winter 2020 (Work Term 6)
 
+{% include photo2.html img1="/my-story/pictures/w20/1.JPG" img2="/my-story/pictures/w20/9.JPG" caption="Seattle Space Needle and Pike Place Market, two of the most iconic Seattle attractions." %}
+
 I spent the winter months of January to June in Bellevue interning at a company called "TheTradeDesk".
 
-Seattle was really nice. I got to explore Seattle for January to March before covid-19 restrictions made me work from home. Our office had nice events for the ~20 people and we had catered lunch Wednesdays and Fridays alongside snacks and a stocked fridge. Reminded me a lot of Okta.
+Seattle was really nice. I got to explore Seattle for January to March before covid-19 restrictions made me work from home. Our office had nice events for the ~20 people and we had catered lunch Wednesdays and Fridays alongside snacks and a stocked fridge. Reminded me a lot of my internship at Okta.
+
+{% include photo.html img="/my-story/pictures/w20/8.JPG" size="70%" caption="Mango bingsoo and a taiyaki from Snowy Village in UDistrict." %}
+
+{% include photo.html img="/my-story/pictures/w20/5.JPG" size="70%" caption="Fremont Troll which has appeared in a few movies." %}
 
 Formally there was no "intern program" since I was the only intern among ~20 or so people in the office. I think there were other interns in other offices (Ventura, New York).
 
@@ -393,15 +370,17 @@ I usually say university is a balance between:
 4. fun
 5. mental health
 
-The people who can efficiently balance all 5 are few and far between and most people can only choose 2-3 of these and execute effectively. Despite this page being called `my-story` I will admit it is a heavily edited and skewed story that leans towards moments of great accomplishments or periods of change in my life. Not everything is as dynamic or picturesque as this, and I feel in some way responsible to say that these are only the "highlights" of my undergrad. There were just as many "lowlights" that were not mentioned:
+The people who can efficiently balance all 5 are few and far between and most people can only choose 2-3 of these and execute effectively. If you choose to have all 5, you often do a poor job addressing all of them. Despite this page being called `my-story` I will admit it is a heavily edited and skewed story that leans towards moments of great accomplishments or periods of change in my life. Not everything is as dynamic or picturesque as this, and I feel in some way responsible to say that these are only the "highlights" of my undergrad. There were just as many "lowlights" that were not mentioned:
 
 - In 2017 I was unable to find a developer job for my co-op, I had to work in QA
 - I failed to win anything at the first 12 hackathons I went to (despite people telling me it was very easy to win at hackathons)
 - I got 52% in CS 350 (Operating Systems)
-- I was unable to find a co-op job for summer 2018 and went to continuous round, later going to Okta
-- I was unable to find a co-op job for summer 2019 and went to continuous round, later going to Zenefits
-- I often felt that my social life and mental health suffered as a result of not being something I addressed during undergrad
+- I was unable to find a co-op job for summer 2018 after months of interviewing and went to continuous round, later going to Okta
+- I got a 'very good' co-op evalution from Okta (which is actually a mediocre evaluation) and I didn't get a return offer from Okta 
+- I was unable to find a co-op job for summer 2019 after months of interviewing and went to continuous round, later going to Zenefits
+- I often felt that my social life and mental health were very poor during my undergrad
 - there were moments on intense pressure either from school coursework, or trying to get a "cali" co-op and I buckled under the pressure
+- I tried multiple times to place in the Waterloo local ACM contest (to potentially be on the ACM team) but I never made the team out of roughly ~5 attempts
 
 ### Was it worth it?
 
@@ -473,7 +452,7 @@ These are my marks, ordered chronologically.
 ### My lowest marks:
 - CS 350: 52
 - Math 239: 55
-- CO 353: 57
+- CO 353: 57 (I hated this course)
 - CO 250: 59
 - CS 488: 60
 - CO 342: 60
@@ -492,7 +471,7 @@ These are my marks, ordered chronologically.
 | 4B   | 65.3333333 | 73.9496667         |
 | 4B   | 82         | 74.1226667         |
 
-One thing I regret is that I never put a lot of effort into school. I often felt that I did not learn best in the conventional way of studying from a textbook, writing notes, and listening to lectures. I had trouble remembering concepts and falling asleep in class.
+I did 4B multiple times as I did extra courses beyond my degree requirements. One thing I regret is that I never put a lot of effort into school. I often felt that I did not learn best in the conventional way of studying from a textbook, writing notes, and listening to lectures. I had trouble remembering concepts and falling asleep in class.
 
 ## Afterthoughts
 
@@ -502,47 +481,31 @@ I don't know.
 
 ### Co-op Competition in UWaterloo
 
-I travelled around North America and met tons of people through hackathons or co-ops. I am very fortunate to have met a fairly diverse group of people and spending time learning about them. I went to waterloo for CS, one of the hardest programs to get into these days. Undeniably there are people that act like assholes.
+I travelled around North America and met tons of people through hackathons or co-ops. I am very fortunate to have met a fairly diverse group of people and spending time learning about them. I went to waterloo for CS, one of the hardest programs to get into these days.
 
 Some people in highschool are accomplished and motivated and continue this path in university. There are others who fail to reach their potential after being the "top of their class" in highschool. The fish in the small pond sees the ocean as university brings the people who are "the best of their area" and brings it to a much larger scope.
 
 Survivorship bias makes us see all the successful people and not view the less successful people. In many ways we aspire to be them and disregard the other people who are not seen. I liken it to the concept of athletes and celebrities predate this notion early in our childhood. In reality, we know nothing about these role models and want to be like them because of what they have and what we don't. These people are lauded as role models because they are good at some facet of life (perhaps they can play a sport well or act in our favourite movie). We almost never hear of the many failures or hardships that occurred.
 
-The waterloo co-op scene is competitive due to perceived prestige from co-ops over others. We have this perception because someone has a co-op in a certain location (California) or from a specific company (FAANG) and we assume they are special or smarter than someone who doesn't have it. The reality of this is that your job doesn't mean much more than what it is, a job. I've made this mistake in the past, and I've seen people treat their job **as their identity**. You identity is comprised of your job, but it shouldn't whole-heartedly be composed of your job or co-ops. There is more to life than that.
+The waterloo co-op scene is competitive due to perceived prestige from co-ops over others. We have this perception because someone has a co-op in a certain location (California) or from a specific company (FAANG) and we assume they are special or smarter than someone who doesn't have it. The reality of this is that your job doesn't mean much more than what it is, a job. I've made this mistake in the past, and I've seen people treat their job **as their identity**. You identity is comprised of your job, but it shouldn't entirely be composed of your job or co-ops. There is more to life than that.
 
-I don't think there should be moments where you don't help someone else. Either in coursework, interview prep, or otherwise in life. I still remember when I switched into CS and I knew nothing. Many people feel like this and although this is fairly obvious, helping someone else is not a detrimental thing. It is a net positive for everyone and yourself. When we uplift one another we motivate each other to do the best we can do collectively. I always felt it was important to give back in any way possible. Whether it be being an orientation leader, mentoring others, or helping others achieve their goals. We perform better when we are on the same team.
-
-### Being the best or being the worst
-
-This question was proposed to me previously and made me ponder on it. Is it better to be the best player on a losing team or the worst player on a winning team". In my opinion, it is better to be "the worst player on a winning team" than "the best player on a losing team" There are immense challenges to either scenario. I think of this in basketball terms.
-
-"Best player on a losing team":
-- Doing your best and trying to elevate the team.
-- You individually are doing well but others may not be
-- You deal with most of blame for success and failure
-
-"Worst player on a winning team"
-- You may be insignificant in grand scheme of things
-- The success is not a direct impact of your performance
-- Your role is mitigated to better suit others
-
-I've seen it from both spectrums. Being frustrated from a lack of skill from your peers and also feeling frustrated at yourself for your lack of skill compared to your peers. Being the "least skilled" amongst everyone else gives you a chance to grow and learn from people better than you, and helps you do your best. Being the best amongst people at a low-level will stunt your growth as you move upwards. You are roughly the average of the 5 closest people you talk to. Make sure you surround yourself with people that help you perform your best and motivate you in a positive light to be the best version you can be.
+I don't think there should be moments where you don't help someone. Either in coursework, interview prep, or otherwise in life. I still remember when I switched into CS and I knew nothing. Many people feel like this and although this is fairly obvious statement, helping someone else is not a detrimental thing. It is a net positive for everyone and yourself. When we motivate one another to do their best we collectively succeed. I always felt it was important to give back in any way possible. Whether it be being an orientation leader, mentoring others, or helping others achieve their goals. We perform better when we are on the same team.
 
 ### Closing Thoughts
 
-There comes a time in everyone's life where things end. University ending and a full-time job starts. Nothing in life really "ends" completely in the traditional sense. (akin to the Watchmen comic I showed above) I still talk to people either recently graduated, looking to graduate soon, looking to apply to Uwaterloo, or just starting out undergrad. Looking back the hardships that impeded my success early on served as guidance to where I would eventually land. There were things I believe to be prophetic of success or things I would work towards that may have had no impact overall. Other small things I didn't even notice ended up having substantial impact on me without me knowing. It is hard to truly predict your path.
+There comes a time in everyone's life where things end. University ending and a full-time job starts. Nothing in life really "ends" completely in the traditional sense. (akin to the Watchmen comic I showed above) I still talk to people either recently graduated, looking to graduate soon, looking to apply to Uwaterloo, or just starting out undergrad. Looking back the hardships that impeded my success early on served as guidance to where I would eventually land. There were things I believe to be prophetic of success or things I would work towards that would eventually have had no impact overall. Other small things I didn't even notice ended up having substantial impact on me without me knowing at that moment. It is hard to truly predict your path.
 
 - I did not envision graduating with a CS degree in 2014. I started as a Science and Business Major and deciding later on that it wasn't a good fit for me.
 
-- In 2017 I was unable to get a developer job co-op. Three years later I did an internship at LinkedIn.
+- In 2017 I was unable to get a developer job co-op. Three years later I did an developer internship at LinkedIn.
 
 - I went to multiple hackathons and failed multiple times. I had projects that melted down and people didn't want to team with me. I was persistent on winning one after 12 failed attempts at MHacks X.
 
 - I went to University of Waterloo initially to stay close to home, but eventually I wanted to travel North America. I ended up going to Vancouver, California, and Seattle for internships.
 
-- Okta was my first tech internship, and it also did not give me a return offer. At the time it was heartbreaking and disappointing. I realized later on that even if it had given a return offer, my life would not be substantially altered. If anything I had to learn from the experience.
+- Okta was my first tech internship, and it also did not give me a return offer. At the time it was immensely disappointing. I realized later on that even if it had given a return offer, my life would not be substantially altered, I probably wouldn't have taken it. If anything I had to learn from the experience and their feedback.
 
-Tech is plagued by people trying to prove they are worthy and better than others. This behaviour might be spurned upon by the broadness of the field, the general insecurity of people, and the false positive/negative litmus test they conduct during interviews. I've already said my interviewing thoughts in a separate post, but I think it extends beyond that. The most important thing is to be a good person. The accomplishments are secondary. As vague as that sounds, I think it is really important to not lose our humanity, remembering we all have our flaws.
+Tech is plagued by people trying to prove they are worthy and better than others. This behaviour might be spurned upon by the broadness of the field, the general insecurity of people, and the false positive/negative litmus test they conduct during interviews. I've already said my interviewing thoughts in a [separate post](/co-op3/), but I think it extends beyond that. The most important thing is to be a good person. The accomplishments are secondary. As vague as that sounds, I think it is really important to not lose our humanity, remembering we all have our flaws.
 
 ### The End
 
