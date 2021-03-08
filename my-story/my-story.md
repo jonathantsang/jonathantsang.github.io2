@@ -93,12 +93,12 @@ I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math
 I switched my co-op stream around, so I was supposed to be on co-op during this term, but I wanted to take CS 136 and get into the CS program. I took Math 136, Stat 231, CS 136, ENGL 109, and Music 100. It is a little heftier of a term since it has 5 courses instead of 4 courses last term, but overall a manageable courseload.
 
 ## MHacks8
-{% include photo.html img="/my-story/pictures/s16/13-1.jpg" size="20%" caption="I had a TON of pictures from Mhacks: <a href='/mhacks8/'>Link</a>" %}
+{% include photo.html img="/my-story/pictures/f16/13-1.jpg" size="20%" caption="I had a TON of pictures from Mhacks: <a href='/mhacks8/'>Link</a>" %}
 
 This was my first experience outside of the country for a hackathon. It took place at Detroit, Michigan at the Masonic Temple. I walked in with a view of Hack the North, but got a different style of hackathon. The venue was a bit run down, but the interaction from people from University of Michigan and other universities was amazing.
 
 ## TerribleHacks5
-{% include photo.html img="/my-story/pictures/s16/14-1.jpg" size="50%" caption="The parody hackathon. I learned how to use Unity here. I compiled photos from the event here: <a href='/th5/'>Link</a>" %}
+{% include photo.html img="/my-story/pictures/f16/14-1.jpg" size="50%" caption="The parody hackathon. I learned how to use Unity here. I compiled photos from the event here: <a href='/th5/'>Link</a>" %}
 
 {% include photo.html img="/my-story/pictures/f16/3.jpg" size="70%" caption="I also presented my (pretty terrible) project there." %}
 
@@ -331,15 +331,15 @@ I continued interviewing (continuous motif) for internships at LinkedIn. I decid
 
 ## Winter 2020 (Work Term 6)
 
-{% include photo2.html img1="/my-story/pictures/w20/1.JPG" img2="/my-story/pictures/w20/9.JPG" caption="Seattle Space Needle and Pike Place Market, two of the most iconic Seattle attractions." %}
+{% include photo2.html img1="/my-story/pictures/w20/1.jpg" img2="/my-story/pictures/w20/9.jpg" caption="Seattle Space Needle and Pike Place Market, two of the most iconic Seattle attractions." %}
 
 I spent the winter months of January to June in Bellevue interning at a company called "TheTradeDesk".
 
 Seattle was really nice. I got to explore Seattle for January to March before covid-19 restrictions made me work from home. Our office had nice events for the ~20 people and we had catered lunch Wednesdays and Fridays alongside snacks and a stocked fridge. Reminded me a lot of my internship at Okta.
 
-{% include photo.html img="/my-story/pictures/w20/8.JPG" size="70%" caption="Mango bingsoo and a taiyaki from Snowy Village in UDistrict." %}
+{% include photo.html img="/my-story/pictures/w20/8.jpg" size="70%" caption="Mango bingsoo and a taiyaki from Snowy Village in UDistrict." %}
 
-{% include photo.html img="/my-story/pictures/w20/5.JPG" size="70%" caption="Fremont Troll which has appeared in a few movies." %}
+{% include photo.html img="/my-story/pictures/w20/5.jpg" size="70%" caption="Fremont Troll which has appeared in a few movies." %}
 
 Formally there was no "intern program" since I was the only intern among ~20 or so people in the office. I think there were other interns in other offices (Ventura, New York).
 
