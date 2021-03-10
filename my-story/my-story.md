@@ -481,11 +481,13 @@ Tech is plagued by people trying to prove they are worthy and better than others
 
 ### Closing Thoughts
 
-There comes a time in everyone's life where things end. University ending and a full-time job starts. Nothing in life really "ends" completely in the traditional sense. (akin to the Watchmen comic I showed above) I still talk to people who either recently graduated, are looking to graduate soon, are looking to apply to Uwaterloo, or just starting out undergrad. Looking back the hardships that impeded my success early on served as guidance to where I would eventually land. There were things I believed to be prophetic of success and things I would work towards that would eventually have had no impact overall. Other small things I didn't even notice ended up having substantial impact on me without me knowing at that moment. It is hard to truly predict your path.
+There comes a time in everyone's life where things end. University ending and a full-time job starts. Nothing in life really "ends" in the traditional sense. (akin to the Watchmen comic I showed above) I'm still tied to Waterloo in some sense when I talk to people who either recently graduated, are looking to graduate soon, are starting out undergrad, or looking to apply to Uwaterloo. 
 
-- I did not envision graduating with a CS degree in 2014. I started as a Science and Business Major and deciding later on that it wasn't a good fit for me.
+When I look back, the hardships that impeded my success early on served as guidance to where I would eventually land. There were things I believed to be prophetic of success and things I would work towards that would eventually have no impact overall. Other small things I didn't even notice ended up having substantial impact on me without me knowing at that moment. It is hard to truly predict your path.
 
-- I would take some math upper-year courses like co342 (graph theory) with some people from my 1st co-op (years since that co-op)
+- I did not envision graduating with a CS degree in 2014. I started as a Science and Business Major and deciding later on that it wasn't a good fit for me and switching to CS
+
+- I would take some math upper-year courses like co342 (graph theory) with some people from my 1st co-op (years after that co-op)
 
 - I ended up doing a co-op in Vancouver by accident and it ended up being my favourite internship of them all
 
