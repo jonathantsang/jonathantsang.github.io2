@@ -33,5 +33,3 @@ DSCF0927-min.JPG
 DSCF1056-min.JPG
 DSCF1057-min.JPG
 DSCF1113-min.JPG
-Out_file.txt
-list.txt

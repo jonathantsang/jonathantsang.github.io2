@@ -1,6 +1,6 @@
 ---
 title: MHacks8
-layout: default
+layout: default_no_footer
 permalink: /mhacks8/
 ---
 
