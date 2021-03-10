@@ -1,6 +1,6 @@
 ---
 title: My Story
-layout: default
+layout: default_wide
 permalink: /my-story/
 ---
 
@@ -74,7 +74,7 @@ I planned to switch into Computer Science (The switch would take almost a year s
 
 ## Winter 2016 (Work Term 1)
 
-{% include photo.html img="/my-story/pictures/w16/intrafinity.jpg" size="40%" caption="Intrafinity logo" %}
+{% include photo.html img="/my-story/pictures/w16/intrafinity.jpg" size="20%" caption="" %}
 
 I had a co-op placement at Intrafinity (also called School Messenger since they were recently bought over by the West Corporation). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time. They hired 20 co-ops and I met a lot of people I normally wouldn't have since they were from a variety of faculties and programs.
 
