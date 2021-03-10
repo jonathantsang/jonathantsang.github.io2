@@ -36,7 +36,7 @@ and listened to the albums:
 
 2020 has been a difficult year for different people and a multitude of reasons. Each person experienced the quarantine and this new form of isolation.  People in school don't have the things that were taken for granted like in-person classes, a campus, office hours, etc. as everything was shifted to online formats of lectures, discussion forums, assignments, and exams. (I fortunately graduated in Winter 2020) Lavish travel plans and meetups are all either cancelled or replaced with online events. It really isn't the same feeling at all as people stay at home. (There are places that do not acknowledge the ongoing pandemic but we're not going to focus on that)
 
-`Ad Astra` is very instrospective film focusing isolation. Roy ventures to Venus alone to find his father. He leaves his wife on Earth to go on the journey alone to contact his father. As he goes from Mars to Venus he says:
+`Ad Astra` is very instrospective film focusing on isolation. Roy ventures to Venus alone to find his father. He leaves his wife on Earth to go on the journey alone to contact his father. As he goes from Mars to Venus he says:
 
 ```
 The zero G and the extended duration of the journey is affecting me...

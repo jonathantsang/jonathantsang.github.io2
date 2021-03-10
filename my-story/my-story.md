@@ -48,7 +48,7 @@ I entered the University of Waterloo Science and Business Program with a special
 ## Winter 2015 (1B)
 {% include photo.html img="/my-story/pictures/w15/2.jpg" caption="This is was taken when I was doing a titration lab." size="60%" %}
 
-{% include photo2.html img1="/my-story/pictures/w15/4-1.jpg" img2="/my-story/pictures/w15/4-3.jpg" caption="The winter was pretty snowy that year. The whole campus was covered in a blanket of snow. In the picture on the far left of these three, is a scene near EIT. In the back you can barely make out two figures, one of which is the President of the University of Waterloo, Feridun Hamdullahpur." %}
+{% include photo2.html img1="/my-story/pictures/w15/4-1.jpg" img2="/my-story/pictures/w15/4-3.jpg" caption="The winter was pretty snowy that year. The whole campus was covered in a blanket of snow. In the picture on the far left is EIT. In the back you can barely make out two figures, one of which is the President of the University of Waterloo, Feridun Hamdullahpur." %}
 
 {% include photo2.html img1="/my-story/pictures/w15/5-1.jpg" img2="/my-story/pictures/w15/5-6.jpg" caption="Near the Tatham Centre and MC." %}
 
@@ -100,7 +100,7 @@ This was my first experience outside of the country for a hackathon. It took pla
 ## TerribleHacks5
 {% include photo.html img="/my-story/pictures/f16/14-1.jpg" size="50%" caption="The parody hackathon. I learned how to use Unity here. I compiled photos from the event here: <a href='/th5/'>Link</a>" %}
 
-{% include photo.html img="/my-story/pictures/f16/3.jpg" size="70%" caption="I also presented my (pretty terrible) project there." %}
+{% include photo.html img="/my-story/pictures/f16/3.JPG" size="70%" caption="I also presented my (pretty terrible) project there." %}
 
 ## Winter 2017 (Work Term 2)
 {% include photo.html img="/my-story/pictures/w17/surfeasy.png" size="40%" caption="I worked at SurfEasy VPN as a QA Analyst. It is an awesome startup with great culture and talented individuals that believe in their product quality first and foremost. I learned about the development cycle of software in a real work setting, worked in a tight knit team on logging and investigating bugs, and coded some of the iOS mobile automation tests during my time there." %}

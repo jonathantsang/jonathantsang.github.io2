@@ -98,11 +98,11 @@ The one thing I didn't like about was the album was I didn't like "The Box",the 
 
 This album needs to be listened to front to back. I don't see it making sense otherwise. This is an example of one of the albums I think lack so much context when listening to songs individually on a streaming site like Spotify.
 
-Igor is a album about a breakup and the main character's male love interest. Themes of heartbreak and jealousy and loss of love float around in hip hop infused with funk and R&B.
+Igor is a breakup album involving the main character's male love interest. Themes of heartbreak and jealousy and loss of love float around in hip hop infused with funk and R&B.
 
 "EARFQUAKE" was the breakout single from the album that everyone loved and I can see the mainstream appeal. I liked the melancholy "GONE GONE / THANK YOU" two part song where the song traditionally would be a sad song of having a lover leave, but it is the exact opposite and "I THINK" with the heart-wrenching chorus "I think I've fallen in love (Skate), This time I think it's for real".
 
-**Score:** 7/10
+**Score:** 8/10
 
 **Best tracks:** EARFQUAKE, GONE GONE / THANK YOU, I THINK, NEW MAGIC WAND, RUNNING OUT OF TIME, I DON'T LOVE YOU ANYMORE, ARE WE STILL FRIENDS?, A BOY IS A GUN
 
