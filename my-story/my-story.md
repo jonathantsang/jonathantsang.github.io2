@@ -103,7 +103,7 @@ This was my first experience outside of the country for a hackathon. It took pla
 {% include photo.html img="/my-story/pictures/f16/3.JPG" size="70%" caption="I also presented my (pretty terrible) Unity project there." %}
 
 ## Winter 2017 (Work Term 2)
-{% include photo.html img="/my-story/pictures/w17/surfeasy.png" size="40%" caption="I worked at SurfEasy VPN as a QA Analyst. It is an awesome startup with great culture and talented individuals that believe in their product quality first and foremost. I learned about the development cycle of software in a real work setting, worked in a tight knit team on logging and investigating bugs, and coded some of the iOS mobile automation tests during my time there." %}
+{% include photo.html img="/my-story/pictures/w17/surfeasy.png" size="40%" caption="I worked at SurfEasy VPN as a QA Analyst. It was owned by Opera (the company that has the browser) but it acted like a startup with talented individuals that believe in their product. I learned about the development cycle of software in a real work setting, worked in a tight knit team on logging and investigating bugs, and coded some of the iOS mobile automation tests during my time there." %}
 
 It grew in size, got a new office, and expanded their product line, so the company was doing amazingly well, and I was happy to be able to make a meaningful impact to the company during a time of high growth. [SurfEasy has since been bought by Symantec](https://www.marketwatch.com/story/symantec-acquires-vpn-provider-surfeasy-2017-11-06)
 
@@ -117,10 +117,8 @@ I tried to code as much as I could during the term and go to as many hackathons 
 
 There were way too many photos, and it was an amazing experience. Mhacks and HackPrinceton were amazing hackathons in the US, and I highly recommend them to anyone. I actually didn't even get accepted to HackPrinceton, but I still decided to try to get on the bus to try and work on my programming skills and see Princeton University. I went and luckily they let me in (begrudgingly). After HackPrinceton, I knew I really liked doing hackathons and creating ideas/projects/solutions through coding.
 
-Small summary of photos from UofTHacks, QHacks, MHacks9, and HackPrinceton:
-{% include photo2.html img1="/my-story/pictures/w17/9.JPG" img2="/my-story/pictures/w17/2.png" %}
-
-{% include photo2.html img1="/my-story/pictures/w17/14.JPG" img2="/my-story/pictures/w17/4.png" %}
+Here are two photos from UofTHacks and MHacks 9:
+{% include photo2.html img1="/my-story/pictures/w17/9.JPG" img2="/my-story/pictures/w17/4.png" %}
 
 **Update: I uploaded separate pages for UofTHacks, Qhacks, MHacks9, and HackPrinceton2017. Check it out here:**
 <a href="/uofthacks/">UofTHacks</a>
@@ -132,21 +130,23 @@ Small summary of photos from UofTHacks, QHacks, MHacks9, and HackPrinceton:
 
 {% include photo.html img="/my-story/pictures/s17/2.JPG" size="70%" caption="Sunset by the Ion Rail train tracks near campus." %}
 
-I was back in school after a refreshing co-op experience. Unfortunately there aren't many hackathons happening in the summer months. Most Canadian hackathons take place in winter and American ones in the Fall. I planned on focusing on learning NodeJs and some more web development tools for backend dev. I've done mostly QA co-op jobs and I'd like to try to get a dev jobs.
+I was back in school after doing my co-op. Unfortunately there aren't many hackathons happening in the summer months. Most Canadian hackathons take place in winter and American ones in the Fall. I planned on focusing on learning NodeJs and some more web development tools for backend dev. I've done mostly QA co-op jobs and I'd like to try to get a dev jobs.
 
-I took cs245 (Logic and Computation), cs246 (Object-Oriented Software Development), cs251 (Computer Organization and Design), math239 (Intro to Combinatorics), spcom223 (Public Speaking). Which was the hardest term up until that point when measuring the difficulty from the courses. I walked in expecting cs246 and math239 to be very difficult based on what people had told me beforehand. The term was a nice challenge for me, and I realized it will only get harder from here on out.
+I took cs245 (Logic and Computation), cs246 (Object-Oriented Software Development), cs251 (Computer Organization and Design), math239 (Intro to Combinatorics), spcom223 (Public Speaking). This was the hardest term I had taken so far (and yet it would get MUCH harder). I walked in expecting cs246 and math239 to be very difficult based on what people had told me beforehand. The term was a nice challenge for me, and I realized it will only get harder from here on out.
 
 cs246: I would describe it as difficult as what people say it is. OOP is a pretty useful tool and learning C++ alongside it is useful.
 
 math239: Interesting introduction to combinatorics.
 
-{% include photo.html img="/my-story/pictures/s17/1.JPG" size="60%" caption="The class photo from spcom223 (public speaking). I'm glad I took it and it was a pretty fun course to use as the communication elective." %}
+{% include photo.html img="/my-story/pictures/s17/1.JPG" size="60%" caption="The class photo from spcom223 (public speaking). I'm glad I took it and it was a pretty fun course to use as the communication elective. I had felt I improved at public speaking after the course." %}
 
 ## Fall 2017
 
 Courses I took were cs240 (data structures), cs241 (mini-compilers), cs370 (numerical computation), and co342 (graph theory).
 
-co342 with Martin Pei was difficult and I remember going to office hours for that course every week. cs370 with Jeff Orchard was pretty good. I mainly took cs370 cause it is a prereq to graphics (cs488) cs240 was not too bad looking back and cs241 was fairly easy.
+co342 with Martin Pei was difficult and I remember going to office hours every week. They had a 1-5 grading scale for proofs. You got a 4 if your proof was correct, but only a 5/5 if your proof was succint and correct. I didn't get 5/5 on any of my proofs. (Martin Pei also took a photo of our class on the last day but he never sent it to us)
+
+cs370 with Jeff Orchard was pretty good. I mainly took cs370 cause it is a prereq to graphics (cs488) cs240 was not too bad looking back and cs241 was fairly easy.
 
 This was the term I tried to go to as many hackathons as possible. I went to PennApps XVI, HacktheNorth, Mhacks X, and EthWaterloo. I had to stop after I failed the cs240 midterm and I remember failing cause I had no sleep the prior weekend since I was at ETHWaterloo. I had planned to also go to YHack and HackHarvard but decided against it.
 
@@ -161,9 +161,15 @@ This was the term I tried to go to as many hackathons as possible. I went to Pen
 
 {% include photo.html img="/my-story/pictures/f17/6.JPG" size="40%" caption="Skating activity at PennApps. I was fortunate to do some skating when I was younger and I knew how to skate. It was clear that some of the Americans didn't know how to skate. (LOL)" %}
 
+{% include photo2.html img1="/my-story/pictures/f17/15.JPG" img2="/my-story/pictures/f17/16.JPG" caption="Beiler Bakery Donuts are famous in Philly and the hackathon ordered A LOT." %}
+
+{% include photo2.html img1="/my-story/pictures/f17/14.JPG" img2="/my-story/pictures/f17/17.JPG" caption="Got to try Shake Shake for the first time." %}
+
 ### Hack the North
 
 {% include photo.html img="/my-story/pictures/f17/7.JPG" size="50%" caption="Prime Minister Trudeau speaking at Hack the North." %}
+
+{% include photo.html img="/my-story/pictures/f17/18.JPG" size="70%" caption="E5 being filled to the brim with people talking to sponsors." %}
 
 ### MhacksX
 MHacksX was the 13th hackathon I ever attended and the first hackathon I ever won anything at. To go to the dedicated pages for each hackathon from my [grand hackathon tour](/hackathons).
@@ -189,7 +195,7 @@ I enjoyed cs341 because at this point I had been doing practice for interviews a
 
 OS was a whole different beast. I'll comment on cs350 now with a more holistic view. I think it is a very good course that weeds out people similar to cs246. It throws you into implementing OS with a lot of prewritten code, you need to edit 5% of it, and you need to fix errors. Assignments are based on learning what you need to do, then implementing it. Unlike cs136 and cs246, you can't walk in blind and hope to stumble upon the solution.
 
-cs350 really makes you work for the assignments and understand what is going on behind the scenes, what you are doing, and unlike previous cs courses will punish you (theoretically) if you don't know what you are coding before trying to code. That is also why I ended with a 52 in the course. I decided to skip A3 (page table implementation) and go to HackPrinceton2018 instead. We won a prize, but I also failed that assignment. Future readers, do not do what I did.
+cs350 really makes you work for the assignments and understand what is going on behind the scenes, what you are doing, and unlike previous cs courses will punish you if you don't know what you are coding before trying to code. That is also why I ended with a 52 in the course. I decided to skip A3 (page table implementation) and go to HackPrinceton2018 instead. We won a prize, but I also failed that assignment. Future readers, do not do what I did. (I was also still looking for a co-op at the time I went to HackPrinceton. I remember going home on the bus happy that my team had won, but I was reminded I still had to look for a co-op job in continuous round.)
 
 ### HackPrinceton 2018
 {% include photo2.html img1="/my-story/pictures/w18/2.JPG" img2="/my-story/pictures/w18/7.JPG" caption="Passing through NY state and Princeton campus" %}
@@ -198,25 +204,27 @@ cs350 really makes you work for the assignments and understand what is going on 
 
 {% include photo.html img="/my-story/pictures/w18/5.JPG" size="60%" caption="MLH Hackathon stickers I collected." %}
 
-Job hunting was also very stressful. I had the most interviews up until my WaterlooWorks career in the main round with 4 interviews. I felt really good about one of my interviews in main round. I had relevant experience and solved their question. Unfortunately I got ranked and moved to continuous round with 3 not ranked and 1 ranked.
+Job hunting was also very stressful. I had the most interviews up until my WaterlooWorks career in the main round with 4 interviews. I felt really good about one of my interviews in main round. I had relevant experience and solved their question with ease. I had a great chat with the interviewer afterwards. Unfortunately I got ranked and moved to continuous round with 3 not ranked and 1 ranked.
 
 I had 9 interviews total in continuous round.
 
-One company interviewed me and did not ask me a coding question it was all behavioural stuff. Up into this point not only had no company given me an offer but I was feeling nervous would I even get a developer job (as a 3A student). I was applying externally and trying to find other avenues as well since WaterlooWorks wasn't looking good. They ended up giving me an offer on WaterlooWorks in continuous round. I was skeptical of the job and decided to rank it a 4 (by not giving it a 1, someone who was ranked giving it a 1 means they got the job). I was not matched with the job. After this decision many people were stating that me throwing away the only offer. I had around 6 interviews up until that point that were all rejections and it did seem crazy to throw away the only offer. Personally, I felt that the job did not nearly impress me in the same way an interview should have a company be impressed by you. So I rejected them.
+One company interviewed me and did not ask me a coding question it was all behavioural stuff. Up into this point not only had no company given me an offer but I was feeling nervous that I wouldn't even get a developer job (as a 3A student). I was applying externally and trying to find other avenues as well since WaterlooWorks wasn't looking good. That company ended up giving me an offer on WaterlooWorks in continuous round. 
+
+I was skeptical of the job (since their interview didn't wow me) and decided to rank it a 4 (by not giving it a 1, someone who was ranked giving it a 1 means they got the job). I was not matched with the job. After this decision many people were stating that I was throwing away the only offer I had and I was crazy. I had around 6 interviews up until that point that were all rejections and it did seem crazy to throw away the only offer. Personally, I felt that the job did not nearly impress me in the same way an interview should have a company be impressed by you. So I rejected them.
 
 I always tried to abide by two principles:
-- never gamble more than you can handle (relating to your ability to handle stress)
-- gamble when you get the chance and always bet on your abilities to do something remarkable (akin to Murphy's law)
+1. Never gamble more than you can handle (relating to your ability to handle stress)
+2. Gamble when you get the chance and always bet on your abilities to do something remarkable
 
-I have the belief that you need to put in work and dedicate your time to continuously improving yourself to challenge what you can accomplish. In this case I got lucky, and I gambled. Sometimes it doesn't work out this way. And when people ask sometimes how it happened, I guess I was willing to take risks. It was incredibly difficult though after tossing out the only offer I had **AND THEN** go back to failing interviews in WaterlooWorks for jobs I wanted. You feel incredible remorse after that.
+I have the belief that you need to put in work and dedicate your time to continuously improving yourself. That way you challenge what you can accomplish. In this case I got lucky, and I gambled. Sometimes it doesn't work out this way. And when people ask sometimes how it happened, I guess I was willing to take risks. It was incredibly difficult though after tossing out the only offer I had **AND THEN** go back to failing interviews in WaterlooWorks for jobs I wanted. You feel incredible remorse after that.
 
-A later week, 200 people applied for Okta soft eng intern position on WaterlooWorks. They interviewed 3 people. The interview was 3 hours long. It was filled with technical rounds and behavioural questions. Two days before exams I got the offer from Okta. That is how late in continuous round I found the job. And with that, I secured my first ever developer internship.
+Days before the start of exam period, 200 people applied for Okta soft eng intern position on WaterlooWorks in continuous round. They interviewed 3 people. The interview was 3 hours long. It was filled with technical rounds, behavioural questions, and talking to the manager. Two days before exams I got the offer from Okta. That is how late in continuous round I found the job. And with that, I secured my first ever developer internship.
 
 ## Spring 2018 (Work Term 3)
 
 {% include photo.html img="/my-story/pictures/s18/1.JPG" size="60%" caption="Okta office" %}
 
-This term I worked at Okta in Toronto. This was a great experience as my first developer job. Okta in Toronto was an unbelievable place to work at compared to previous co-ops in terms of the development environment, my role in the development team, and the overall perks and intern program. I won their intern hackathon and won their smash 4 tournament. Small feats but still tons of fun during the internship.
+This term I worked at Okta in Toronto. This was a great experience as my first developer job. Okta in Toronto was an unbelievable place to work at compared to previous co-ops in terms of the development environment, my role in the development team, perks (lunch Monday, Wednesday, Friday), and intern program. I participated in their events and won their intern hackathon and won their smash 4 tournament. Small feats but I had tons of fun during the internship.
 
 {% include photo2.html img1="/my-story/pictures/s18/12.JPG" img2="/my-story/pictures/s18/13.JPG" caption="Okta office event at Blue Jay's game and us in the (old) office." %}
 
@@ -234,9 +242,7 @@ I also attended a hackathon called "RedBull Adrenalan". It was a crazy gaming to
 
 {% include photo.html img="/my-story/pictures/s18/14.JPG" size="60%" caption="I got to play Overwatch on some of the intense gaming rigs. The venue had areas where you could play on these setups for free." %}
 
-At the end of the internship, the team at Okta told me that they were not extending a return offer in any capacity, intern or full time.
-
-It was an unfortunate time when that happened since my performance at Okta did not warrant a return offer. It took me a while to accept that out of the 5 interns at Okta (in Toronto office) I had to accept they were not giving me a return offer. Of the 4 other interns, 3 did return for full-time.
+At the end of the internship, the team at Okta told me that they were not extending a return offer in any capacity, intern or full time. It was an unfortunate time when that happened since my performance at Okta did not warrant a return offer. It took me a while to accept that out of the 5 interns at Okta (in Toronto office) I was the only one they were not giving a return offer. Of the 4 other interns, 3 did return for full-time.
 
 Looking back on this experience it was very depressing since it was my first developer job and seriously put doubts in my mind for being a developer in the future. Looking back on this almost three years later, I can see why they chose not to extend the offer. I had areas in improve in for the future and I was much earlier in my career than some of the other interns.
 
@@ -250,7 +256,7 @@ In regards to the second point, I felt rushed. Most students have 6 co-ops terms
 
 This term I took cs488 (graphics), cs343 (concurrency), and cs456 (networks). Just those three threw me for a loop. I wanted to do at least one of the big 3, because it was a long enough journey to reach the upper year cs electives. I wanted to challenge myself. It was challenging, but graphics is probably the easiest of the big 3 (cs444 compilers, and cs452 trains being the other two). I still recommend people taking it for a challenge even if you most likely will never be making a ray tracer or using OpenGL on a low level in your full time work. Continuously push yourself.
 
-Concurrency (cs343) was also a valuable course. It is in micro c++, Peter Buhr's custom C++ with concurrency. I really liked the course. The blog that sparked my interest in it? Robert Elder's blog [link](http://www.robertelder.ca/my-uw-journey/). You will most likely never use micro c++ on the job, but the concurrency concepts challenge you in a similar way to full time. You are given assignment specs 4-5 pages long and you need to decipher the information and do the assignments. Details are sometimes murky, you need to clarify things, but that is software engineering once you delve more into it.
+Concurrency (cs343) was also a valuable course. It is in micro c++, Peter Buhr's custom C++ with concurrency. I really liked the course. The blog that sparked my interest in it? Robert Elder's blog [link](http://www.robertelder.ca/my-uw-journey/). You will most likely never use micro c++ on the job, but the concurrency concepts challenge you in a similar way to full time. You are given assignment specs 4-5 pages long and you need to decipher the information and do the assignments. Details are sometimes murky, you need to clarify things, but that is software engineering in a nutshell.
 
 Networks was just simple and solid. Not too much happening but that was probably a good thing with graphics and concurrency taking most of my time.
 
@@ -271,7 +277,7 @@ I was also interviewing at this time. I wanted to get a summer 2019 internship p
 
 After this term I had completed ALL my course requirements for the Bachelor of CS. Luckily I did not fail graphics because it was a intensive course. The ray tracer demanded more time than I gave it with the interviews going on and the cs 343.
 
-{% include photo.html img="/my-story/pictures/f18/13.JPG" size="50%" caption="I also got to try out Lime scooters for the pilot in Waterloo" %}
+{% include photo.html img="/my-story/pictures/f18/13.JPG" size="50%" caption="I also got to try out Lime scooters for the pilot project they held in Waterloo." %}
 
 {% include photo.html img="/my-story/pictures/f18/14.JPG" size="70%" caption="Snowstorm in Waterloo." %}
 
@@ -289,9 +295,7 @@ This term I took cs454 (distributed systems), econ212 (game theory), and co353 (
 
 I continued interviewing this term for internships (recurring theme). I had an offer from a place in SF. They were decent. I liked them and the interviews seemed promising. The only problem? I was interviewing concurrently with another company that I liked a little more. So I decided to decline the offer. I eventually was rejected by the company I liked more. So that situation did burn me when taking a risk doesnt always pay off.
 
-I also was interviewing on WaterlooWorks. I had two interviews in main round, one of which were Zenefits. This makes sense the jobs I was applying for were now more competitive. I got not ranked from both. So like past job hunts I went to continuous round.
-
-In continuous round I continued to apply. I applied to Zenefits again in WaterlooWorks.
+I also was interviewing on WaterlooWorks. I had two interviews in main round, one of which were Zenefits. This makes sense the jobs I was applying for were now more competitive. I got not ranked from both. So like past job hunts I went to continuous round. In continuous round I continued to apply. I applied to Zenefits again in WaterlooWorks.
 
 I interviewed externally with a California company and I passed the interview. They made some verbal promises about the offer and when I received the offer letter, it did not state a few things they stated. When I asked about it, they stated that what they told me was only for full times and not interns. So I declined it out of lack of trust over the entire internship. If a company is willing to promise you things and then go back on their word I wasn't willing to go to them just because they were located in California. I had wanted to get a "California job" for so long but it would have to wait. And just like that I had rejected the only California offer I had.
 
@@ -311,7 +315,7 @@ I worked at Zenefits in Vancouver this term. This was probably the best accident
 
 {% include photo2.html img1="/my-story/pictures/s19/20.JPG" img2="/my-story/pictures/s19/8.JPG" size="60%" caption="Aburi sushi from Green Leaf Sushi. My Uncle's shiba inu named 'Yoshi'" %}
 
-{% include photo2.html img1="/my-story/pictures/s19/17.JPG" img2="/my-story/pictures/s19/18.JPG" caption="On the long weekend I was able to plan a trip to Seattle with the other interns. Met up with my friend Austin who was in Seattle. Also took a photo of a sticker that I saw a few times in Seattle saying 'go home tech bro'" %}
+{% include photo2.html img1="/my-story/pictures/s19/17.JPG" img2="/my-story/pictures/s19/18.JPG" caption="On the long weekend I was able to plan a trip to Seattle with the other interns. Met up with my friend Austin who was in Seattle (We took the photo by the gum wall in Seattle). Also took a photo of a sticker that I saw a few times in Seattle saying 'go home tech bro'" %}
 
 {% include photo2.html img1="/my-story/pictures/s19/16.JPG" img2="/my-story/pictures/s19/15.JPG" caption="Climbing Grouse Grind in ~1:29 with Andrew. Marutama ramen with extra chasu." %}
 
@@ -370,7 +374,7 @@ I usually say university is a balance between:
 4. fun
 5. mental health
 
-The people who can efficiently balance all 5 are few and far between and most people can only choose 2-3 of these and execute effectively. If you choose to have all 5, you often do a poor job addressing all of them. Despite this page being called `my-story` I will admit it is a heavily edited and skewed story that leans towards moments of great accomplishments or periods of change in my life. Not everything is as dynamic or picturesque as this, and I feel in some way responsible to say that these are only the "highlights" of my undergrad. There were just as many "lowlights" that were not mentioned:
+The people who can efficiently balance all 5 are few and far between and most people can only choose 2-3 of these and execute effectively. If you choose to have all 5, you often do a poor job addressing all of them. Despite this page being called `my-story` I will admit it is a heavily edited and skewed story that leans towards moments of great accomplishments or periods of change in my life. Not everything is as dynamic or picturesque as this, and I feel in some way responsible to say that these are only the "highlights" of my undergrad. There were just as many "lowlights" that were not mentioned in as much detail:
 
 - In 2017 I was unable to find a developer job for my co-op, I had to work in QA
 - I failed to win anything at the first 12 hackathons I went to (despite people telling me it was very easy to win at hackathons)
@@ -380,11 +384,7 @@ The people who can efficiently balance all 5 are few and far between and most pe
 - I was unable to find a co-op job for summer 2019 after months of interviewing and went to continuous round, later going to Zenefits
 - I often felt that my social life and mental health were very poor during my undergrad
 - there were moments on intense pressure either from school coursework, or trying to get a "cali" co-op and I buckled under the pressure
-- I tried multiple times to place in the Waterloo local ACM contest (to potentially be on the ACM team) but I never made the team out of roughly ~5 attempts
-
-### Was it worth it?
-
-This is a difficult thing to answer. We really can't tell the effect of our decisions often years in the future with hindsight. I can say with little other alternatives it was a very good option. Not all of it was enjoyable or fun.
+- I tried multiple times to place in the Waterloo local ACM contest (to potentially be on the ICPC team) but I never made the team out of roughly ~5 attempts
 
 ### My Marks
 
@@ -457,21 +457,7 @@ These are my marks, ordered chronologically.
 - CS 488: 60
 - CO 342: 60
 
-| Term | Average    | Cumulative Average |
-|------|------------|--------------------|
-| 1A   | 80.27      | 80.27              |
-| 1B   | 84.15      | 82.21              |
-| 2A   | 73.11      | 79.1766667         |
-| 2B   | 80.5       | 79.5075            |
-| 3A   | 82.8       | 80.166             |
-| 3B   | 70.8       | 78.605             |
-| 3A   | 68         | 77.09              |
-| 4A   | 69.2       | 76.10375           |
-| 4B   | 65.3333333 | 74.907037          |
-| 4B   | 65.3333333 | 73.9496667         |
-| 4B   | 82         | 74.1226667         |
-
-I did 4B multiple times as I did extra courses beyond my degree requirements. One thing I regret is that I never put a lot of effort into school. I often felt that I did not learn best in the conventional way of studying from a textbook, writing notes, and listening to lectures. I had trouble remembering concepts and falling asleep in class.
+One thing I regret is that I never put a lot of effort into school. I often felt that I did not learn best in the conventional way of studying from a textbook, writing notes, and listening to lectures. A lot of times I had trouble paying attention, remembering concepts and falling asleep in class.
 
 ## Afterthoughts
 
@@ -479,9 +465,9 @@ I did 4B multiple times as I did extra courses beyond my degree requirements. On
 
 I don't know.
 
-### Co-op Competition in UWaterloo
+### Co-op Competition (in Uwaterloo)
 
-I travelled around North America and met tons of people through hackathons or co-ops. I am very fortunate to have met a fairly diverse group of people and spending time learning about them. I went to waterloo for CS, one of the hardest programs to get into these days.
+I travelled around North America and met tons of people through hackathons or co-ops. I am very fortunate to have met a fairly diverse group of people and spending time learning about them.
 
 Some people in highschool are accomplished and motivated and continue this path in university. There are others who fail to reach their potential after being the "top of their class" in highschool. The fish in the small pond sees the ocean as university brings the people who are "the best of their area" and brings it to a much larger scope.
 
@@ -489,23 +475,27 @@ Survivorship bias makes us see all the successful people and not view the less s
 
 The waterloo co-op scene is competitive due to perceived prestige from co-ops over others. We have this perception because someone has a co-op in a certain location (California) or from a specific company (FAANG) and we assume they are special or smarter than someone who doesn't have it. The reality of this is that your job doesn't mean much more than what it is, a job. I've made this mistake in the past, and I've seen people treat their job **as their identity**. You identity is comprised of your job, but it shouldn't entirely be composed of your job or co-ops. There is more to life than that.
 
-I don't think there should be moments where you don't help someone. Either in coursework, interview prep, or otherwise in life. I still remember when I switched into CS and I knew nothing. Many people feel like this and although this is fairly obvious statement, helping someone else is not a detrimental thing. It is a net positive for everyone and yourself. When we motivate one another to do their best we collectively succeed. I always felt it was important to give back in any way possible. Whether it be being an orientation leader, mentoring others, or helping others achieve their goals. We perform better when we are on the same team.
+I don't think there should be moments where you don't help someone. Either in coursework, interview prep, or otherwise in life. I still remember when I switched into CS and I knew nothing. Many people feel like this and although this is fairly obvious statement, helping someone else is not a detrimental thing. It is a net positive for everyone and yourself. When we motivate one another to do their best we collectively succeed. I always felt it was important to give back in any way possible. Whether it be being an orientation leader, mentoring others, or helping others achieve their goals.
+
+Tech is plagued by people trying to prove they are worthy and better than others. This behaviour might be spurned upon by the broadness of the field, the general insecurity of people, or the false positive/negative litmus test they conduct during interviews. I've already said my interviewing thoughts in a [separate post](/co-op3/), but I think it extends beyond that. The most important thing is to be a good person. The accomplishments are secondary. As vague as that sounds, I think it is really important to not lose our humanity, remembering we all have our flaws.
 
 ### Closing Thoughts
 
-There comes a time in everyone's life where things end. University ending and a full-time job starts. Nothing in life really "ends" completely in the traditional sense. (akin to the Watchmen comic I showed above) I still talk to people either recently graduated, looking to graduate soon, looking to apply to Uwaterloo, or just starting out undergrad. Looking back the hardships that impeded my success early on served as guidance to where I would eventually land. There were things I believe to be prophetic of success or things I would work towards that would eventually have had no impact overall. Other small things I didn't even notice ended up having substantial impact on me without me knowing at that moment. It is hard to truly predict your path.
+There comes a time in everyone's life where things end. University ending and a full-time job starts. Nothing in life really "ends" completely in the traditional sense. (akin to the Watchmen comic I showed above) I still talk to people who either recently graduated, are looking to graduate soon, are looking to apply to Uwaterloo, or just starting out undergrad. Looking back the hardships that impeded my success early on served as guidance to where I would eventually land. There were things I believed to be prophetic of success and things I would work towards that would eventually have had no impact overall. Other small things I didn't even notice ended up having substantial impact on me without me knowing at that moment. It is hard to truly predict your path.
 
 - I did not envision graduating with a CS degree in 2014. I started as a Science and Business Major and deciding later on that it wasn't a good fit for me.
 
-- In 2017 I was unable to get a developer job co-op. Three years later I did an developer internship at LinkedIn.
+- I would take some math upper-year courses like co342 (graph theory) with some people from my 1st co-op (years since that co-op)
+
+- I ended up doing a co-op in Vancouver by accident and it ended up being my favourite internship of them all
+
+- In 2017 I was unable to get a software engineering co-op. Three years later I did an internship at LinkedIn.
 
 - I went to multiple hackathons and failed multiple times. I had projects that melted down and people didn't want to team with me. I was persistent on winning one after 12 failed attempts at MHacks X.
 
 - I went to University of Waterloo initially to stay close to home, but eventually I wanted to travel North America. I ended up going to Vancouver, California, and Seattle for internships.
 
 - Okta was my first tech internship, and it also did not give me a return offer. At the time it was immensely disappointing. I realized later on that even if it had given a return offer, my life would not be substantially altered, I probably wouldn't have taken it. If anything I had to learn from the experience and their feedback.
-
-Tech is plagued by people trying to prove they are worthy and better than others. This behaviour might be spurned upon by the broadness of the field, the general insecurity of people, and the false positive/negative litmus test they conduct during interviews. I've already said my interviewing thoughts in a [separate post](/co-op3/), but I think it extends beyond that. The most important thing is to be a good person. The accomplishments are secondary. As vague as that sounds, I think it is really important to not lose our humanity, remembering we all have our flaws.
 
 ### The End
 
