@@ -30,5 +30,3 @@ div.img img {
     {% endfor %}
     </div>
 </div>
-
-{{content}}
