@@ -100,7 +100,7 @@ This was my first experience outside of the country for a hackathon. It took pla
 ## TerribleHacks5
 {% include photo.html img="/my-story/pictures/f16/14-1.jpg" size="50%" caption="The parody hackathon. I learned how to use Unity here. I compiled photos from the event here: <a href='/th5/'>Link</a>" %}
 
-{% include photo.html img="/my-story/pictures/f16/3.JPG" size="70%" caption="I also presented my (pretty terrible) project there." %}
+{% include photo.html img="/my-story/pictures/f16/3.JPG" size="70%" caption="I also presented my (pretty terrible) Unity project there." %}
 
 ## Winter 2017 (Work Term 2)
 {% include photo.html img="/my-story/pictures/w17/surfeasy.png" size="40%" caption="I worked at SurfEasy VPN as a QA Analyst. It is an awesome startup with great culture and talented individuals that believe in their product quality first and foremost. I learned about the development cycle of software in a real work setting, worked in a tight knit team on logging and investigating bugs, and coded some of the iOS mobile automation tests during my time there." %}
