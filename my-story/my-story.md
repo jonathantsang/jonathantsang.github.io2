@@ -6,26 +6,7 @@ permalink: /my-story/
 
 **This is a post detailing my time at UWaterloo CS from 2014 - 2020. It is now completed. I got the idea to do this from [Robert Elder's UW Journey](http://www.robertelder.ca/my-uw-journey/).**
 
-### Table of Contents
-- [Fall 2014 (1A)](#fall-2014-1a)
-- [Winter 2015 (1B)](#winter-2015-1b)
-- [Spring 2015 (Break)](#spring-2015-break)
-- [Fall 2015 (2A)](#fall-2015-2a)
-- [Winter 2016 (Work Term \#1 at Intrafinity)](#winter-2016-work-term-1)
-- [Spring 2016 (2B)](#spring-2016-2b)
-- [Fall 2016 (2B)](#fall-2016-2b)
-- [Winter 2017 (Work Term \#2 at SurfEasy)](#winter-2017-work-term-2)
-- [Spring 2017](#spring-2017)
-- [Fall 2017](#fall-2017)
-- [Winter 2018](#winter-2018)
-- [Spring 2018 (Work Term \#3 at Okta)](#spring-2018-work-term-3)
-- [Fall 2018](#fall-2018)
-- [Winter 2019](#winter-2019)
-- [Spring 2019 (Work Term \#4 at Zenefits)](#spring-2019-work-term-4)
-- [Fall 2019 (Work Term \#5 at LinkedIn)](#fall-2019-work-term-5)
-- [Winter 2020 (Work Term \#6 at TheTradeDesk)](#winter-2020-work-term-6)
-- [Graduation](#graduation)
-- [Afterthoughts](#afterthoughts)
+{% include collapsible-dropdown.html summary="Table of Contents" includedHTML="my-story-toc.html" %}
 
 # My Story
 
