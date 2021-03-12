@@ -360,7 +360,7 @@ In Winter 2020 I took one online course and graduated while doing my internship 
 <br/>
 <img src="/my-story/pictures/graduation/c12.png" />
 
-> "In the end"? Nothing ends Adrian. Nothing **ever** ends.
+> "In the end"? **Nothing** ends Adrian. Nothing **ever** ends.
 > - Dr. Mahattan
 
 ### University Life
