@@ -1,12 +1,13 @@
 <!-- Params 
-summary: string for title of dropdown
+title: string for title of dropdown
 listed: array of items to list
+content: content of HTML to put
 includedHTL: includes an HTML file for dropdown
 -->
 
 <details>
-	{% if include.summary %}
-  	<summary>{{ include.summary }}</summary>
+	{% if include.title %}
+  	<summary>{{ include.title }}</summary>
   {% endif %}
 
 	{% if include.listed %}
@@ -15,6 +16,10 @@ includedHTL: includes an HTML file for dropdown
 		  <li>{{ item }}</li>
 		{% endfor %}
 	  <ul>
+  {% endif %}
+
+  {% if include.content %}
+		{{ include.content }}
   {% endif %}
 
   {% if include.includedHTML %}

@@ -1,7 +1,6 @@
 ---
 title: Weekly Links
 layout: default
-date: 11/13/2020
 permalink: /monthly/
 ---
 
@@ -9,15 +8,13 @@ permalink: /monthly/
 
 Inspired by [Lawrence](https://www.wawrencelu.com/) on [binarysearch.com](https://www.binarysearch.com).
 
+<!-- sorting dates is bad so do this for now -->
+
 <ol>
-{% assign sorted_pages = site.pages | sort: 'date' | reverse %}
+{% assign sorted_pages = site.pages | sort: 'date' %}
   {% for p in sorted_pages %}
     {% if p.tag == "monthly" %}
-    <a href="{{ p.url }}">
-      <h2>{{ p.title }}</h2>
-    </a>
-    <h4>{{ p.date }}</h4>
-    <p>{{ p.content }}</p>
+      <div>{% include collapsible-dropdown.html title=p.title content=p.content %}</div>
     {% endif %}
   {% endfor %}
 </ol>
