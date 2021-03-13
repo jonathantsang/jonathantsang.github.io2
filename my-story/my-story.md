@@ -6,7 +6,7 @@ permalink: /my-story/
 
 **This is a post detailing my time at UWaterloo CS from 2014 - 2020. It is now completed. I got the idea to do this from [Robert Elder's UW Journey](http://www.robertelder.ca/my-uw-journey/).**
 
-{% include collapsible-dropdown.html summary="Table of Contents" includedHTML="my-story-toc.html" %}
+{% include collapsible-dropdown.html title="Table of Contents" includedHTML="my-story-toc.html" %}
 
 # My Story
 
