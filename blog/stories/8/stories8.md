@@ -41,11 +41,11 @@ Chris's play deteriorated in the second set. At one point Chris was about to lan
 
 He was getting antsy because Eduardo was able to outplay Ajay and I was able to keep it even with him (if not better). He switched characters and played roy, then played ryu. None of it worked. He lost by larger margins in that second set, than in the first set. It was funny because he couldn't adapt in that moment to me throwing something weird like bowser side-b at him.
 
-We won 2-0 in the second set and when I won I just felt nothing. It wasn't exciting like a popoff or vindicating. It was just, well I'm done here. (quite literally) That's how my internship ended. Going tryhard Mango.
+We won 2-0 in the second set and when I won I just felt nothing. It wasn't exciting like a popoff or vindicating. It was just, well I'm done here. (quite literally) That's how my internship ended. I described myself as going "tryhard mango".
 
-If you have no idea who Mango is, I would recommend watching this video about his insane comeback in a tournament.
+If you have no idea who the pro melee player Mango is, I would recommend watching this video about his insane comeback in a tournament.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qwVuYrFXY7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qwVuYrFXY7k?start=140" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Exploiting the habits that people have, that they're conditioned to do because that's what you're supposed to do and that's what used to work nine times out of ten until you fought him. And then he gets away with it because he knows you better than you know yourself.
 > - Toph
@@ -57,3 +57,5 @@ If you read this and wondered if there is a lesson you can learn I guess:
 3. Never count out the underdog, the pressure is not on the underdog, it's on the favourite so play **YOUR** game
 
 {% include photo.html img="/blog/stories/8/2.JPG" size="70%" %}
+
+To this day I don't think this is some super huge monumental achievement. I think it was nice in the moment since I didn't even play Smash 4, Melee was my main game. But it showcased my ability to adapt, outplay my opponent regardless of the game, and ability to work under pressure against the odds.
