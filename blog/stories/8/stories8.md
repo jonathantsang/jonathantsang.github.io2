@@ -43,6 +43,13 @@ He was getting antsy because Eduardo was able to outplay Ajay and I was able to 
 
 We won 2-0 in the second set and when I won I just felt nothing. It wasn't exciting like a popoff or vindicating. It was just, well I'm done here. (quite literally) That's how my internship ended. Going tryhard Mango.
 
+If you have no idea who Mango is, I would recommend watching this video about his insane comeback in a tournament.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qwVuYrFXY7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> Exploiting the habits that people have, that they're conditioned to do because that's what you're supposed to do and that's what used to work nine times out of ten until you fought him. And then he gets away with it because he knows you better than you know yourself.
+> - Toph
+
 If you read this and wondered if there is a lesson you can learn I guess:
 
 1. Skill and talent don't always win. You have to also know how to perform and handle pressure.
