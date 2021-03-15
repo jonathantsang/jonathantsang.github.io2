@@ -17,7 +17,7 @@ I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://
 
 <img src="/about-me/pictures/leetcode.png" width="40%" height="40%"/>
 
-`Top 1.5%` in Leetcode Weekly Contests
+`Top 1.5%` in Leetcode Weekly Contests, `26th` in Canada
 
 `2100+ Rating` in Leetcode Weekly Contests
 
