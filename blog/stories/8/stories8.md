@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Okta Smash Tournament
+title: The full story behind the Okta Smash Tournament
 permalink: /stories8/
 category: stories
 tag: stories
