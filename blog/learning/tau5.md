@@ -9,7 +9,7 @@ order: 5
 finished: true
 ---
 
-**note:** I made these back in 2017. I am going back in 2020 to update info/misinformation. These are just guidelines, be sure to ask your academic advisors for concrete advice.
+**note:** I made these back in 2017. I am going back in 2020 to update info. These are just guidelines, be sure to ask your academic advisors for concrete advice.
 
 **2020 edit:** This article in particular I'm not going to rewrite entirely but I don't think co-op evaluations matter at all. After a certain point no one really cares (unless you had a very bad evaluation, but even then you don't show it when applying to jobs externally), they just want to know where you worked/what you worked on.
 
@@ -26,7 +26,7 @@ From best to worst the rankings are:
 
 "95.0% of co-op students receive ratings of very good to outstanding from employers"
 
-[Link](https://uwaterloo.ca/hire/recruitment-dates-and-procedure/reports-and-evaluations)
+[CECA statement on the stat](https://uwaterloo.ca/hire/recruitment-dates-and-procedure/reports-and-evaluations)
 
 In every scenario you should strive for outstanding or excellent, and try to avoid anything else. The co-op evals are another part of the co-op process that can help or hinder your future endeavors. In co-op interviews they will almost always look at your past evaluations. Similarly how employers tend to look at grades you did poorly in, they will talk about co-op evaluations.
 
@@ -49,6 +49,14 @@ After graduation co-op evaluations tend to matter less (unless you explicitly pu
 
 **It is just a word**
 At the end of the day, it is just a word. A bad rating doesn't mean you were a bad worker, but it did mean something was wrong. Either the manager didn't like you, you didn't perform up to standards, your work was too difficult, or some other reason. Most people skip over the decency of assuming it is just a word, a word that holds too much bearing. In the similar way that a bot can scan a transcript for marks, I don't see it unfathomable for a bot to scan for applicants with no 'very good' or only 'outstanding'. I think filtering by that metric is a much weaker indicator because if a company is looking for a developer and there is someone who got an excellent at IT, and someone else who got marginal at developing, you can't tell. By those standards, you don't want an IT person for a dev job, and employers don't want marginal people.
+
+## What do I do if my employer gives me a bad evaluation?
+
+I have had this question asked to me on multiple instances. My first thought is to show them the CECA link above saying "95% of students get `very good` evaluation or above". A lot of employers may not know that the system is inflated, and might give you a `very good` thinking it is *actually* very good, when it actually isn't. If you say that most people get some evaluation and you performed well, they may be enticed to raise up the rating.
+
+Ask them to bump up your evaluation (in most cases it requires just putting the checkmark somewhere else on the page, unless you are changing from excellent to outstanding. Outstanding evaluation requires an extra writeup which most employers are too lazy to do unless you truly were stellar)
+
+If they stay adamant to their decision there really isn't much you *can* do. You asked, you showed them proof of the evaluations, and they still said no. In that case you just take their evaluation and move on.
 
 ## Conclusion
 Co-op ratings matter in the same way work experience matters. It is a rating given to assess your quality as a co-op student. It can poorly reflect your quality or overstate it, but in many cases no one will truly know that. It is a necessary part of co-op because of the nature of 4 month (and 8 month terms). No one can truly sum up a work period of that length in a readable format, unless you get a rating. Even the qualitative rating is better than a quantitative one.

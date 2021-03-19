@@ -9,7 +9,7 @@ order: 3
 finished: true
 ---
 
-**note:** I made these back in 2017. I am going back in 2020 to update info/misinformation. These are just guidelines, be sure to ask your academic advisors for concrete advice.
+**note:** I made these back in 2017. I am going back in 2020 to update info. These are just guidelines, be sure to ask your academic advisors for concrete advice.
 
 ## Side Projects?
 I think side projects are one of the most misunderstood and overrated aspects of job searching. I asked people what they thought was the key to being successful and tons of people said **side projects**. There is an obvious correlation from side projects to job offers, but it's widely believed to be a causative relationship.
@@ -20,28 +20,25 @@ I initially was a huge believer of doing side projects and success will pave way
 2. Bots filtering through resumes
 3. Side projects are usually small compared to work experience
 
-## 1 Quality
-I hate it when people use school assignments as side projects. I also dislike it when people put hackathon projects that they did little to no work on but it won/was an impressive project. The basis for this is that the motivation is not behind the side project. It is literally there to hook an interview.
+## Quality
+I hate it when people use school assignments as side projects. I also dislike it when people put hackathon projects that they did little to no work on but it won/was an impressive project. The basis for this is that the motivation is not behind the side project. It is literally there because nothing else is there to fill that space.
 
-**2020 edit**: Lol when I did I write this. I'm going to leave this salt in for comedic value.
-
-The school assignments as a side project have little to no motivation. You literally had to make that for a school assessment and if you didn't you would fail. That means in CS135, the whole class has a sudoku solver (I never took cs135, but I've heard of it) and in CS246, everyone has a chess game or some alternative in C++. The school assignments not only are contiguous to the other students, but in my opinion is just lazy placement for side projects. Of course if you have absolutely nothing, you have to put something, but I think you should at least try things to MAKE a side project, rather than port over what you already made "because you had to".
+The school assignments as a side project have little to no motivation. You literally had to make that for a school assessment and if you didn't you would fail. That means in CS135, the whole class has a sudoku solver (I never took cs135, but I've heard of it) and in CS246, everyone has a chess game or some simple game in C++. The school assignments not only are contiguous to the other students, but in my opinion is just lazy placement for side projects. Of course if you have absolutely nothing, you have to put something, but I think you should at least try things to MAKE a side project, rather than port over what you already made "because you had to".
 
 Generally about the quality of side projects, usually quality > quantity.
 
-## 2 Bots
+## Bots
 I have yet to know of a recruitment bot that can assess quality of side projects. Most employers so swamped they can't do it. As a result, the side projects will go under-appreciated.
 
 This is not as much of a factor for humans who read the resumes, but even then people need to READ the resumes, not exactly skim through it.
 
-## 3 Side project vs work experience
+## Side projects vs work experience
 
 There is no doubt that work experience is valuable. What Waterloo's co-op program prides itself on is giving work experience to students to help be more employable in the future.
 
-When comparing side projects and work experiences, there it gets murky.
-The question arises, hire someone who has stellar work experience, or stellar side projects. Not a lot of people have mind boggling side projects. If you do, then you'll probably get scooped up quickly. For most people they have to rely on side projects.
+When comparing side projects and work experiences, there it gets murky. The question arises, hire someone who has stellar work experience, or stellar side projects. Not a lot of people have mind boggling side projects. If you do, then you'll probably get scooped up quickly. For most people they have to rely on side projects.
 
-This is my opinion, so I may be wrong but I think work experience is more powerful than side projects. Having an internship at Google pops. Working at Twitter pops, in the same way Facebook, or Amazon pops. If someone worked there, there is an assumption of some work that was done to achieve that. Having an insanely good side project is not as easy to judge from face value. You could've created something as amazing as Homebrew. [Source](https://www.quora.com/Whats-the-logic-behind-Google-rejecting-Max-Howell-the-author-of-Homebrew-for-not-being-able-to-invert-a-binary-tree)
+This is my opinion, so I may be wrong but I think work experience is more important than side projects. Having an internship at Google pops. Working at Twitter pops, in the same way Facebook, or Amazon pops. If someone worked there, there is an assumption of some work that was done to achieve that. Having an insanely good side project is not as easy to judge from face value. You could've created something as amazing as Homebrew. [Source](https://www.quora.com/Whats-the-logic-behind-Google-rejecting-Max-Howell-the-author-of-Homebrew-for-not-being-able-to-invert-a-binary-tree)
 Max Howell, creator of Homebrew, was rejected from Google after not being able to invert a binary tree. That sort of side project was trumped. (technically it was from lack of interview prep, but it still shows the mortality of side projects no matter the size or notoriety.)
 
 ## Final Remarks

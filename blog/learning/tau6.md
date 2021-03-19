@@ -17,15 +17,13 @@ Hackathons have died down in popularity since 2017-2018 when they were arguably 
 
 A hackathon is supposed to be an entrepreneurial and coding experience to bring to life an idea that solves a problem. Ideally good ideas are formed, teams work well, problems are solved, and the world is better off. Most of the time teams are lazy, bugs occur hampering illustrious plans, and demos are haphazardly thrown together.
 
-Throw into the mix some prospective employers, free food and snacks, and overall it is pretty fun. Sans the lack of sleep, but that is up to the user's discretion.
-
-Most recently I attended Nwhacks 2020 (which was my first experience flying to a hackathon). It followed roughly the same structure.
+Throw into the mix some prospective employers, free food and snacks, and overall it is pretty fun. Sans the lack of sleep, but that is up to the user's discretion. Most recently I attended Nwhacks 2020 (which was my first experience flying to a hackathon).
 
 ## Why you should go to a hackathon
 
-I always tell people to attend at least one hackathon. You never know if you like something unless you try it out. You (usually) get a free bus ride to where the hackathon is, some free swag, networking opportunities with companies, and meet some people. And I you also get to code/use some new frameworks. I would say there are a lot of upsides for giving up your weekend. Even if you go to one and hate it, at least you got some free stuff out of it.
+I always tell people to attend at least one hackathon. You never know if you like something unless you try it out. You (usually) get a free bus ride to where the hackathon is, some free swag, networking opportunities with companies, and meet some people. And you also get to code/use some new frameworks. I would say there are a lot of upsides for giving up your weekend. Even if you go to one and hate it, at least you got some free stuff out of it.
 
-I personally enjoyed meeting people from the area at a hackathon and basically learning from people more skilled at coding than me.
+I personally enjoyed meeting people from the area the hackathon was hosted at and learning from people more skilled at coding than me.
 
 ### Why you should not go to a hackathon
 

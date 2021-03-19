@@ -4,7 +4,7 @@ title: The full story behind the Okta Smash Tournament
 permalink: /stories8/
 category: stories
 tag: stories
-date: 03/14/2020
+date: 03/14/2021
 order: 8
 finished: true
 ---
@@ -17,13 +17,13 @@ On the Thursday most people didn't show up to the office since it was a casual "
 
 The Friday rolls around and that was actually the day of the smash 4 doubles tournament grand finals. (Me and Eduardo vs. Chris L. and Ajay) This was the last day I was in the office. The tournament was structured in a way where we did [round robin](https://en.wikipedia.org/wiki/Tournament) singles matches to determine seeding and then the top seed was paired with the lowest seed (to make teams fair). I had actually been the 2nd seed since I lost 0-2 in the round robin pools to Chris L. He was unquestionably better than me. I remember I beat Zhirui 2-0 and Chris M. 2-1 (I went random in 2 matches after taking game 1 convincingly).
 
-The doubles tournament was a [double elimination bracket](https://en.wikipedia.org/wiki/Double-elimination_tournament) (meaning you had a chance to win even if you lost a set). We cruised through every team. One set we actually only lost stocks from SDs. It was dominant. We played Chris L's team in winner's finals. I was **EXTREMELY** confident. We had crushed everyone else. Eduardo, my partner, was not bad and we were playing solid. 
+The doubles tournament was a [double elimination bracket](https://en.wikipedia.org/wiki/Double-elimination_tournament) (meaning you had a chance to win even if you lost a set). We cruised through every team. One set we actually only lost stocks from SDs. It was dominant. We played Chris L's team in winner's finals. I was **EXTREMELY** confident. We had crushed everyone else. Eduardo, my partner, was not bad and we were playing solid.
 
 We got **CRUSHED** in winner's finals. Chris L. was much better than his partner, Ajay, so his partner camped and stock tanked as I tried to 1v1 Chris and my partner tried to chase Chris's partner around (playing kirby and just floating). It worked beautifully and we got cleaned up quickly with 0-2. I was mad, but I was also mad that I was playing smash 4.
 
 We went to loser's bracket and beat Antonio's team 2-0. Grand finals was the Friday. My final day at Okta. We had to win 2 sets to win the tournament, they had to win only 1 set. It was still best of 3. If you had the betting odds they were VERY skewed towards Chris's team. For one, I had **NOT** even taken a game from him in either singles **OR** doubles. The win in winner's finals was so dominant even I had doubts we could win a game.
 
-I walked in with the understanding that I was the underdog and I had little expectations. I did think about our games in between but not super-methodically and I didn't actually practice either. 
+I walked in with the understanding that I was the underdog and I had little expectations. I did think about our games in between but not super-methodically and I didn't actually practice either.
 
 My team's double cloud strat was able to steamroll **every** other noob team but since Chris's team had a solid plan, we had to counter it. The previous games consisted of 3 clouds and a kirby (me, eduardo, chris all cloud, ajay kirby) I straight up knew I couldn't win in the cloud ditto against him. I had to concede that. I contemplated bayonetta but I wasn't technical enough. I chose bowser because a lot of the winner's bracket games came down to me having 2-3 stocks, eduardo losing all of his, and then chris having 2 stocks. So it was like 1v1 against chris where I had 3 less stocks than him, which was near impossible. If I tried to chase down Ajay's kirby I would get counter hit. I needed to find a way trade my stocks 1:1 with Chris OR equalize Ajay's camping by hunting down Ajay. I decided on both with Bowser.
 

@@ -18,6 +18,7 @@ Albums:
 - Born Sinner (J. Cole)
 - College Dropout (Kanye West)
 - Does this look infected? (Sum 41)
+- Enema of the State (Blink-182)
 - Folklore (Taylor Swift)
 - Future Nostalgia (Dua Lipa)
 - Friday Night Lights (J. Cole)

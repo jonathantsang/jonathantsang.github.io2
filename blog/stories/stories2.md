@@ -4,7 +4,7 @@ title: Every hackathon I attended from Winter 2015 to Winter 2020
 permalink: /stories2/
 category: stories
 tag: stories
-date: 9/3/2020
+date: 02/02/2022
 order: 2
 finished: true
 ---
@@ -229,7 +229,7 @@ No project link
 
 #### NWHacks 2020
 
-First time I got to fly to a hackathon. Vancouver is nice. I'm going to make a separate page on my entire nwhacks experience in the future.
+First time I got to fly to a hackathon. Vancouver is nice.
 
 [Project](https://devpost.com/software/viteparking)
 

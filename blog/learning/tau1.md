@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Co-op streams
+title: What is the best co-op streams at Uwaterloo?
 permalink: /tau1/
 category: learning
 tag: learning
@@ -9,9 +9,14 @@ order: 1
 finished: true
 ---
 
-**note:** I made this back in 2017. I am going back in 2020 to update info/misinformation. These are just guidelines, be sure to ask your academic advisors for concrete advice. Also I have to rehaul this entire thing cause uw changed urls of some pages, changed the sequence names, and revamped some of the sequence plans.
+**note:** I made this back in 2017. I am going back in 2020 to update info because UW changed urls of some pages, changed the sequence names, and revamped some of the sequence plans.
 
-In this post I want to discuss about different co-op streams and what I think is the best one when trying to find a first co-op. This is mainly targeted for math and engineering faculties.
+In this post I want to discuss:
+- what is the co-op employment rate
+- what are the different co-op streams
+- what I think is the best one when trying to find a first co-op
+
+This is mainly targeted for math and engineering faculties.
 
 ## Co-op is (technically) not 99% employment rate
 
@@ -22,20 +27,21 @@ How does the "Cooperative Education & Career Action" or CECA keeps employment ra
 [From their site](https://uwaterloo.ca/co-operative-education/why-co-op/employment-statistics)
 ```
 Not every co-op student finds a job
-The co-op program does not guarantee you employment. Historically, our overall employment rates have varied between 86-99.9 per cent.
+The co-op program does not guarantee you employment.
+Historically, our overall employment rates have varied between 86-99.9 per cent.
 ```
 
 You may not find employment for your co-op work term. The majority of unemployed students each term tend to be at the junior level, looking for a first or second work term.
 
 The 86-99.9% is maintained by removing people who have not found a co-op twice. At that point, you are removed from the co-op program. This means you aren't **actively searching for employment**, and therefore limits the amount of people who can't find co-ops from the co-op statistic.
 
-This is a fair method of calculation, but it does fairly skew the results for hopeful people. The world of co-op is harder than it may seem.
+This is a fair method of calculation, but it does fairly skew the results for hopeful/unknowing people. The world of finding a co-op is harder than it may seem.
 
-Bonus: If you want to see the co-op job salaries go to [here](https://uwaterloo.ca/co-operative-education/about-co-op/co-op-earnings)
+Bonus: If you want to see the co-op job salaries go [here.](https://uwaterloo.ca/co-operative-education/about-co-op/co-op-earnings)
 
 ## Co-op Stream Breakdown
 
-If you are unfamiliar with the waterloo co-op streams, there are a bunch of streams you choose when coming here and it determines when you go on co-op.
+If you are unfamiliar with the waterloo co-op streams, there are a bunch of streams you choose that determines when you go on co-op.
 
 #### Definitions of terms
 **Fall:** September - December  

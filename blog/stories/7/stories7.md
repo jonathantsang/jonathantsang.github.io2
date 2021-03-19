@@ -4,7 +4,7 @@ title: Why I didn't end up taking CS452 (Real time programming)
 permalink: /stories7/
 category: stories
 tag: stories
-date: 2/24/2021
+date: 02/24/2021
 order: 7
 finished: true
 ---

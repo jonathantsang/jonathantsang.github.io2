@@ -15,7 +15,7 @@ I think this post is valid in this day and age. With admissions to Waterloo CS a
 
 I have had a few high school students come to me and say "I want to go into CS, but I **only** have a 92% average". Unfortunately under most circumstances that isn't enough. Coupled with mark inflation, school adjustment factors, and other unfair circumstances it is hardly an easy or fair process getting into university these days.
 
-I don't make the admissions requirements and cutoffs have changed drastically. (I had an 84% average in high school to get me in Waterloo Science. I'm not even sure that is enough by today's standards with my grades, forget even applying for CS. I would later use my university marks to switch into CS)
+I don't make the admissions requirements and since my time cutoffs have changed drastically. (I had an 84% average in high school to get me in Waterloo Science. I'm not even sure that is enough by today's standards with my grades, forget even applying for CS. I would later use my university marks to switch into CS)
 
 Firstly I want to say not getting Waterloo CS is not the end all be all. There are other great programs like UBC CS, UofT CS, etc.
 
@@ -29,6 +29,8 @@ If you are ultimately rejected from your dream program, hopefully you had some b
 
 What I think is integral to the success of an undergrad software developer trying to gain experience is job hunting early, often, and continuing to grow at each step. It is much easier to find a full-time job with internship experience as opposed to having no experience. Even small internships can help you tremendously since it builds credibility for a prospective hire.
 
+Even if the first job you have isn't coding related you can use it to work on the next experience you have. Each step you slowly build up what you have and hopefully move in the right direction.
+
 ### What are my options?
 
 Here is an assortment of options I thought of if you truly are interested in doing CS.
@@ -37,11 +39,11 @@ Here is an assortment of options I thought of if you truly are interested in doi
 
 I don't particularly like this option (despite me switching into Waterloo CS). There have been a few changes since I switched into CS. It is much harder to switch into, keeping co-op is intensely hard to do, and switching universities to Waterloo adds an extra layer of complexity. You need good marks and good extracurriculars to do this. I don't have experience transferring into CS through the new stricter guidelines.
 
-Being in CS does not guarantee success. I know many people who got into CS but did not succeed due to inability to transition skillset and learning to university.
+Being in CS does not guarantee success. I know many people who got into CS but did not succeed due to inability to transition skillset and learning to university. Some people may view getting into CS as some "gold ticket to success" but it is far from the truth. You still need to put in immense amounts of work in the program to be successful.
 
 ### Going to another school for CS
 
-I would argue a lot of schools in Canada have comparable CS programs and some even have their own co-op programs now. Personally I think co-ops spread out is more valuable than 1 PEY (16 month internship at one company) which is what UofT does, but some work experience is better than nothing.
+I would argue a lot of schools in Canada have comparable if not better CS programs (UofT, UBC) and some even have their own co-op programs now (UBC). Personally I think co-ops spread out is more valuable than 1 PEY (16 month internship at one company) which is what UofT does, but some work experience is better than nothing.
 
 Regardless of which school you go to you still have to try hard. Just because your school is ranked higher in some Maclean's ranking doesn't mean you are automatically better. Most Maclean's rankings are fake anyways. Google what Maclean's said is the most innovative university for 26 years running [Link](https://uwaterloo.ca/water-institute/news/macleans-names-waterloo-canadas-most-innovative-university).
 
