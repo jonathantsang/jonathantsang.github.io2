@@ -189,7 +189,7 @@ Job hunting was also very stressful. I had the most interviews up until my Water
 
 I had 9 interviews total in continuous round.
 
-One company interviewed me and did not ask me a coding question it was all behavioural stuff. Up into this point not only had no company given me an offer but I was feeling nervous that I wouldn't even get a developer job (as a 3A student). I was applying externally and trying to find other avenues as well since WaterlooWorks wasn't looking good. That company ended up giving me an offer on WaterlooWorks in continuous round. 
+One company interviewed me and did not ask me a coding question it was all behavioural stuff. Up into this point not only had no company given me an offer but I was feeling nervous that I wouldn't even get a developer job (as a 3A student). I was applying externally and trying to find other avenues as well since WaterlooWorks wasn't looking good. That company ended up giving me an offer on WaterlooWorks in continuous round.
 
 I was skeptical of the job (since their interview didn't wow me) and decided to rank it a 4 (by not giving it a 1, someone who was ranked giving it a 1 means they got the job). I was not matched with the job. After this decision many people were stating that I was throwing away the only offer I had and I was crazy. I had around 6 interviews up until that point that were all rejections and it did seem crazy to throw away the only offer. Personally, I felt that the job did not nearly impress me in the same way an interview should have a company be impressed by you. So I rejected them.
 
@@ -332,7 +332,7 @@ I was working on the data-processing team which dealt with logs and was working 
 
 ### Graduation
 
-In Winter 2020 I took one online course and graduated while doing my internship in Seattle. After close to 5 and a half years I finally completed my degree, a Bachelor of Computer Science degree with a minor in Combinatorics and Optimization. It was fairly anticlimactic since I had completed my degree requirements back in 2019, but I wanted to do more co-ops and courses. I told the registrar I was "applying to graduate" and got approved.
+In Winter 2020 I took one online course and graduated while doing my internship in Seattle. After close to 5 and a half years I finally completed my degree, a Bachelor of Computer Science degree with a minor in Combinatorics and Optimization (with Co-op). It was fairly anticlimactic since I had completed my degree requirements back in 2019, but I wanted to do more co-ops and courses. I told the registrar I was "applying to graduate" and got approved.
 
 ## Conclusion
 
@@ -361,7 +361,7 @@ The people who can efficiently balance all 5 are few and far between and most pe
 - I failed to win anything at the first 12 hackathons I went to (despite people telling me it was very easy to win at hackathons)
 - I got 52% in CS 350 (Operating Systems)
 - I was unable to find a co-op job for summer 2018 after months of interviewing and went to continuous round, later going to Okta
-- I got a 'very good' co-op evalution from Okta (which is actually a mediocre evaluation) and I didn't get a return offer from Okta 
+- I got a 'very good' co-op evalution from Okta (which is actually a mediocre evaluation) and I didn't get a return offer from Okta
 - I was unable to find a co-op job for summer 2019 after months of interviewing and went to continuous round, later going to Zenefits
 - I often felt that my social life and mental health were very poor during my undergrad
 - there were moments on intense pressure either from school coursework, or trying to get a "cali" co-op and I buckled under the pressure
@@ -462,7 +462,7 @@ Tech is plagued by people trying to prove they are worthy and better than others
 
 ### Closing Thoughts
 
-There comes a time in everyone's life where things end. University ending and a full-time job starts. Nothing in life really "ends" in the traditional sense. (akin to the Watchmen comic I showed above) I'm still tied to Waterloo in some sense when I talk to people who either recently graduated, are looking to graduate soon, are starting out undergrad, or looking to apply to Uwaterloo. 
+There comes a time in everyone's life where things end. University ending and a full-time job starts. Nothing in life really "ends" in the traditional sense. (akin to the Watchmen comic I showed above) I'm still tied to Waterloo in some sense when I talk to people who either recently graduated, are looking to graduate soon, are starting out undergrad, or looking to apply to Uwaterloo.
 
 When I look back, the hardships that impeded my success early on served as guidance to where I would eventually land. There were things I believed to be prophetic of success and things I would work towards that would eventually have no impact overall. Other small things I didn't even notice ended up having substantial impact on me without me knowing at that moment. It is hard to truly predict your path.
 
