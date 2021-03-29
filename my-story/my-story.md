@@ -358,6 +358,7 @@ I usually say university is a balance between:
 The people who can efficiently balance all 5 are few and far between and most people can only choose 2-3 of these and execute effectively. If you choose to have all 5, you often do a poor job addressing all of them. Despite this page being called `my-story` I will admit it is a heavily edited and skewed story that leans towards moments of great accomplishments or periods of change in my life. Not everything is as dynamic or picturesque as this, and I feel in some way responsible to say that these are only the "highlights" of my undergrad. There were just as many "lowlights" that were not mentioned in as much detail:
 
 - In 2017 I was unable to find a developer job for my co-op, I had to work in QA
+- I applied to Hack the North 4-5 times and Hack MIT 3-4 times but never got accepted
 - I failed to win anything at the first 12 hackathons I went to (despite people telling me it was very easy to win at hackathons)
 - I got 52% in CS 350 (Operating Systems)
 - I was unable to find a co-op job for summer 2018 after months of interviewing and went to continuous round, later going to Okta
