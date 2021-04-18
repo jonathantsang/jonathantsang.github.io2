@@ -46,8 +46,3 @@ Ranked `27th` in [Ontario](https://open.kattis.com/countries/CAN/ON)
 <img src="/about-me/pictures/github.png" width="30%" height="30%"/>
 
 I usually post projects I make on my Github: [Github](https://github.com/jonathantsang)
-
-### Even More Links
-- [My favourite albums](/albums_iw)
-- [Albums I've Listened to and their ratings](/albums)
-- Some extra-curricular hobbies: [Hobbies](/hobbies)
