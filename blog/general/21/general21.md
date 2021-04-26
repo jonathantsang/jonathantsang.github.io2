@@ -189,4 +189,4 @@ The only thing I don't like is that since their menu changes daily, the only way
 
 ## Conclusion
 
-That's all I've tried for now. In the future I may find other places. Be sure to try out Seattle Fish Guys and Ono Authentic Hawaiian Poke for the absolute best poke in Seattle!
+That's all I've tried for now. In the future I may find other places. Be sure to try out Seattle Fish Guys and Ono Authentic Hawaiian Poke for the absolute best poke in Seattle! Hello Poke in Redmond is still a solid pick for the next best poke that is less traditional.
