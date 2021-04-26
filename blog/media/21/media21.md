@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christopher Nolan's movies ranked by how confusing they are
-permalink: /general21/
+permalink: /media21/
 category: media
 tag: media
 date: 05/01/2021
@@ -9,7 +9,7 @@ order: 21
 finished: false
 ---
 
-**Spoilers:** In most, if not all of the Christopher Nolan films.
+**Spoilers:** The Prestige, Memento, Interstellar, Inception, Tenet
 
 We're listing the "mind-bender" Christopher Nolan films from least to most confusing. That means I won't include the Dark Knight Series or Dunkirk.
 
@@ -31,12 +31,22 @@ This movie is confusing for a multitude of reasons, firstly the fact that the st
 
 The "Sammy Jankis" story moving forward interweaved with the colour story is confusing in its own right
 
-## 3. Interstellar
+## 3. Interstellar (2014)
+
+I saw this the most recent out of all of the movies on this list. The ending is
+
+This is the most scientific movie of the bunch.
+
+The part where he flies into the black hole is a bit of a "plot" hole because we don't know what lies in there. He gets placed in a multi-dimensional time/space area that showcases his past and qualitatively shows time as a dimension.
+
+The ending shows Murph saves
+
+This might be the movie I liked the least out of all of these. These are all phenominal movies and to me Interstellar just felt mediocre compared to the rest.
 
 
 ## 2. Inception (2010)
 
-Inception was heralded at its release for the grand visuals and linear but complex story. My boldest take is that it hasn't age well 10 years later where CGI has all but dwarfed the whimsical scenes elaborately created for dreams. I still like Inception but I find it is the 
+Inception was heralded at its release for the grand visuals and linear but complex story. My boldest take is that it hasn't age well 10 years later where CGI has all but dwarfed the whimsical scenes elaborately created for dreams. I still like Inception but I find it is the
 
 Interstellar
 
