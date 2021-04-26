@@ -177,7 +177,7 @@ The poke bowl is a little pricier than others at $14.99 for two proteins, but I'
 
 {% include image.html src="/blog/general/21/poke/ono.jpg" size="60%" %}
 
-This place is in Edmonds which is by no means close to Seattle (compared to the other ones). The locaiton is a little hard to get to admittedly. It is 100% worth it to go here. Moreso since this place doesn't even do delivery.
+This place is in Edmonds which is by no means close to Seattle (compared to the other ones). The location is a little hard to get to admittedly. It is 100% worth it to go here. Moreso since this place doesn't even do delivery.
 
 This is the most expensive poke on our list at almost $16 a bowl. Is it worth it? I would definitely say yes for a few reasons. Firstly, the amount they give you is pretty large. That container of poke has tons of fish and a hefty side as well. You get a fair amount of rice underneath but that's ok when the fish is high quality and is plentiful. The other thing that stands out is the marinaded fish is insanely flavourful. It might have to do with the fact that each day the menu changes and it rotates what is made. I'm a big fan of this poke bowl. In the store they showcase the poke in a big window so you can see your choices.
 
