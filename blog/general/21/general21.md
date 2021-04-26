@@ -9,6 +9,8 @@ order: 21
 finished: true
 ---
 
+<meta property="og:image" content="/blog/general/21/poke.png" />
+
 This is a short article talking about every Poke place I tried. I found a few hidden gems and a few pretty mediocre places. I might add to this in the future if I try some new places.
 
 {% include image.html src="/blog/general/21/poke.png" size="100%" %}
