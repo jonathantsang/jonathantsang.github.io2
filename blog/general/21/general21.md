@@ -7,9 +7,10 @@ tag: general
 date: 25/04/2021
 order: 21
 finished: true
+cover-img: /blog/general/21/poke.png
+thumbnail-img: /blog/general/21/poke.png
+share-img: /blog/general/21/poke.png
 ---
-
-<meta property="og:image" content="/blog/general/21/poke.png" />
 
 This is a short article talking about every Poke place I tried. I found a few hidden gems and a few pretty mediocre places. I might add to this in the future if I try some new places.
 
