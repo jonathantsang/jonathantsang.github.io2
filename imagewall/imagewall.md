@@ -6,5 +6,5 @@ permalink: /images/
 
 Interesting photos:
 
-[Watchmen](/watchmen_iw)
-[Albums](/albums_iw)
+- [Watchmen](/watchmen_images)
+- [Music Albums](/albums_images)

@@ -1,7 +1,7 @@
 ---
 title: Watchmen
 layout: photospage
-permalink: /watchmen_iw/
+permalink: /watchmen_images/
 tag: images/iw/watchmen
 ---
 

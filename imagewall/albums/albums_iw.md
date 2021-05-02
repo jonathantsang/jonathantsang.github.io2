@@ -1,7 +1,7 @@
 ---
 title: Great Albums
 layout: photospage
-permalink: /albums_iw/
+permalink: /albums_images/
 tag: images/iw/albums
 ---
 
