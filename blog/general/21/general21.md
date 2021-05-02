@@ -28,9 +28,9 @@ Poke places I tried:
 - 45th Stop and Shop and Poke Bar
 - Seattle Fish Guys
 - Ono Authentic Hawaiian Poke
+- Kuzma's Fish Market
 
 Places on my "to-try" list:
-- Kuzma's Fish Market
 - ICU Poke
 - Big Island Poke
 
@@ -132,7 +132,7 @@ Relatively decent and around the same price as the other chains at $13.95 for th
 
 This place is located in U-district. It has a mix of Japanese and Hawaiin dishes and is only open Monday to Saturday. When I went there was a dead rat outside the restaurant on the sidewalk and the entrance has a weird bead curtain to enter the place (which just hits your face when entering). I don't think that factors into my rating, but it made my experience less than ideal.
 
-The lomo lomo salmon was a bit too acidic in my opinion and the lettuce leaf in the poke bowl just felt out of place. There wasn't much fish in the poke bowl either, but that might be justified. This poke bowl was by far the cheapest meal at $10.99. That is much cheaper than the next lowest poke bowl at $13.95. Is it the most economical one? Probably. It wasn't flat out terrible, but it wasn't my favourite by far. I might give it another shot, but for now it really is just a budget option in U-district.
+The lomo lomo salmon was a bit too acidic in my opinion and the lettuce leaf in the poke bowl just felt out of place. There wasn't much fish in the poke bowl either, but that might be justified. This poke bowl was fairly cheap at $10.99 a bowl. It wasn't flat out terrible, but it wasn't my favourite by far. I might give it another shot, but for now it really is just a budget option in U-district.
 
 2.5/5
 
@@ -187,6 +187,29 @@ The only thing I don't like is that since their menu changes daily, the only way
 
 5/5
 
+{% include image.html src="/blog/general/21/logos/kuzma.png" size="50%" %}
+## Kuzma's Fish Market
+
+[Yelp](https://www.yelp.com/biz/kuzmas-fish-market-edmonds-2), [Menu](https://kuzmasfishmarket.com/menu/)
+
+**My order:** Poke bowl with regular ahi and salmon for $10.49. (Base price is $9.99, I paid extra 50 cents to substitue second option ahi for salmon.)
+
+{% include image.html src="/blog/general/21/poke/kuzma.jpg" size="60%" %}
+
+This place is in Edmonds/Lynnwood which is a little difficult to get to. This location is tucked in a little fish market that has tons of locals buying fresh cuts of fish.
+
+{% include image.html src="/blog/general/21/poke/kuzma3.jpg" size="60%" %}
+
+The poke is simple here. No sauces, few toppings on top of rice. (Just seaweed salad, ginger, and pickled daikon radish) They are just mildly umami tasting. The killer aspect of this poke is that it is only $9.99.
+
+The standout really is the fish. It's soft, tender, and almost melt in the mouth consistency. This was my favourite cut of fish out of the poke bowls and rightfully so since it probably came fresh straight from the fish market sources.
+
+{% include image.html src="/blog/general/21/poke/kuzma2.jpg" size="60%" %}
+
+I can't think of a better poke bowl at that price point. It's a little crazy. The only thing is that the place is a little hard to get to.
+
+4/5
+
 ## Conclusion
 
-That's all I've tried for now. In the future I may find other places. Be sure to try out Seattle Fish Guys and Ono Authentic Hawaiian Poke for the absolute best poke in Seattle! Hello Poke in Redmond is still a solid pick for the next best poke that is less traditional.
+That's all I've tried for now. In the future I may find other places. Be sure to try out Seattle Fish Guys and Ono Authentic Hawaiian Poke for the absolute best poke in Seattle! Hello Poke in Redmond is still a solid pick for the next best poke that is less traditional. Kuzma's Fish market is a good pick for budget and fresh poke at $9.99.
