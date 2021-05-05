@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ranking the best bubble tea places in Seattle
+title: Rating the best bubble tea places in Seattle
 permalink: /food2/
 category: food
 tag: food

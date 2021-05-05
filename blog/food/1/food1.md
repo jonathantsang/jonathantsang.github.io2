@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ranking the best poke places in Seattle
+title: Rating the best poke places in Seattle
 permalink: /food1/
 category: food
 tag: food
