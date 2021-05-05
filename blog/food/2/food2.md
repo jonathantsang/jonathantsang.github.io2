@@ -4,7 +4,7 @@ title: Ranking the best bubble tea places in Seattle
 permalink: /food2/
 category: food
 tag: food
-date: 25/04/2021
+date: 04/05/2021
 order: 2
 finished: true
 cover-img: /blog/food/2/boba.png
