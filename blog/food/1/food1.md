@@ -72,9 +72,9 @@ This one is sufficiently filling but just lacks a lot of flavour (other than the
 
 {% include image.html src="/blog/food/1/poke/just_poke.jpeg" size="60%" %}
 
-For a place called "Just Poke", I sure did get a lot of rice. I think this place gave me 5% fish in my entire poke bowl, maybe less. Pretty disappointing and the only saving grace is that it isn't the MOST expensive $13.99 (but that doesn't save it by any means). That might be the only good thing about it. I probably won't be back.
+For a place called "Just Poke", I sure did get a lot of rice. I think this place gave me 5% fish in my entire poke bowl, maybe less. Pretty disappointing and the only saving grace is that it isn't the MOST expensive at $13.99 (but that doesn't save it by any means). I probably won't be back.
 
-0.5/5
+0/5
 
 {% include image.html src="/blog/food/1/logos/pokeworks.jpeg" size="30%" %}
 ### Pokeworks
