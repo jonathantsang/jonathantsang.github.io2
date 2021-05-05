@@ -8,7 +8,7 @@ permalink: /blog/
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-md-4">
       <h2>Learning Blog Posts</h2>
       <p>Blog posts aimed towards undergrads with some useful information.</p>
       <ol>
@@ -21,8 +21,8 @@ permalink: /blog/
           {% endif %}
         {% endfor %}
       </ol>
-      </div>
-    <div class="col-sm-4">
+    </div>
+    <div class="col-md-4">
       <h2>Co-op Blog Posts</h2>
       <p>Blog posts focused mainly on the Waterloo co-op program and my co-op experiences.</p>
       <ol>
@@ -36,7 +36,35 @@ permalink: /blog/
         {% endfor %}
       </ol>
     </div>
-    <div class="col-sm-4">
+    <div class="col-md-4">
+      <h2>Food Blog Posts</h2>
+      <p>Blog posts about food.</p>
+      <ol>
+        {% assign sorted_pages = site.pages | sort:"order" %}
+        {% for p in sorted_pages %}
+          {% if p.tag == "food" and p.finished %}
+          <li id="{{ p.order }}">
+            <a href="{{ p.url }}">{{ p.title }}</a>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ol>
+    </div>
+    <div class="col-md-4">
+      <h2>Stories</h2>
+      <p>Longer stories from my undergrad.</p>
+      <ol>
+        {% assign sorted_pages = site.pages | sort:"order" %}
+        {% for p in sorted_pages %}
+          {% if p.tag == "stories" and p.finished %}
+          <li id="{{ p.order }}">
+            <a href="{{ p.url }}">{{ p.title }}</a>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ol>
+    </div>
+    <div class="col-md-4">
       <h2>General Blog Posts</h2>
       <p>Blog posts with non-academic topics.</p>
       <ol>
@@ -50,27 +78,13 @@ permalink: /blog/
         {% endfor %}
       </ol>
     </div>
-    <div class="col-sm-4">
+    <div class="col-md-4">
       <h2>Media Blog Posts</h2>
       <p>Blog posts talking about some form of media (movies, music, comics, video games, etc.)</p>
       <ol>
         {% assign sorted_pages = site.pages | sort:"order" %}
         {% for p in sorted_pages %}
           {% if p.tag == "media" and p.finished %}
-          <li id="{{ p.order }}">
-            <a href="{{ p.url }}">{{ p.title }}</a>
-          </li>
-          {% endif %}
-        {% endfor %}
-      </ol>
-    </div>
-    <div class="col-sm-4">
-      <h2>Stories</h2>
-      <p>Longer stories from my undergrad.</p>
-      <ol>
-        {% assign sorted_pages = site.pages | sort:"order" %}
-        {% for p in sorted_pages %}
-          {% if p.tag == "stories" and p.finished %}
           <li id="{{ p.order }}">
             <a href="{{ p.url }}">{{ p.title }}</a>
           </li>
