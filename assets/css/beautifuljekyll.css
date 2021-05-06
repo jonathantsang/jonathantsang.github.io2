@@ -4,6 +4,19 @@ layout: null
 
 @import url("pygment_highlights.css");
 
+/* --- Custom --- */
+
+
+/* Responsive Images */
+
+/* sm, large image on mobile */
+@media screen and (max-width: 600px) {
+    .responsive-image {
+      /* mobile screen */
+      width: 100%;
+    }
+}
+
 /* --- General --- */
 
 html {

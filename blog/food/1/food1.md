@@ -46,12 +46,12 @@ What I usually look for is a more "Hawaii-style" poke with a lot of fish in my p
 
 ## Restaurants
 
-{% include image.html src="/blog/food/1/logos/poke_mix.png" size="60%" %}
+{% include image.html src="/blog/food/1/logos/poke_mix.png" size="60%" responsive="false" %}
 ### Mix Poke Bar
 
 [Yelp](https://www.yelp.com/biz/mix-poke-bar-bellevue), [Menu](https://www.mixpokebar.com/menu)
 
-{% include image.html src="/blog/food/1/poke/poke_mix.jpeg" size="60%" %}
+{% include image.html src="/blog/food/1/poke/poke_mix.jpeg" size="60%" responsive="true" %}
 
 **My order:** Poke bowl with brown rice, three proteins with ahi, salmon, and spicy tuna for $14
 
@@ -70,7 +70,7 @@ This one is sufficiently filling but just lacks a lot of flavour (other than the
 
 **My order:** Poke bowl with white rice, 3 proteins, ahi tuna, salmon, and spicy tuna for $13.99
 
-{% include image.html src="/blog/food/1/poke/just_poke.jpeg" size="60%" %}
+{% include image.html src="/blog/food/1/poke/just_poke.jpeg" size="60%" responsive="true" %}
 
 For a place called "Just Poke", I sure did get a lot of rice. I think this place gave me 5% fish in my entire poke bowl, maybe less. Pretty disappointing and the only saving grace is that it isn't the MOST expensive at $13.99 (but that doesn't save it by any means). I probably won't be back.
 
@@ -81,7 +81,7 @@ For a place called "Just Poke", I sure did get a lot of rice. I think this place
 
 [Yelp](https://www.yelp.com/biz/pokeworks-bellevue-2), [Menu](https://www.pokeworks.com/menu)
 
-{% include image.html src="/blog/food/1/poke/poke_works.jpeg" size="60%" %}
+{% include image.html src="/blog/food/1/poke/poke_works.jpeg" size="60%" responsive="true" %}
 
 **My order:** Poke bowl with white rice, 2 proteins, ahi tuna and salmon for $14.50
 
@@ -96,7 +96,7 @@ This place is a chain. It acts super fancy but in the end it is just an expensiv
 
 **My order:** Brown rice in large bowl (3 scoops) with salmon, seared ahi, and spicy tuna for $14.99
 
-{% include image.html src="/blog/food/1/poke/fob_fish_bar.jpeg" size="60%"%}
+{% include image.html src="/blog/food/1/poke/fob_fish_bar.jpeg" size="60%" responsive="true" %}
 
 I walked in this place at around 1pm and no one was in there. No customers ordering or eating there (cause of covid probably) and also no one was manning the register. I exited and had to check they were open. I was very confused. Eventually someone arrived at the front desk.
 
@@ -113,7 +113,7 @@ In a pinch, I would say this place is passable. It is a poke bowl, and isn't the
 
 **My order:** Poke bowl with brown rice and salmon, ahi tuna, and spicy tuna for $13.95
 
-{% include image.html src="/blog/food/1/poke/hello_poke.jpeg" size="60%"%}
+{% include image.html src="/blog/food/1/poke/hello_poke.jpeg" size="60%" responsive="true" %}
 
 I had skepticism before trying this place in Redmond. This place looks like Just Poke or a chain. I think it only has the one location in Redmond. That being said, it was surprisingly decent. Fresh fish and actually tasted pretty good. The bowl has a fair amount of fish and the rice doesn't take up the entire space in the bowl. The toppings also aren't too shabby.
 
@@ -128,7 +128,7 @@ Relatively decent and around the same price as the other chains at $13.95 for th
 
 **My order:** Poke bowl with brown sushi rice and lomo lomo salmon, and spicy tuna for $10.99
 
-{% include image.html src="/blog/food/1/poke/hiroshi.jpeg" size="60%" %}
+{% include image.html src="/blog/food/1/poke/hiroshi.jpeg" size="60%" responsive="true" %}
 
 This place is located in U-district. It has a mix of Japanese and Hawaiin dishes and is only open Monday to Saturday. When I went there was a dead rat outside the restaurant on the sidewalk and the entrance has a weird bead curtain to enter the place (which just hits your face when entering). I don't think that factors into my rating, but it made my experience less than ideal.
 
@@ -143,7 +143,7 @@ The lomo lomo salmon was a bit too acidic in my opinion and the lettuce leaf in 
 
 **My order:** Poke bowl with salmon and ahi tuna for $14
 
-{% include image.html src="/blog/food/1/poke/45th.jpeg" size="60%" %}
+{% include image.html src="/blog/food/1/poke/45th.jpeg" size="60%" responsive="true" %}
 
 This might be the weirdest location for a poke bar. Situated in the back of a convenience store in Wallingford, there is a poke bar. Cheap/overpriced convenience store doesn't normally fit with (usually) pretty expensive poke, but I was willing to give it a try. It does cost $14 for two fish, which puts it around the same price as most of these places.
 
@@ -158,7 +158,7 @@ The photo showcases the poke front and center but behind it is a lot of greens. 
 
 [Yelp](https://www.yelp.com/biz/seattle-fish-guys-seattle), [Menu](https://www.seattlefishguys.com/restaurant-menu)
 
-{% include image.html src="/blog/food/1/poke/seattle_fish_guys.png" size="50%" %}
+{% include image.html src="/blog/food/1/poke/seattle_fish_guys.png" size="50%" responsive="true" %}
 
 **My order:** Poke bowl with white rice, shoyu tuna and salmon, seaweed salad side for $14.99
 
@@ -175,7 +175,7 @@ The poke bowl is a little pricier than others at $14.99 for two proteins, but I'
 
 **My order:** Poke bowl with rice, traditional ahi, spicy hamachi, and side of edamame for $15.5
 
-{% include image.html src="/blog/food/1/poke/ono.jpg" size="60%" %}
+{% include image.html src="/blog/food/1/poke/ono.jpg" size="60%" responsive="true" %}
 
 This place is in Edmonds which is by no means close to Seattle (compared to the other ones). The location is a little hard to get to admittedly. It is 100% worth it to go here. Moreso since this place doesn't even do delivery.
 
@@ -194,7 +194,7 @@ The only thing I don't like is that since their menu changes daily, the only way
 
 **My order:** Poke bowl with regular ahi and salmon for $10.49. (Base price is $9.99, I paid extra 50 cents to substitue second option ahi for salmon.)
 
-{% include image.html src="/blog/food/1/poke/kuzma.jpg" size="60%" %}
+{% include image.html src="/blog/food/1/poke/kuzma.jpg" size="60%" responsive="true" %}
 
 This place is in Edmonds/Lynnwood which is a little difficult to get to. This location is tucked in a little fish market that has tons of locals buying fresh cuts of fish.
 
@@ -204,7 +204,7 @@ The poke is simple here. No sauces, few toppings on top of rice. (Just seaweed s
 
 The standout really is the fish. It's soft, tender, and almost melt in the mouth consistency. This was my favourite cut of fish out of the poke bowls and rightfully so since it probably came fresh straight from the fish market sources.
 
-{% include image.html src="/blog/food/1/poke/kuzma2.jpg" size="60%" %}
+{% include image.html src="/blog/food/1/poke/kuzma2.jpg" size="60%" responsive="true" %}
 
 I can't think of a better poke bowl at that price point. It's a little crazy. The only thing is that the place is a little hard to get to.
 

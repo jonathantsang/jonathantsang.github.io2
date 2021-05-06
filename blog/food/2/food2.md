@@ -51,13 +51,13 @@ Judging based on:
 
 [Yelp](https://yelp.com/biz/boba-up-seattle-3), [Menu](https://bobaupseattle.com/shop/ols/products/regular-cup-4f43fc25-b84a-4472-927f-1c1b8c1a54e9)
 
-{% include image.html src="/blog/food/2/boba/boba-up.jpeg" size="60%" %}
+{% include image.html src="/blog/food/2/boba/boba-up.jpeg" size="60%" responsive="true" %}
 
 **My order:** Thai iced tea base and coffee jelly for $4.35.
 
 This place is located in the university district and is a "self-serve" boba shop. The concept is interesting, you pay for a cup and fill it with whatever tea and toppings you want. It definitely is a social experience and gives a lot of custom options for bbt.
 
-{% include image.html src="/blog/food/2/boba/boba-up2.jpeg" size="60%" %}
+{% include image.html src="/blog/food/2/boba/boba-up2.jpeg" size="60%" responsive="true" %}
 
 I think the bubble tea was just ok. I went pre-pandemic and I don't know how they do this sort of bbt buffet style serving now.
 
@@ -71,7 +71,7 @@ I think the bubble tea was just ok. I went pre-pandemic and I don't know how the
 
 **My order:** Hong kong milk tea? (I can't remember what I had) regular size for $4.25.
 
-{% include image.html src="/blog/food/2/boba/oasis.jpeg" size="60%" %}
+{% include image.html src="/blog/food/2/boba/oasis.jpeg" size="60%" responsive="true" %}
 
 Oasis has a couple locations around WA. Honestly I got this pre-pandemic and I don't remember much other than it was kind of bad.
 
@@ -85,7 +85,7 @@ Oasis has a couple locations around WA. Honestly I got this pre-pandemic and I d
 
 **My order:** Ube milk tea with less sugar for $5.50.
 
-{% include image.html src="/blog/food/2/boba/20oztea.jpeg" size="50%" %}
+{% include image.html src="/blog/food/2/boba/20oztea.jpeg" size="50%" responsive="true" %}
 
 I loved the ube milk tea from this place. The only issue is that the location is a bit inconvenient since it is just south of the university district in Eastlake.
 
@@ -101,7 +101,7 @@ This place is trendy and a little more expensive. (I have not tried their $8.75 
 
 **My order:** Pudding milk tea for $4.25.
 
-{% include image.html src="/blog/food/2/boba/timeless-tea.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/timeless-tea.jpeg" size="40%" responsive="true" %}
 
 (The tiny logo is best I could find for Timeless Tea) This might be one of my favourites on this list. It's a sleeper pick because it seems like an unassuming boba place but it actually tasted pretty good and it was fairly cheap. It is located in the university district (like many of the ones on this list) It is a short walk from the UDub campus.
 
@@ -121,7 +121,7 @@ They also have snow ice, and "Milk Tea Hot Pot", and chocolate bull dog mousse (
 
 **My order:** Thai milk tea with pearls. 30% sugar, no ice.
 
-{% include image.html src="/blog/food/2/boba/sharetea.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/sharetea.jpeg" size="40%" responsive="true" %}
 
 Why am I even reviewing this lol. It's a chain and not specific to Seattle.
 
@@ -135,7 +135,7 @@ Chain/5
 
 **My order:** Medium pearl milk tea, 0% sugar, no ice.
 
-{% include image.html src="/blog/food/2/boba/coco.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/coco.jpeg" size="40%" responsive="true" %}
 
 Why am I even reviewing this lol. It's a chain and not specific to Seattle.
 
@@ -149,7 +149,7 @@ Chain/5
 
 **My order:** Matcha milk, 50% sugar
 
-{% include image.html src="/blog/food/2/boba/kungfu-tea.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/kungfu-tea.jpeg" size="40%" responsive="true" %}
 
 Why am I even reviewing this lol. It's a chain and not specific to Seattle.
 
@@ -163,7 +163,7 @@ Chain/5
 
 **My order:** Large boba milk tea with 30% sugar and no ice for $4.50.
 
-{% include image.html src="/blog/food/2/boba/meetea.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/meetea.jpeg" size="40%" responsive="true" %}
 
 This place has a location in Cap Hill and Redmond. I went to the Redmond one and it was just okay. The choice to use lactose free milk in all of the drinks is an interesting one. I am not sure if other places do this too but just don't announce it. (I doubt that though since I think lactose milk is more expensive on average)
 
@@ -177,7 +177,7 @@ This place has a location in Cap Hill and Redmond. I went to the Redmond one and
 
 **My order:** Milk tea for $4.25.
 
-{% include image.html src="/blog/food/2/boba/oh-bear.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/oh-bear.jpeg" size="40%" responsive="true" %}
 
 I saw on Yelp they had good reviews but when I went and tried it I was disappointed. It was just per normal. I really wanted to try their taiyaki, but at $6 for one, that is (incredibly) out of my price range.
 
@@ -191,7 +191,7 @@ I saw on Yelp they had good reviews but when I went and tried it I was disappoin
 
 **My order:** Large pudding milk tea 0% sugar, no ice for $5.25.
 
-{% include image.html src="/blog/food/2/boba/yifang.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/yifang.jpeg" size="40%" responsive="true" %}
 
 This place is a bit expensive. I don't think it is justified. Why am I even reviewing this lol. It's a chain and not specific to Seattle.
 
@@ -205,7 +205,7 @@ Chain/5
 
 **My order:** Roasted brown sugar milk tea with boba for $5.75.
 
-{% include image.html src="/blog/food/2/boba/lollicup.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/lollicup.jpeg" size="40%" responsive="true" %}
 
 This place is pretty good and but it does cost a little more. It's located right beside Kirkland transit center and it's pretty convenient to get to if you are in Kirkland. It's a nice local business and I like going to it.
 
@@ -219,7 +219,7 @@ This place is pretty good and but it does cost a little more. It's located right
 
 **My order:** Mango Matcha, 100% sugar (got 100% sugar by accident)
 
-{% include image.html src="/blog/food/2/boba/happy-lemon.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/happy-lemon.jpeg" size="40%" responsive="true" %}
 
 Why am I even reviewing this lol. It's a chain and not specific to Seattle.
 
@@ -233,7 +233,7 @@ Chain/5
 
 **My order:** Black sugar milk tea no ice, 25% sugar for $5.
 
-{% include image.html src="/blog/food/2/boba/tea-addicts.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/tea-addicts.jpeg" size="40%" responsive="true" %}
 
 This place had a "good" for health inspection (Not excellent) which kind of scared me, but I did want to try this place. Nothing really stood out to me about the tea. It is also on the more expensive end of teas on this list.
 
@@ -247,7 +247,7 @@ This place had a "good" for health inspection (Not excellent) which kind of scar
 
 **My order:** Ice cream in a bear cone.
 
-{% include image.html src="/blog/food/2/boba/drip-tea.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/drip-tea.jpeg" size="40%" responsive="true" %}
 
 This place is not only a bubble tea place but a (hypebeast) "concept store" selling clothing alongside bubble tea. It has drinks at a minimum of $5 up to $6 for designer drinks. I went pre-pandemic and I actually had their ice cream in bear cone.
 
@@ -261,7 +261,7 @@ NOT BBT/5
 
 **My order:** Traditional milk tea 0% sugar, 0% ice.
 
-{% include image.html src="/blog/food/2/boba/dont.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/dont.jpeg" size="40%" responsive="true" %}
 
 The award for the weirdest name for a bubble tea place is this place. "Don't yell at me" has other locations in Asia and I believe this is one of the first locations in North America. It can be grouped with "Drip Tea" as being a concept store selling clothes too. (I think?)
 
@@ -277,7 +277,7 @@ Solid tea and only slightly more expensive.
 
 **My order:** Honey matcha milk tea for $4.50
 
-{% include image.html src="/blog/food/2/boba/braganza.jpeg" size="40%" %}
+{% include image.html src="/blog/food/2/boba/braganza.jpeg" size="40%" responsive="true" %}
 
 I got this in the Braganza at Tukwilka mall. I didn't think it was that special.
 

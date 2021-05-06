@@ -1,1 +1,11 @@
+<!-- Args
+- responsive -> resize on mobile
+- src -> link of image
+- size -> size of desktop view
+-->
+
+{% if include.responsive == "true" %}
+<img class="responsive-image" src="/assets/lazy/lazy.png" data-echo="{{ include.src }}" width="{{ include.size }}" height="{{ include.size }}">
+{% else %}
 <img src="/assets/lazy/lazy.png" data-echo="{{ include.src }}" width="{{ include.size }}" height="{{ include.size }}">
+{% endif %}
