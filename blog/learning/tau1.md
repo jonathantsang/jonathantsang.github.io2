@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the best co-op streams at Uwaterloo?
+title: What are the best co-op streams at Uwaterloo?
 permalink: /tau1/
 category: learning
 tag: learning
