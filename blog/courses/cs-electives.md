@@ -6,7 +6,7 @@ permalink: /cs-courses/
 
 ### CS Electives
 
-My take on the cs electives I've taken. Loosely based on this: [http://shinexwang.com/cs-electives-review/](http://shinexwang.com/cs-electives-review/)
+My take on the cs electives I've taken. Loosely based on this: [http://shinexwang.com/cs-electives-review/](https://shinexwang.com/posts/cs-courses-review/)
 
 ### Courses I've taken
 
