@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What do to if you don't get in Waterloo CS
-permalink:
+permalink: /tau7/
 category: learning
 tag: learning
 date: 12/4/2020
