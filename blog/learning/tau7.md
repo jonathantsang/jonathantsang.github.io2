@@ -37,22 +37,26 @@ Here is an assortment of options I thought of if you truly are interested in doi
 
 ### Switching to Waterloo CS
 
-I don't particularly like this option (despite me switching into Waterloo CS). There have been a few changes since I switched into CS. It is much harder to switch into, keeping co-op is intensely hard to do, and switching universities to Waterloo adds an extra layer of complexity. You need good marks and good extracurriculars to do this. I don't have experience transferring into CS through the new stricter guidelines.
+I don't particularly like this option (despite me switching into Waterloo CS). There have been a few changes since I switched into CS. It is much harder to switch into, keeping co-op requires even higher marks to do so, and switching universities to Waterloo (if you weren't already at Waterloo) adds an extra layer of complexity. You need good marks and good extracurriculars to do this. I don't have experience transferring into CS through the new stricter guidelines. I have heard it requires talking about marks and other side projects that show aptitude for switching. I know a few people who went this route.
 
-Being in CS does not guarantee success. I know many people who got into CS but did not succeed due to inability to transition skillset and learning to university. Some people may view getting into CS as some "gold ticket to success" but it is far from the truth. You still need to put in immense amounts of work in the program to be successful.
+That being said, being in CS does not guarantee success. I know many people who got into CS and would later transfer out because they couldn't transition to learning in university. Some people may view getting into CS as some "gold ticket to success" but it is far from the truth. You still need to put in immense amounts of work in the program to be successful.
 
-### Going to another school for CS
+### Going to another school for CS (UBC, UofT, etc.)
 
-I would argue a lot of schools in Canada have comparable if not better CS programs (UofT, UBC) and some even have their own co-op programs now (UBC). Personally I think co-ops spread out is more valuable than 1 PEY (16 month internship at one company) which is what UofT does, but some work experience is better than nothing.
+I would argue a lot of schools in Canada have comparable if not better CS programs (UofT, UBC) and some even have their own co-op programs now (UBC). I think co-ops spread out over multiple periods are more valuable than 1 PEY (16 month internship at one company) which is what UofT does, but some work experience is better than nothing.
 
 Regardless of which school you go to you still have to try hard. Just because your school is ranked higher in some Maclean's ranking doesn't mean you are automatically better. Most Maclean's rankings are fake anyways. Google what Maclean's said is the most innovative university for 26 years running [Link](https://uwaterloo.ca/water-institute/news/macleans-names-waterloo-canadas-most-innovative-university).
 
-### College/Bootcamp/Side-Projects/Minor in CS etc.
+### Honours Math/Minor in CS etc.
 
-The opposite side of spectrum here is to try to make a CS career from a mix of smaller options like a minor in CS, College, Bootcamps, etc. I'm not qualified enough and I haven't seen enough cases where this totally works out but I think it can work out. I know people that couldn't stay in Waterloo CS and chose something comparable like `Computational Math` or `Honours Math` as general programs but maintained CS core competencies.
+What can happen is your dream university may defer you to a more broad and less specialized program. For example Uwaterloo math faculty may give you an offer for "Honours Math" or "Geomatics" instead of Computer Science. Depending on what you actually get it may range from relatively related to completely unrelated. Your mileage can vary based on what you originally wanted and what you actually get defered to.
+
+This is the opposite side of the spectrum where you try to make a CS career from a mix of smaller options like a minor in CS, "related" majors (honours math, stats, etc.), bootcamps, etc. I think this can work out but it requires a bit more work than the other options. Your major in college doesn't define you, and there are many people who may major in a topic only to work in tech and work on something completely different. 
+
+I know people that couldn't stay in Waterloo CS and chose something comparable like `Computational Math` or `Honours Math` as general programs but maintained CS core competencies. They were still able to do great things afterwards by continuing to work hard and putting more personal time into learning for courses that were "CS" specific (OS, algos, etc.)
 
 ### Final Thoughts
 
-Waterloo CS is a good program. It's far from perfect (\*cough cs245 \*cough). But it does prepare you for the real world in a lot of aspects. The job hunting in the co-op program forces you to interview and prepare for the real world.
+Waterloo CS is a good program. It's far from perfect (\*cough cs245 \*cough), but it does prepare you for the real world in a lot of aspects. The job hunting in the co-op program forces you to interview and prepare for the real world. The courses are decent and a mixed bag if you include potential professors and courseware.
 
-At a lot of my co-ops I had other co-ops from universities other than Waterloo. Places like UBC, UofT, Western, US schools, etc. They were able to get the same co-ops as me and in many cases more talented than me. Some people may place importance or prestige in their school/program but some of the most talented people I met went to other schools.
+At a lot of my co-ops I had other students from universities other than Waterloo. Places like UBC, UofT, Western, US schools, etc. They were able to get the same co-ops as me and in many cases more talented than me. Some people may place importance or prestige in their school/program but some of the most talented people I met went to other schools. I think at the end of the day even people from colleges I have never heard of can do great things. The bottom line is to just work hard and make sure that the program that you are in is something you are passionate about.
