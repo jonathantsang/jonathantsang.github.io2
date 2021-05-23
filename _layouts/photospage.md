@@ -22,7 +22,7 @@ div.img img {
   <div class="row">
     {% for image in site.static_files %}
         {% if image.path contains page.tag %}
-        <div class="col-sm-6 col-md-4">
+        <div class="col-sm-12 col-md-6 col-lg-4">
           <div class="img"><a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
           </div>
         </div>

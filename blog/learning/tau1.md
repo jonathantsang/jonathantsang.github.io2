@@ -4,7 +4,7 @@ title: What are the best co-op streams at Uwaterloo?
 permalink: /tau1/
 category: learning
 tag: learning
-date: 3/6/2017
+date: 2017-03-06
 order: 1
 finished: true
 ---

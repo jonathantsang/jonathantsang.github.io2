@@ -4,7 +4,7 @@ title: What is a Hackathon?
 permalink: /tau6/
 category: learning
 tag: learning
-date: 01/29/2020
+date: 2020-01-29
 order: 6
 finished: true
 ---

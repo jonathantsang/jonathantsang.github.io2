@@ -9,3 +9,8 @@
 {% else %}
 <img src="/assets/lazy/lazy.png" data-echo="{{ include.src }}" width="{{ include.size }}" height="{{ include.size }}">
 {% endif %}
+
+{% if include.caption %}
+<!-- Can include html snippets in the figcaption itself-->
+<figcaption>{{ include.caption }}</figcaption>
+{% endif %}

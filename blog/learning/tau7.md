@@ -4,7 +4,7 @@ title: What do to if you don't get in Waterloo CS
 permalink: /tau7/
 category: learning
 tag: learning
-date: 12/4/2020
+date: 2020-04-12
 order: 7
 finished: true
 ---
@@ -51,7 +51,7 @@ Regardless of which school you go to you still have to try hard. Just because yo
 
 What can happen is your dream university may defer you to a more broad and less specialized program. For example Uwaterloo math faculty may give you an offer for "Honours Math" or "Geomatics" instead of Computer Science. Depending on what you actually get it may range from relatively related to completely unrelated. Your mileage can vary based on what you originally wanted and what you actually get defered to.
 
-This is the opposite side of the spectrum where you try to make a CS career from a mix of smaller options like a minor in CS, "related" majors (honours math, stats, etc.), bootcamps, etc. I think this can work out but it requires a bit more work than the other options. Your major in college doesn't define you, and there are many people who may major in a topic only to work in tech and work on something completely different. 
+This is the opposite side of the spectrum where you try to make a CS career from a mix of smaller options like a minor in CS, "related" majors (honours math, stats, etc.), bootcamps, etc. I think this can work out but it requires a bit more work than the other options. Your major in college doesn't define you, and there are many people who may major in a topic only to work in tech and work on something completely different.
 
 I know people that couldn't stay in Waterloo CS and chose something comparable like `Computational Math` or `Honours Math` as general programs but maintained CS core competencies. They were still able to do great things afterwards by continuing to work hard and putting more personal time into learning for courses that were "CS" specific (OS, algos, etc.)
 

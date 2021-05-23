@@ -4,7 +4,7 @@ title: How to make side projects
 permalink: /tau3/
 category: learning
 tag: learning
-date: 14/6/2017
+date: 2017-06-14
 order: 3
 finished: true
 ---

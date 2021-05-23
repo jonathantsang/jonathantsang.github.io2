@@ -4,7 +4,7 @@ title: The full story behind the Okta Smash Tournament
 permalink: /stories8/
 category: stories
 tag: stories
-date: 03/14/2021
+date: 2021-03-14
 order: 8
 finished: true
 ---

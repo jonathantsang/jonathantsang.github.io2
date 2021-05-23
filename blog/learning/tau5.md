@@ -4,7 +4,7 @@ title: What are Co-op evaluations?
 permalink: /tau5/
 category: learning
 tag: learning
-date: 01/8/2017
+date: 2017-01-08
 order: 5
 finished: true
 ---

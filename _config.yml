@@ -19,9 +19,13 @@ navbar-links:
   Blog: "blog"
   My Story: "my-story"
   Competitive Programming: "cp"
-  CS Courses: "cs-courses"
-  Hackathons: "hackathons"
-  Notes: "notes"
+  Deprecated Pages:
+    - Hackathons I went to: "hackathons"
+    - My 4th year CS course ratings: "cs-courses"
+    - Random Notes from undergrad: "notes"
+  Contact Me: "contact-me"
+
+
 
 # --- Logo --- #
 
@@ -44,7 +48,7 @@ navbar-links:
 social-network-links:
   email: "someone@example.com"
 #  facebook: deanattali
-  github: daattali
+  github: jonathantsang
 #  twitter: daattali
 #  reddit: yourname
   linkedin: jonathan-tsang
@@ -91,7 +95,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "cs,coding,python,c++,competitive programming"
+keywords: "uwaterloo,undergrad,cs,coding,python,c++,competitive programming"
 
 # --- Colours / background image --- #
 
@@ -227,3 +231,4 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
