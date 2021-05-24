@@ -236,7 +236,7 @@ Did a coding challenge and onsite in Menlo Park. Solved all questions. Weakest a
 Did one phone interview round. Solved it completely with extra time to spare and explanations. **Rejected**
 
 #### Databricks - SF - Software Engineer New Grad
-Did phone screen and onsite in SF. Rejected due to not solving assembly question about pointers and memory assignment. No algorithm questions were asked it wa all implementation. **Rejected**
+Did phone screen and onsite in SF. Rejected due to not solving assembly question about pointers and memory assignment. No algorithm questions were asked it was all implementation. **Rejected**
 
 #### Axon - Seattle - Software Engineer Intern
 Did phone screen with easy algorithm question on backtracking. **Offer but turned down**
